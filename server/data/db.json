@@ -137,6 +137,350 @@
       "createdAt": "2021-02-03T02:39:02Z"
     },
     {
+      "author": 12408980,
+      "message": "chore: Pre commit configuration (#17)",
+      "sha": "a914a17ff5c8ef514215cc41b3dd642e06626919",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-08-11T11:00:54Z"
+    },
+    {
+      "author": 12408980,
+      "message": "chore: Add categorisation in utils (#16)",
+      "sha": "e5cdd460e735861c8e9e300ab9eeb10c27809a84",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-08-09T06:37:08Z"
+    },
+    {
+      "author": 1277421,
+      "message": "feat: Add `debounce` function (#14)\n\n* feat: adds debounce function\r\n\r\n* chore: Apply linter\r\n\r\n* chore: Bump version to v0.0.8\r\n\r\nCo-authored-by: Muhsin Keloth <muhsinkeramam@gmail.com>",
+      "sha": "22f27f8876c02e3c8d05db667ff757086de8ac39",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-08-09T04:22:01Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Bump version to v0.0.7",
+      "sha": "11bb81783e63f1a7b30577ef805ad6bb9ea65138",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-08-07T18:42:29Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Add trimContent method (#15)",
+      "sha": "13250e7402b7dbdbd7275422bcfa853010ceca9d",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-08-07T18:40:41Z"
+    },
+    {
+      "author": 5848740,
+      "message": "chore: Upgrade version to 0.0.6 (#13)",
+      "sha": "fb441ea6095a92d0c88ca9606be19ee02a30b95d",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-04-05T10:21:48Z"
+    },
+    {
+      "author": 5848740,
+      "message": "fix: Update formatTime helper (#12)\n\n* Add time format helper\r\n\r\n* update formatTime helper",
+      "sha": "093387a972268d741db1230a078e2a2d47fc0a2e",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-04-05T10:07:16Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Upgrade version to 0.0.5",
+      "sha": "e22e7e755129454eae4bf97669b797f6d6cc7906",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-02-28T12:50:28Z"
+    },
+    {
+      "author": 5848740,
+      "message": "feat: Add time format helper (#11)\n\n\r\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
+      "sha": "ff2d3bc853ded4024a7c5720af7ed8aa1ae97614",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-02-28T07:32:45Z"
+    },
+    {
+      "author": 12408980,
+      "message": "feat: Add date helpers (#10)",
+      "sha": "343e9c09037f51fca60254b3d2c28708aa7e83a5",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2021-11-30T08:58:16Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Update the URL to utils.chatwoot.cm",
+      "sha": "0de55fa1b1daa9d8e51fd5e4107e405fa013760e",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2021-06-05T12:52:13Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Change docs path (#9)",
+      "sha": "3540da3d28043904691764e7e1b4b988cb9438a5",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2021-06-04T09:29:09Z"
+    },
+    {
+      "author": 12408980,
+      "message": "chore: Add docs (#8)\n\n* add typedocs\r\n\r\n* add readme file",
+      "sha": "40e6ef7160ee1fe33ff8e8c3c2f8c3295ed65b14",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2021-06-02T07:44:08Z"
+    },
+    {
+      "author": 12408980,
+      "message": "chore: Add docs",
+      "sha": "fef4eb4b94ffce84fca0709a7c48f677b177223e",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2021-05-20T14:07:05Z"
+    },
+    {
+      "author": 12408980,
+      "message": "release: v0.0.3 (#5)",
+      "sha": "e3ac6fcb3f0ce51fc4bf7071ab2c0ffedfdfcf0f",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2021-05-20T09:10:37Z"
+    },
+    {
+      "author": 12408980,
+      "message": "feat: Add contrasting color helper (#4)",
+      "sha": "ba880debd9ff368a791b3122bc4b29d35343478f",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2021-05-20T07:21:26Z"
+    },
+    {
+      "author": 12408980,
+      "message": ":tada: first commit",
+      "sha": "d4a96234af36d44f05500d8c3ca3ad5b172b8651",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2021-05-20T06:48:56Z"
+    },
+    {
+      "author": 15716057,
+      "message": "Adds async defer attrs to the script tag (#6)",
+      "sha": "aa90c693a03d2d31ae8b4fa6ae7ae0272309ae54",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2021-09-21T08:58:32Z"
+    },
+    {
+      "author": 15872348,
+      "message": "1.1.0",
+      "sha": "fcdaf72e5d3b76553d4d9934d474820d06049578",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-08-11T19:45:59Z"
+    },
+    {
+      "author": 15872348,
+      "message": "Merge pull request #5 from pranavrajs/feature/chatwoot-settings\n\nfeat: Add options to pass chatwootSettings",
+      "sha": "42627dbe5a5628bfaf1018eea0ded2320cae8350",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-08-11T19:44:52Z"
+    },
+    {
+      "author": 2246121,
+      "message": "Stringify settings",
+      "sha": "faa0917abcc337b4ecb5b2606b0a7e247314485b",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-08-11T06:45:56Z"
+    },
+    {
+      "author": 2246121,
+      "message": "Add chatwootSettings",
+      "sha": "cba43d631f39a101c8a47dce0b6213fbd47ce0ae",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-08-11T06:39:18Z"
+    },
+    {
+      "author": 15872348,
+      "message": "Merge pull request #4 from akshitkrnagpal/all-contributors/add-pranavrajs\n\ndocs: add pranavrajs as a contributor",
+      "sha": "7c61e548f5c84400ad391c8d6b4276bee664a9e4",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-07-06T11:10:54Z"
+    },
+    {
+      "author": 46447321,
+      "message": "docs: update .all-contributorsrc [skip ci]",
+      "sha": "fe9f9dda27fe44252e100be750147bda5e861b0a",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-07-06T11:10:28Z"
+    },
+    {
+      "author": 46447321,
+      "message": "docs: update README.md [skip ci]",
+      "sha": "aa27fcdc92635b6c3037bf76cc108cffa65265f5",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-07-06T11:10:27Z"
+    },
+    {
+      "author": 15872348,
+      "message": "v1.0.6",
+      "sha": "4fb5e4f78cb9c7836b1677ddfb4a378a1b75bbc7",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-07-06T11:05:53Z"
+    },
+    {
+      "author": 15872348,
+      "message": "Merge pull request #3 from pranavrajs/patch-1\n\nFix the warning even if the base url is set correctly",
+      "sha": "0601630657fcae4a9123a4ed3c0489efaf17b60a",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-07-06T11:02:54Z"
+    },
+    {
+      "author": 2246121,
+      "message": "Fix the warning even if the base url is set correctly",
+      "sha": "31686a3521ba066c84c2a168035339fc7f929015",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-07-06T08:26:45Z"
+    },
+    {
+      "author": 15872348,
+      "message": "Update FUNDING.yml",
+      "sha": "076eb87c57ff2263676770b396ddbeba8ecdd39f",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-06-20T00:37:57Z"
+    },
+    {
+      "author": 15872348,
+      "message": "v1.0.5",
+      "sha": "cd78682cc1b827d9470160f95a1f08f2edd6df2f",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-01-26T05:54:07Z"
+    },
+    {
+      "author": 15872348,
+      "message": "Remove Keyword",
+      "sha": "5604d270ad5b86d9d28f0202fe3b805ec306b82c",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-01-26T05:53:52Z"
+    },
+    {
+      "author": 15872348,
+      "message": "v1.0.4",
+      "sha": "775c13c4277426613231d67a24f9737e48cfb026",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-01-26T05:44:30Z"
+    },
+    {
+      "author": 15872348,
+      "message": "v1.0.3",
+      "sha": "200c56c5f3de93c8acfa7b9fbb2c681df9119b7e",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-01-26T05:34:30Z"
+    },
+    {
+      "author": 15872348,
+      "message": "v1.0.2",
+      "sha": "73260fc673f51d8aefd8b7e2cea706813f66cc60",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-01-26T05:27:09Z"
+    },
+    {
+      "author": 15872348,
+      "message": "Bump version",
+      "sha": "10812e8ac94a056dd39e16342998fc75578ff915",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-01-26T05:08:26Z"
+    },
+    {
+      "author": 15872348,
+      "message": "Update README.md",
+      "sha": "44cd3c025d79e12822663895dc2f14f26e42b06b",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-01-26T05:01:58Z"
+    },
+    {
+      "author": 15872348,
+      "message": "Update npmpublish.yml",
+      "sha": "cd0c7e4410b6b9da4984d28628f530e43518ec1f",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-01-26T04:57:24Z"
+    },
+    {
+      "author": 46447321,
+      "message": "docs: add akshitkrnagpal as a contributor (#2)",
+      "sha": "ecdd05f1914ca9b1d4b0c0813cde95d372a9c2fa",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-01-26T04:21:20Z"
+    },
+    {
+      "author": 15872348,
+      "message": "Create LICENSE",
+      "sha": "677e287dcfd580406828dc0021f83bde74cf21fc",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-01-26T04:09:36Z"
+    },
+    {
+      "author": 15872348,
+      "message": "Create FUNDING.yml",
+      "sha": "4699c9d441f59338ad39fc90e4465bcf7f020946",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-01-25T05:18:09Z"
+    },
+    {
+      "author": 15872348,
+      "message": "Create npmpublish.yml",
+      "sha": "2c37e9c15ac12abd09690a999b149290ae785848",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-01-25T05:18:09Z"
+    },
+    {
+      "author": 15872348,
+      "message": "Add Readme",
+      "sha": "92b4b4c09bd061c3d1cb6c7457b1ca132c1173ec",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-01-25T05:18:09Z"
+    },
+    {
+      "author": 15872348,
+      "message": "Initial Commit",
+      "sha": "93dec3139072620c33c897a25c19a3b6c9614289",
+      "orgName": "chatwoot",
+      "repoName": "gatsby-plugin-chatwoot",
+      "createdAt": "2020-01-25T05:18:09Z"
+    },
+    {
       "author": 4143552,
       "message": "fix #12",
       "sha": "5451e87dada16f7457b70fb8672f30429677b9e2",
@@ -985,142 +1329,6 @@
       "createdAt": "2021-03-05T14:56:17Z"
     },
     {
-      "author": 12408980,
-      "message": "chore: Pre commit configuration (#17)",
-      "sha": "a914a17ff5c8ef514215cc41b3dd642e06626919",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-08-11T11:00:54Z"
-    },
-    {
-      "author": 12408980,
-      "message": "chore: Add categorisation in utils (#16)",
-      "sha": "e5cdd460e735861c8e9e300ab9eeb10c27809a84",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-08-09T06:37:08Z"
-    },
-    {
-      "author": 1277421,
-      "message": "feat: Add `debounce` function (#14)\n\n* feat: adds debounce function\r\n\r\n* chore: Apply linter\r\n\r\n* chore: Bump version to v0.0.8\r\n\r\nCo-authored-by: Muhsin Keloth <muhsinkeramam@gmail.com>",
-      "sha": "22f27f8876c02e3c8d05db667ff757086de8ac39",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-08-09T04:22:01Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Bump version to v0.0.7",
-      "sha": "11bb81783e63f1a7b30577ef805ad6bb9ea65138",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-08-07T18:42:29Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Add trimContent method (#15)",
-      "sha": "13250e7402b7dbdbd7275422bcfa853010ceca9d",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-08-07T18:40:41Z"
-    },
-    {
-      "author": 5848740,
-      "message": "chore: Upgrade version to 0.0.6 (#13)",
-      "sha": "fb441ea6095a92d0c88ca9606be19ee02a30b95d",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-04-05T10:21:48Z"
-    },
-    {
-      "author": 5848740,
-      "message": "fix: Update formatTime helper (#12)\n\n* Add time format helper\r\n\r\n* update formatTime helper",
-      "sha": "093387a972268d741db1230a078e2a2d47fc0a2e",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-04-05T10:07:16Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Upgrade version to 0.0.5",
-      "sha": "e22e7e755129454eae4bf97669b797f6d6cc7906",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-02-28T12:50:28Z"
-    },
-    {
-      "author": 5848740,
-      "message": "feat: Add time format helper (#11)\n\n\r\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
-      "sha": "ff2d3bc853ded4024a7c5720af7ed8aa1ae97614",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-02-28T07:32:45Z"
-    },
-    {
-      "author": 12408980,
-      "message": "feat: Add date helpers (#10)",
-      "sha": "343e9c09037f51fca60254b3d2c28708aa7e83a5",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2021-11-30T08:58:16Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Update the URL to utils.chatwoot.cm",
-      "sha": "0de55fa1b1daa9d8e51fd5e4107e405fa013760e",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2021-06-05T12:52:13Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Change docs path (#9)",
-      "sha": "3540da3d28043904691764e7e1b4b988cb9438a5",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2021-06-04T09:29:09Z"
-    },
-    {
-      "author": 12408980,
-      "message": "chore: Add docs (#8)\n\n* add typedocs\r\n\r\n* add readme file",
-      "sha": "40e6ef7160ee1fe33ff8e8c3c2f8c3295ed65b14",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2021-06-02T07:44:08Z"
-    },
-    {
-      "author": 12408980,
-      "message": "chore: Add docs",
-      "sha": "fef4eb4b94ffce84fca0709a7c48f677b177223e",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2021-05-20T14:07:05Z"
-    },
-    {
-      "author": 12408980,
-      "message": "release: v0.0.3 (#5)",
-      "sha": "e3ac6fcb3f0ce51fc4bf7071ab2c0ffedfdfcf0f",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2021-05-20T09:10:37Z"
-    },
-    {
-      "author": 12408980,
-      "message": "feat: Add contrasting color helper (#4)",
-      "sha": "ba880debd9ff368a791b3122bc4b29d35343478f",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2021-05-20T07:21:26Z"
-    },
-    {
-      "author": 12408980,
-      "message": ":tada: first commit",
-      "sha": "d4a96234af36d44f05500d8c3ca3ad5b172b8651",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2021-05-20T06:48:56Z"
-    },
-    {
       "author": 64605024,
       "message": "feat: Added method for user_show (#26)",
       "sha": "ba4ab612a55db71c3ced9dd9637a46f184cde77c",
@@ -1329,436 +1537,20 @@
       "createdAt": "2020-01-22T14:18:59Z"
     },
     {
-      "author": 15716057,
-      "message": "Adds async defer attrs to the script tag (#6)",
-      "sha": "aa90c693a03d2d31ae8b4fa6ae7ae0272309ae54",
+      "author": 10827585,
+      "message": " feat: Fetching the portal data related to a specific custom domain (#5249)",
+      "sha": "db73d033b718f2cd7b400f3ce5c58d06299b9dda",
       "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2021-09-21T08:58:32Z"
+      "repoName": "chatwoot",
+      "createdAt": "2022-09-07T06:52:24Z"
     },
     {
-      "author": 15872348,
-      "message": "1.1.0",
-      "sha": "fcdaf72e5d3b76553d4d9934d474820d06049578",
+      "author": 10827585,
+      "message": "fix: Track Imap exception in sentry (#5397)",
+      "sha": "6574407636e3eca5c57984146832793def998781",
       "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-08-11T19:45:59Z"
-    },
-    {
-      "author": 15872348,
-      "message": "Merge pull request #5 from pranavrajs/feature/chatwoot-settings\n\nfeat: Add options to pass chatwootSettings",
-      "sha": "42627dbe5a5628bfaf1018eea0ded2320cae8350",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-08-11T19:44:52Z"
-    },
-    {
-      "author": 2246121,
-      "message": "Stringify settings",
-      "sha": "faa0917abcc337b4ecb5b2606b0a7e247314485b",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-08-11T06:45:56Z"
-    },
-    {
-      "author": 2246121,
-      "message": "Add chatwootSettings",
-      "sha": "cba43d631f39a101c8a47dce0b6213fbd47ce0ae",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-08-11T06:39:18Z"
-    },
-    {
-      "author": 15872348,
-      "message": "Merge pull request #4 from akshitkrnagpal/all-contributors/add-pranavrajs\n\ndocs: add pranavrajs as a contributor",
-      "sha": "7c61e548f5c84400ad391c8d6b4276bee664a9e4",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-07-06T11:10:54Z"
-    },
-    {
-      "author": 46447321,
-      "message": "docs: update .all-contributorsrc [skip ci]",
-      "sha": "fe9f9dda27fe44252e100be750147bda5e861b0a",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-07-06T11:10:28Z"
-    },
-    {
-      "author": 46447321,
-      "message": "docs: update README.md [skip ci]",
-      "sha": "aa27fcdc92635b6c3037bf76cc108cffa65265f5",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-07-06T11:10:27Z"
-    },
-    {
-      "author": 15872348,
-      "message": "v1.0.6",
-      "sha": "4fb5e4f78cb9c7836b1677ddfb4a378a1b75bbc7",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-07-06T11:05:53Z"
-    },
-    {
-      "author": 15872348,
-      "message": "Merge pull request #3 from pranavrajs/patch-1\n\nFix the warning even if the base url is set correctly",
-      "sha": "0601630657fcae4a9123a4ed3c0489efaf17b60a",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-07-06T11:02:54Z"
-    },
-    {
-      "author": 2246121,
-      "message": "Fix the warning even if the base url is set correctly",
-      "sha": "31686a3521ba066c84c2a168035339fc7f929015",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-07-06T08:26:45Z"
-    },
-    {
-      "author": 15872348,
-      "message": "Update FUNDING.yml",
-      "sha": "076eb87c57ff2263676770b396ddbeba8ecdd39f",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-06-20T00:37:57Z"
-    },
-    {
-      "author": 15872348,
-      "message": "v1.0.5",
-      "sha": "cd78682cc1b827d9470160f95a1f08f2edd6df2f",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-01-26T05:54:07Z"
-    },
-    {
-      "author": 15872348,
-      "message": "Remove Keyword",
-      "sha": "5604d270ad5b86d9d28f0202fe3b805ec306b82c",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-01-26T05:53:52Z"
-    },
-    {
-      "author": 15872348,
-      "message": "v1.0.4",
-      "sha": "775c13c4277426613231d67a24f9737e48cfb026",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-01-26T05:44:30Z"
-    },
-    {
-      "author": 15872348,
-      "message": "v1.0.3",
-      "sha": "200c56c5f3de93c8acfa7b9fbb2c681df9119b7e",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-01-26T05:34:30Z"
-    },
-    {
-      "author": 15872348,
-      "message": "v1.0.2",
-      "sha": "73260fc673f51d8aefd8b7e2cea706813f66cc60",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-01-26T05:27:09Z"
-    },
-    {
-      "author": 15872348,
-      "message": "Bump version",
-      "sha": "10812e8ac94a056dd39e16342998fc75578ff915",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-01-26T05:08:26Z"
-    },
-    {
-      "author": 15872348,
-      "message": "Update README.md",
-      "sha": "44cd3c025d79e12822663895dc2f14f26e42b06b",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-01-26T05:01:58Z"
-    },
-    {
-      "author": 15872348,
-      "message": "Update npmpublish.yml",
-      "sha": "cd0c7e4410b6b9da4984d28628f530e43518ec1f",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-01-26T04:57:24Z"
-    },
-    {
-      "author": 46447321,
-      "message": "docs: add akshitkrnagpal as a contributor (#2)",
-      "sha": "ecdd05f1914ca9b1d4b0c0813cde95d372a9c2fa",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-01-26T04:21:20Z"
-    },
-    {
-      "author": 15872348,
-      "message": "Create LICENSE",
-      "sha": "677e287dcfd580406828dc0021f83bde74cf21fc",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-01-26T04:09:36Z"
-    },
-    {
-      "author": 15872348,
-      "message": "Create FUNDING.yml",
-      "sha": "4699c9d441f59338ad39fc90e4465bcf7f020946",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-01-25T05:18:09Z"
-    },
-    {
-      "author": 15872348,
-      "message": "Create npmpublish.yml",
-      "sha": "2c37e9c15ac12abd09690a999b149290ae785848",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-01-25T05:18:09Z"
-    },
-    {
-      "author": 15872348,
-      "message": "Add Readme",
-      "sha": "92b4b4c09bd061c3d1cb6c7457b1ca132c1173ec",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-01-25T05:18:09Z"
-    },
-    {
-      "author": 15872348,
-      "message": "Initial Commit",
-      "sha": "93dec3139072620c33c897a25c19a3b6c9614289",
-      "orgName": "chatwoot",
-      "repoName": "gatsby-plugin-chatwoot",
-      "createdAt": "2020-01-25T05:18:09Z"
-    },
-    {
-      "author": 3526167,
-      "message": "update instructions for cloudron FRONTEND_URL",
-      "sha": "899877eb2e44a401eab92395e78414d6c85c53ac",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-15T07:42:55Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix .env file being reset on restarts",
-      "sha": "d9af3ccab5a0ef66fa16e8df0ba31ccef63a99f3",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-15T07:26:15Z"
-    },
-    {
-      "author": 3526167,
-      "message": "remove emojis from title",
-      "sha": "bdf232288736e6110453b1e4f25cd64d48f625d7",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-14T17:17:32Z"
-    },
-    {
-      "author": 3526167,
-      "message": "update changelog",
-      "sha": "1cf44501d9017dfb53d0e06d17ae71806a8280f6",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-14T11:45:45Z"
-    },
-    {
-      "author": 3526167,
-      "message": "add description, postinstall and changelog",
-      "sha": "983d50efa37e1b78de0a148dcbfc615a52ca5a27",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-14T11:45:04Z"
-    },
-    {
-      "author": 3526167,
-      "message": "update cloudron manifest file",
-      "sha": "c1b765d82f5bf11b0e61ee5227339da164b40a4a",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-14T11:34:58Z"
-    },
-    {
-      "author": 3526167,
-      "message": "update .env file",
-      "sha": "dc0452f82da56951b0a34838531e39be6c00d702",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-14T10:56:48Z"
-    },
-    {
-      "author": 3526167,
-      "message": "update readme",
-      "sha": "92d172ac14b61267bf617075d88c8a73aed0615a",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-13T15:22:06Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix default env vars",
-      "sha": "c472efca5f5a1c625619a9fb77e86320fd82bd73",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-13T15:21:55Z"
-    },
-    {
-      "author": 3526167,
-      "message": "add .env file",
-      "sha": "962fc72717fe2410e8b75a4c377bf89147e7ca70",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-13T09:08:25Z"
-    },
-    {
-      "author": 3526167,
-      "message": "get basic version working on cloudron  #1",
-      "sha": "973a3de701cd7c2dca3506cc36d501fc0cd02503",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-10T18:57:52Z"
-    },
-    {
-      "author": 3526167,
-      "message": "get basic version working on cloudron",
-      "sha": "13ac73ae9e0884c44da190c5a3231cc64cddef6a",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-10T18:56:35Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix rails restart - increase memlimit to 2.5GB",
-      "sha": "53717cb3683df7818dcf6270b4a9decd3eedce4f",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-10T18:47:20Z"
-    },
-    {
-      "author": 3526167,
-      "message": "modify chatwoot web supervisord conf",
-      "sha": "c77d4176cda4060ea9712cc5f5410d624bd24d60",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-10T18:27:02Z"
-    },
-    {
-      "author": 3526167,
-      "message": "update start.sh",
-      "sha": "1b23057c21f9ec800239343d7af08005a56ef5cd",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-10T15:38:13Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix puma tmp path",
-      "sha": "573cc79c4549ea44ca78efd79a41983bb96a07d5",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-10T15:21:55Z"
-    },
-    {
-      "author": 3526167,
-      "message": "add db migration step",
-      "sha": "4d0d206d7884e1244e466c58cb0bc9603b17e9fc",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-10T14:52:39Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix redis and postgres",
-      "sha": "370b9beed484c8d04018b05b427ed6faa8d655ac",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-10T14:19:10Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix redis creds",
-      "sha": "f9dac2aaac3a2fb39e62570b1776ea1fea438fb9",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-10T13:26:23Z"
-    },
-    {
-      "author": 3526167,
-      "message": "add postgres and redis addon",
-      "sha": "64b00b25bc97527131b0d988e17a59c3f3fc4105",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-08T15:27:05Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix supervisord",
-      "sha": "1cdfc57f44f6fb69fab46caa589fc2a524b4dc54",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-08T15:23:24Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix permissions and supervisord conf",
-      "sha": "246ad52be5259fbcb12dd0c19eacd84fe9784d06",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-08T14:07:03Z"
-    },
-    {
-      "author": 3526167,
-      "message": "add id to cloudronmanifest",
-      "sha": "8893549653a0b8dce32fd978e0a4e44ce6323741",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-08T13:35:41Z"
-    },
-    {
-      "author": 3526167,
-      "message": "add supervisord configs",
-      "sha": "0805700a3825cfa5ae84dfd17a32736b00e65f27",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-08T13:32:07Z"
-    },
-    {
-      "author": 3526167,
-      "message": "add make file",
-      "sha": "040bfa0af3d872aa7d326df4ed9369d9808c01cb",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-08T12:53:47Z"
-    },
-    {
-      "author": 3526167,
-      "message": "init dockerfile and supervisord",
-      "sha": "e892bee55aca8a5ffe470a59ebbf47e08c8916f4",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-06T15:00:12Z"
-    },
-    {
-      "author": 3526167,
-      "message": "add license",
-      "sha": "b7805110bfb42d435bafeb9e9268c7d0aac2d6f6",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-02T14:04:11Z"
-    },
-    {
-      "author": 3526167,
-      "message": "init",
-      "sha": "5f4f4f1b1ff44e20fde4421f0ddfcd0bd89997bb",
-      "orgName": "chatwoot",
-      "repoName": "cloudron-chatwoot",
-      "createdAt": "2021-09-02T14:01:02Z"
+      "repoName": "chatwoot",
+      "createdAt": "2022-09-07T06:11:56Z"
     },
     {
       "author": 73185,
@@ -2545,20 +2337,780 @@
       "createdAt": "2022-07-27T09:07:55Z"
     },
     {
-      "author": 15716057,
-      "message": "feat: Portal Switch component (#5008)",
-      "sha": "ce66b314229b4252f45ab149717cc112591a3d98",
+      "author": 3526167,
+      "message": "update instructions for cloudron FRONTEND_URL",
+      "sha": "899877eb2e44a401eab92395e78414d6c85c53ac",
       "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-07-27T08:26:49Z"
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-15T07:42:55Z"
     },
     {
-      "author": 12408980,
-      "message": "feat: Article list view page (#5122)",
-      "sha": "6368f9106a8ae5faab6020fe1dcd0a8dabf67a1d",
+      "author": 3526167,
+      "message": "fix .env file being reset on restarts",
+      "sha": "d9af3ccab5a0ef66fa16e8df0ba31ccef63a99f3",
       "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-07-27T07:38:27Z"
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-15T07:26:15Z"
+    },
+    {
+      "author": 3526167,
+      "message": "remove emojis from title",
+      "sha": "bdf232288736e6110453b1e4f25cd64d48f625d7",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-14T17:17:32Z"
+    },
+    {
+      "author": 3526167,
+      "message": "update changelog",
+      "sha": "1cf44501d9017dfb53d0e06d17ae71806a8280f6",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-14T11:45:45Z"
+    },
+    {
+      "author": 3526167,
+      "message": "add description, postinstall and changelog",
+      "sha": "983d50efa37e1b78de0a148dcbfc615a52ca5a27",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-14T11:45:04Z"
+    },
+    {
+      "author": 3526167,
+      "message": "update cloudron manifest file",
+      "sha": "c1b765d82f5bf11b0e61ee5227339da164b40a4a",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-14T11:34:58Z"
+    },
+    {
+      "author": 3526167,
+      "message": "update .env file",
+      "sha": "dc0452f82da56951b0a34838531e39be6c00d702",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-14T10:56:48Z"
+    },
+    {
+      "author": 3526167,
+      "message": "update readme",
+      "sha": "92d172ac14b61267bf617075d88c8a73aed0615a",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-13T15:22:06Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix default env vars",
+      "sha": "c472efca5f5a1c625619a9fb77e86320fd82bd73",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-13T15:21:55Z"
+    },
+    {
+      "author": 3526167,
+      "message": "add .env file",
+      "sha": "962fc72717fe2410e8b75a4c377bf89147e7ca70",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-13T09:08:25Z"
+    },
+    {
+      "author": 3526167,
+      "message": "get basic version working on cloudron  #1",
+      "sha": "973a3de701cd7c2dca3506cc36d501fc0cd02503",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-10T18:57:52Z"
+    },
+    {
+      "author": 3526167,
+      "message": "get basic version working on cloudron",
+      "sha": "13ac73ae9e0884c44da190c5a3231cc64cddef6a",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-10T18:56:35Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix rails restart - increase memlimit to 2.5GB",
+      "sha": "53717cb3683df7818dcf6270b4a9decd3eedce4f",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-10T18:47:20Z"
+    },
+    {
+      "author": 3526167,
+      "message": "modify chatwoot web supervisord conf",
+      "sha": "c77d4176cda4060ea9712cc5f5410d624bd24d60",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-10T18:27:02Z"
+    },
+    {
+      "author": 3526167,
+      "message": "update start.sh",
+      "sha": "1b23057c21f9ec800239343d7af08005a56ef5cd",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-10T15:38:13Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix puma tmp path",
+      "sha": "573cc79c4549ea44ca78efd79a41983bb96a07d5",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-10T15:21:55Z"
+    },
+    {
+      "author": 3526167,
+      "message": "add db migration step",
+      "sha": "4d0d206d7884e1244e466c58cb0bc9603b17e9fc",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-10T14:52:39Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix redis and postgres",
+      "sha": "370b9beed484c8d04018b05b427ed6faa8d655ac",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-10T14:19:10Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix redis creds",
+      "sha": "f9dac2aaac3a2fb39e62570b1776ea1fea438fb9",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-10T13:26:23Z"
+    },
+    {
+      "author": 3526167,
+      "message": "add postgres and redis addon",
+      "sha": "64b00b25bc97527131b0d988e17a59c3f3fc4105",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-08T15:27:05Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix supervisord",
+      "sha": "1cdfc57f44f6fb69fab46caa589fc2a524b4dc54",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-08T15:23:24Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix permissions and supervisord conf",
+      "sha": "246ad52be5259fbcb12dd0c19eacd84fe9784d06",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-08T14:07:03Z"
+    },
+    {
+      "author": 3526167,
+      "message": "add id to cloudronmanifest",
+      "sha": "8893549653a0b8dce32fd978e0a4e44ce6323741",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-08T13:35:41Z"
+    },
+    {
+      "author": 3526167,
+      "message": "add supervisord configs",
+      "sha": "0805700a3825cfa5ae84dfd17a32736b00e65f27",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-08T13:32:07Z"
+    },
+    {
+      "author": 3526167,
+      "message": "add make file",
+      "sha": "040bfa0af3d872aa7d326df4ed9369d9808c01cb",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-08T12:53:47Z"
+    },
+    {
+      "author": 3526167,
+      "message": "init dockerfile and supervisord",
+      "sha": "e892bee55aca8a5ffe470a59ebbf47e08c8916f4",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-06T15:00:12Z"
+    },
+    {
+      "author": 3526167,
+      "message": "add license",
+      "sha": "b7805110bfb42d435bafeb9e9268c7d0aac2d6f6",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-02T14:04:11Z"
+    },
+    {
+      "author": 3526167,
+      "message": "init",
+      "sha": "5f4f4f1b1ff44e20fde4421f0ddfcd0bd89997bb",
+      "orgName": "chatwoot",
+      "repoName": "cloudron-chatwoot",
+      "createdAt": "2021-09-02T14:01:02Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v2.8.1 (#75)",
+      "sha": "aca14cb2c24a37ab0929a4f879819b2882b2c6e0",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-08-18T13:22:22Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v2.8.0 (#74)",
+      "sha": "da82b29667457f0f2f7e70482d13bb8d2814082b",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-08-18T12:46:40Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: upgrade postgres and redis subcharts (#67)\n\n* feat: upgrade postgres and redis subcharts\r\n\r\n* fix: modify postgres auth variables in values.yaml\r\n\r\n* chore: modify postgres/redis auth variables to match latest bitnami spec\r\n\r\n* doc: update readme for v1 upgrade",
+      "sha": "2c3fdf91c9ca6e5668a63aa2e7fb41a418b502f3",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-08-08T14:17:09Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: add autoscaling to web and worker pods (#73)\n\n* feat: add hpa autoscaling for web and worker\r\n\r\n* chore: set default redis replica count to 1\r\n\r\n* feat: switch hpa to autoscaling/v2\r\n\r\n* chore: update README with hpa parameters\r\n\r\n* chore: remove trailing spaces\r\n\r\n* chore: add upgrade instructions to readme",
+      "sha": "da3d62469e795be0b367e3ba769b6c64fc06e26b",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-07-30T12:20:32Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v2.7.0 (#70)",
+      "sha": "202730fefc5e270519b964606a1f628a95a84b5f",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-07-21T18:47:48Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix: failing gh actions for testing and releasing charts (#66)\n\n* chore: increment chart version\r\n\r\n* fix: change bitnami index to pre-2022\r\n\r\n* fix: update gh actions to use pre-2022 bitnami index",
+      "sha": "fd513da4d47696dd5ba8536ce30f6f54102d4cff",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-06-21T13:57:25Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v2.6.0 (#64)",
+      "sha": "0cf8b4eff5b53193aee47ce2f58e6ec93234223c",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-06-17T14:36:53Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v2.5.0 (#63)\n\nhttps://github.com/chatwoot/chatwoot/releases/tag/v2.5.0",
+      "sha": "13ec636effad3df4813ab47411c357c0e7d6f8ca",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-05-17T10:58:47Z"
+    },
+    {
+      "author": 3526167,
+      "message": "chore: fix url in readme",
+      "sha": "c3f3d3b06bc84024ebd1ce37220655639b91087b",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-05-11T10:35:50Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v2.4.1 (#60)",
+      "sha": "8644572eac23157cf72b12ef67e97f432abe9dcc",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-04-21T18:30:09Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v2.4.0 (#59)\n\n* feat: update charts to chatwoot v2.4.0",
+      "sha": "9852708fcc48262c8b3c019796d642e7b820d923",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-04-20T11:31:11Z"
+    },
+    {
+      "author": 3526167,
+      "message": "update readme with 0.8.x release notes (#58)",
+      "sha": "e6eaff2579eabacd6d5db0acd6ff16010ac01771",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-04-05T15:42:13Z"
+    },
+    {
+      "author": 3526167,
+      "message": "add artifact hub label",
+      "sha": "3341425737928e90b25a8c7fddf1cd1f83de00f4",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-03-30T09:02:40Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v2.3.2 (#57)",
+      "sha": "3468b6b0c4964d1d5207d93d7ce4bdccce9849be",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-03-30T08:53:42Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v2.3.0 (#56)\n\n* feat: update charts to chatwoot v2.3.0",
+      "sha": "29eae01ab8516619f447f907b98d191dca562b02",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-03-16T10:35:45Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v2.2.1 (#55)",
+      "sha": "1ebc92b0977a945d0bff3ab771b42986c77bd998",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-03-14T11:27:11Z"
+    },
+    {
+      "author": 28541758,
+      "message": "feat: Use secrets for environment vars (#47)\n\n* Use secrets in place of configmaps for env variables\r\n\r\n* fix postgres and redis existing secrets and exposure\r\n\r\n* add serviceAccount\r\n\r\n* add checksums to chatwoot deployments\r\n\r\n* bump chart to 0.8.0\r\n\r\nCo-authored-by: michaelguarino <mguarino46@gmail.com>",
+      "sha": "a0b12d7ab9492e76ff3dd5239a5e3640daef78c6",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-02-16T15:21:50Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v2.2.0 (#54)",
+      "sha": "513c978a64e48492bedbefe3bbd2cb0365d13aa9",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-02-16T14:07:11Z"
+    },
+    {
+      "author": 5379868,
+      "message": "feat: Apply tolerations and nodeSelector to pods in the chart (#45)\n\n* Apply tolerations and nodeSelector to pod specs\r\n\r\n* version bump to 0.7.6",
+      "sha": "b37463428e258b6406cf01daf469fd523386a789",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-02-04T04:33:22Z"
+    },
+    {
+      "author": 545492,
+      "message": "feat: Add ingressClass support (#53)\n\n* Add ingressClass support #52\r\n\r\n* Update chart version",
+      "sha": "8cc9448d245ec49d194ac28a1d58a2a9e8181a35",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-02-01T14:48:23Z"
+    },
+    {
+      "author": 13612429,
+      "message": "feat: update charts to v2.1.1 (#50)",
+      "sha": "852c02289aaee3a0859f5ed4475e23e7558472a9",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-01-21T09:05:26Z"
+    },
+    {
+      "author": 3526167,
+      "message": "update charts to v2.1.0 (#51)",
+      "sha": "5e32fd4ef997e20840bd1013b96e8f91948f5e0f",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-01-20T12:12:11Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v2.0.2 (#49)",
+      "sha": "ce4aaba3460f7538b2a38079ca45c745e8cbd056",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-01-11T11:58:58Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v2.0.1 (#48)\n\n* feat: update charts to chatwoot v2.0.1",
+      "sha": "76a5636ca13a71c4342494334a89ae2036f6bef3",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2022-01-11T11:40:30Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v2.0.0 (#44)\n\n* feat: update charts to chatwoot v2.0.0\r\n* update readme",
+      "sha": "767303c44f26aed70ba8658b001ab93c19359002",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-12-09T11:57:45Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v1.22.1 (#43)\n\n* feat: update charts to chatwoot v1.22.1",
+      "sha": "78decf1111a1742cd62e116f09fac1ef7d889205",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-11-25T15:06:00Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v1.22.0 (#42)",
+      "sha": "d7000443577bec59e50666dfed83d2a1b294b5ff",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-11-22T11:08:22Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: update charts to chatwoot v1.21.1 (#40)",
+      "sha": "43990a9f6898fa91c8f0098a6fbb743b6b14292e",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-10-23T09:59:28Z"
+    },
+    {
+      "author": 3526167,
+      "message": "chore: disable KIND tests",
+      "sha": "e393a5ea063c14ae6637b0dbf4f0b6ec9a19bc64",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-10-23T09:20:22Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: enable KIND chart testing gh action (#38)",
+      "sha": "950d76a508a5f44625b088c530cf7e661223f7e5",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-10-08T14:19:36Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix: helm yaml template parsing issues when using external dbs (#37)\n\n* fix helm yaml template parsing issues when using external dbs\r\n\r\n* Refactor postgres helper function\r\n\r\n* Refactor env vars in values.yaml\r\n\r\n* add a helper func for redis.password\r\n\r\n* Rename env var POSTGRES_DB to POSTGRES_DATABASE\r\n\r\nRails is looking for POSTGRES_DATABASE env variable. This was\r\ncausing failures if a different db name other than\r\nchatwoot_production was used.",
+      "sha": "b0198374d461c860a1d9e5de6bcfc60776ca52a7",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-09-29T14:10:02Z"
+    },
+    {
+      "author": 3526167,
+      "message": "update charts to chatwoot v1.20.0 (#36)\n\n- update charts to version 0.6.5\r\n- update chatwoot to v1.20.0",
+      "sha": "e9ab81a05953b12405fdc791ae7be6bba2a2da08",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-09-27T13:32:53Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: use pg_ready for k8s migration job init-check (#34)\n\nnslookup of DB hostname was used as DB init check for migration job. This was\r\ncausing the migration job container to fail multiple times. NSLOOKUP being \r\nsuccessful does not equate to DB is ready to accept connections.\r\n\r\nThis PR changed that to use the pg_ready tool which is a much more reliable \r\nmetric to assess DB ready status.",
+      "sha": "83b288a650739cac27b9bebb6d0d1f534b04f4bc",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-09-01T12:00:34Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: remove hardcoding for db and redis host vars and switch to configMap (#33)\n\n* feat: remove redis/postgres hardcoding and switch to ConfigMap\r\n\r\n* fix: helm lint failures\r\n\r\n* fix: configmap issue\r\n\r\n* fix: helm test suite\r\n\r\n* doc: update readme\r\n\r\n* feat: add separate values.yaml for github ci\r\n\r\n* Update README\r\n\r\n* Update NOTES.txt\r\n\r\n* add REDIS_TLS env var to handle TLS requirement for external redis\r\n\r\n* increment version to 0.6.3",
+      "sha": "fc33f077824cb623f07f2b7a7b50bebfc36caff0",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-31T13:46:32Z"
+    },
+    {
+      "author": 3526167,
+      "message": "disable KIND based helm testing",
+      "sha": "b316a620e9cd4744af6678324af1e0f973d8a971",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-31T13:40:00Z"
+    },
+    {
+      "author": 3526167,
+      "message": "chore: remove helm extra vars",
+      "sha": "9377f2e60f026c1fe509408d633155c3de7c99d7",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-31T09:27:41Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: add separte values.yaml for github ci",
+      "sha": "d512885be21dc3bfefa945dd22f689824ebb09df",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-30T13:45:13Z"
+    },
+    {
+      "author": 3526167,
+      "message": "chore: revert helm timeout",
+      "sha": "eae20e7e73cd3e5bee9f27ef269f63a8c92b26cc",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-30T12:35:10Z"
+    },
+    {
+      "author": 3526167,
+      "message": "debug: switch to debug mode for ct-install",
+      "sha": "4bd312b3ea521ecaa096a3834848ef547a8c78a1",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-30T08:07:07Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix: specify helm timeout unit",
+      "sha": "3cf86f5ca0514d5b38ddf3a66bb32971c867bed6",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-30T07:27:22Z"
+    },
+    {
+      "author": 3526167,
+      "message": "chore: increaase helm timeout to 10 minutes",
+      "sha": "e5fb8c54512c1e196325cd98113bc6c1935b2ee7",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-30T07:17:55Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: enable KIND PR test workflow",
+      "sha": "94ef2b667033282fecd46d36fe68b48e6f98465c",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-25T13:06:47Z"
+    },
+    {
+      "author": 3526167,
+      "message": "increment app version to v1.19.0 (#31)",
+      "sha": "2979b828f2c52ac67569aae027991a35df69b04b",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-18T12:58:29Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix: selector issues when upgrading (#30)\n\n* fix: selector issues when upgrading\r\n\r\n* fix: labels for all k8s objects\r\n\r\n* doc: update readme to add upgrade notes",
+      "sha": "c70de7acf2fadcaf0938db84146bf253e1ed0811",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-18T12:16:06Z"
+    },
+    {
+      "author": 3526167,
+      "message": "chore: refactor installation_env variable naming (#28)\n\n* chore: refactor installation_env variable naming\r\n* chore: remove unused env var",
+      "sha": "a0ff45f3de16abfcd984637d5aff76d4266563e9",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-16T18:15:04Z"
+    },
+    {
+      "author": 3526167,
+      "message": "doc:  init documentation (#25)\n\n* feat: add docs\r\n\r\n* feat: init parameter section\r\n\r\n* doc: configuration variables for chatwoot\r\n\r\n* doc: improve wording\r\n\r\n* doc: fix typos",
+      "sha": "7a95e3e9803f0aa250a417fe98e60ccfa814f868",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-09T15:24:53Z"
+    },
+    {
+      "author": 64605024,
+      "message": "add resource templates in web and worker deployment for autoscaling (#26)\n\n* adds resource templates in web and worker deployment for autoscaling\r\n* updated chart version to 0.5.4\r\n\r\nSigned-off-by: thundersparkf <devagastya0@gmail.com>",
+      "sha": "d925c5884f9346d9b5246f8080bb27ad154c91d6",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-09T15:08:03Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix: redis auth issue (#24)\n\n* fix: redis auth issue\r\n* chore: increment chart version\r\n* fix: format comments",
+      "sha": "5e91e058b23c01dd010fa26cba36d8e16b10e3ce",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-06T16:28:31Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix: disable KIND testing",
+      "sha": "cc32074a59053991a6831f1f3e3d8be2236b39f1",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-06T16:17:19Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix: lint-test gh action",
+      "sha": "0743da826def4417a634483aa97d81c070873a9c",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-06T13:14:19Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: add gh action for helm linting and testing (#23)",
+      "sha": "9f158394e60a23bfbb2dd6eb97879f74bc8b33fe",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-06T12:58:43Z"
+    },
+    {
+      "author": 64605024,
+      "message": "Allows annotations for services to enable cloud provided load balancers (#13)\n\n* Allows annotations for services to enable cloud provided load balancers",
+      "sha": "0e61da84490baf106fc76fac57f09a05769efbae",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-05T17:56:34Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix: helm release gh action",
+      "sha": "4ea60f680341f8ded3b776a9dec4d6f064cc39ac",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-03T16:24:36Z"
+    },
+    {
+      "author": 3526167,
+      "message": "chore: update readme (#22)",
+      "sha": "3f1bbb5de587821df1c8443687d9511f2f69ef58",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-03T16:12:42Z"
+    },
+    {
+      "author": 3526167,
+      "message": "chore: fix gh actions",
+      "sha": "496abe0bcb686cf40e161e3eba27e760189970af",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-03T16:09:46Z"
+    },
+    {
+      "author": 3526167,
+      "message": "chore: restructure folder structure to work with helm releaser (#21)",
+      "sha": "0907ec40fcfd6bb4bba6def6dc269a071e393063",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-03T15:59:07Z"
+    },
+    {
+      "author": 3526167,
+      "message": "Switch base branch to main #20 from chatwoot/develop\n\nMerge develop to main",
+      "sha": "eddc1a273ca59379312dbfda379d21a82b9a31f6",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-03T14:53:00Z"
+    },
+    {
+      "author": 3526167,
+      "message": "chore: update helm dependencies",
+      "sha": "d39f7af86f5cfd607b889525b4aa6decbf6264f2",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-03T14:37:29Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: add gh actions for helm linting, testing and release",
+      "sha": "8df2b1cb09b9bf6f50f32aa8b916cfb2c0994299",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-03T14:30:53Z"
+    },
+    {
+      "author": 3526167,
+      "message": "chore: add extra chart.yaml params (#19)\n\nadd icon, source, home",
+      "sha": "624dfe1cb0c3a4d125f571cd2aa055ee5240c893",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-08-03T14:16:03Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix: appVersion in chart to match cw versioning style",
+      "sha": "6bdba39b9c3ad1a752f3fa4713b066552ccabbea",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-07-30T04:50:17Z"
+    },
+    {
+      "author": 3526167,
+      "message": "chore: update to v1.18.1 (#15)",
+      "sha": "c6bed52af8cfe2b4550daf3a9b3286804360cc53",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-07-26T18:17:56Z"
+    },
+    {
+      "author": 3526167,
+      "message": "chore: clean up and organise chart (#14)",
+      "sha": "cdfeca2ef223f43dc5674375b87449870a7ee8e7",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-07-25T18:52:30Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: simplify chart naming and variables (#11)\n\n* chore: refactor chart name\r\n\r\n* chore: rename to chatwoot-web and chatwoot-worker\r\n\r\n* chore: Refactor Chart.yaml",
+      "sha": "7bba2c3f6043945b2192df09919beaa71063a36a",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-07-23T10:04:08Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: Switch from initContainers to Kubernetes jobs to run db migrations (#10)\n\n* feat: switch from init-containers to k8s job for db-migrations\r\n\r\n* Job configured with helm hooks to run post-install and post-upgrade.\r\n\r\n* chore: increment chart version\r\n\r\n* chore: add LICENSE",
+      "sha": "4404547e0822e51c8252cb6dc5bf0ca557099cf2",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-07-21T16:14:17Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: Refactor helm chart (#8)\n\n* feat: switch to bitnami postgres/redis\r\n\r\n* fix: default deployment without external services\r\n\r\n* chore: add helmignore\r\n\r\n* chore: update readme",
+      "sha": "31c174f92ff1831f9f91095dd48de3c3d4e1d389",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-07-21T11:23:43Z"
+    },
+    {
+      "author": 3526167,
+      "message": "chore: fix external postgres support (#6)\n\n* chore: fix external postgres support\r\n* chore: fix failing init-redis initContainer",
+      "sha": "9ccf9a8347b54c0ec83887e1511aaff6af751b82",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-07-15T13:18:39Z"
+    },
+    {
+      "author": 64605024,
+      "message": "feat: Helm chart  0.1.1 \n\n* Helm chart added\r\n\r\nSigned-off-by: thundersparkf <devagastya0@gmail.com>",
+      "sha": "4d8578a8a5fc9b2429843a4a546ac1f4d10fbd00",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-07-14T12:21:49Z"
+    },
+    {
+      "author": 2246121,
+      "message": "Initial Commit",
+      "sha": "a551bc1dc163516096f6c51b4b63ac7639140ad8",
+      "orgName": "chatwoot",
+      "repoName": "charts",
+      "createdAt": "2021-05-31T11:28:53Z"
     },
     {
       "author": 64252451,
@@ -3361,558 +3913,6 @@
       "createdAt": "2021-04-19T10:37:09Z"
     },
     {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v2.8.1 (#75)",
-      "sha": "aca14cb2c24a37ab0929a4f879819b2882b2c6e0",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-08-18T13:22:22Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v2.8.0 (#74)",
-      "sha": "da82b29667457f0f2f7e70482d13bb8d2814082b",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-08-18T12:46:40Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: upgrade postgres and redis subcharts (#67)\n\n* feat: upgrade postgres and redis subcharts\r\n\r\n* fix: modify postgres auth variables in values.yaml\r\n\r\n* chore: modify postgres/redis auth variables to match latest bitnami spec\r\n\r\n* doc: update readme for v1 upgrade",
-      "sha": "2c3fdf91c9ca6e5668a63aa2e7fb41a418b502f3",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-08-08T14:17:09Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: add autoscaling to web and worker pods (#73)\n\n* feat: add hpa autoscaling for web and worker\r\n\r\n* chore: set default redis replica count to 1\r\n\r\n* feat: switch hpa to autoscaling/v2\r\n\r\n* chore: update README with hpa parameters\r\n\r\n* chore: remove trailing spaces\r\n\r\n* chore: add upgrade instructions to readme",
-      "sha": "da3d62469e795be0b367e3ba769b6c64fc06e26b",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-07-30T12:20:32Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v2.7.0 (#70)",
-      "sha": "202730fefc5e270519b964606a1f628a95a84b5f",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-07-21T18:47:48Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix: failing gh actions for testing and releasing charts (#66)\n\n* chore: increment chart version\r\n\r\n* fix: change bitnami index to pre-2022\r\n\r\n* fix: update gh actions to use pre-2022 bitnami index",
-      "sha": "fd513da4d47696dd5ba8536ce30f6f54102d4cff",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-06-21T13:57:25Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v2.6.0 (#64)",
-      "sha": "0cf8b4eff5b53193aee47ce2f58e6ec93234223c",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-06-17T14:36:53Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v2.5.0 (#63)\n\nhttps://github.com/chatwoot/chatwoot/releases/tag/v2.5.0",
-      "sha": "13ec636effad3df4813ab47411c357c0e7d6f8ca",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-05-17T10:58:47Z"
-    },
-    {
-      "author": 3526167,
-      "message": "chore: fix url in readme",
-      "sha": "c3f3d3b06bc84024ebd1ce37220655639b91087b",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-05-11T10:35:50Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v2.4.1 (#60)",
-      "sha": "8644572eac23157cf72b12ef67e97f432abe9dcc",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-04-21T18:30:09Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v2.4.0 (#59)\n\n* feat: update charts to chatwoot v2.4.0",
-      "sha": "9852708fcc48262c8b3c019796d642e7b820d923",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-04-20T11:31:11Z"
-    },
-    {
-      "author": 3526167,
-      "message": "update readme with 0.8.x release notes (#58)",
-      "sha": "e6eaff2579eabacd6d5db0acd6ff16010ac01771",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-04-05T15:42:13Z"
-    },
-    {
-      "author": 3526167,
-      "message": "add artifact hub label",
-      "sha": "3341425737928e90b25a8c7fddf1cd1f83de00f4",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-03-30T09:02:40Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v2.3.2 (#57)",
-      "sha": "3468b6b0c4964d1d5207d93d7ce4bdccce9849be",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-03-30T08:53:42Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v2.3.0 (#56)\n\n* feat: update charts to chatwoot v2.3.0",
-      "sha": "29eae01ab8516619f447f907b98d191dca562b02",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-03-16T10:35:45Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v2.2.1 (#55)",
-      "sha": "1ebc92b0977a945d0bff3ab771b42986c77bd998",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-03-14T11:27:11Z"
-    },
-    {
-      "author": 28541758,
-      "message": "feat: Use secrets for environment vars (#47)\n\n* Use secrets in place of configmaps for env variables\r\n\r\n* fix postgres and redis existing secrets and exposure\r\n\r\n* add serviceAccount\r\n\r\n* add checksums to chatwoot deployments\r\n\r\n* bump chart to 0.8.0\r\n\r\nCo-authored-by: michaelguarino <mguarino46@gmail.com>",
-      "sha": "a0b12d7ab9492e76ff3dd5239a5e3640daef78c6",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-02-16T15:21:50Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v2.2.0 (#54)",
-      "sha": "513c978a64e48492bedbefe3bbd2cb0365d13aa9",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-02-16T14:07:11Z"
-    },
-    {
-      "author": 5379868,
-      "message": "feat: Apply tolerations and nodeSelector to pods in the chart (#45)\n\n* Apply tolerations and nodeSelector to pod specs\r\n\r\n* version bump to 0.7.6",
-      "sha": "b37463428e258b6406cf01daf469fd523386a789",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-02-04T04:33:22Z"
-    },
-    {
-      "author": 545492,
-      "message": "feat: Add ingressClass support (#53)\n\n* Add ingressClass support #52\r\n\r\n* Update chart version",
-      "sha": "8cc9448d245ec49d194ac28a1d58a2a9e8181a35",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-02-01T14:48:23Z"
-    },
-    {
-      "author": 13612429,
-      "message": "feat: update charts to v2.1.1 (#50)",
-      "sha": "852c02289aaee3a0859f5ed4475e23e7558472a9",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-01-21T09:05:26Z"
-    },
-    {
-      "author": 3526167,
-      "message": "update charts to v2.1.0 (#51)",
-      "sha": "5e32fd4ef997e20840bd1013b96e8f91948f5e0f",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-01-20T12:12:11Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v2.0.2 (#49)",
-      "sha": "ce4aaba3460f7538b2a38079ca45c745e8cbd056",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-01-11T11:58:58Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v2.0.1 (#48)\n\n* feat: update charts to chatwoot v2.0.1",
-      "sha": "76a5636ca13a71c4342494334a89ae2036f6bef3",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2022-01-11T11:40:30Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v2.0.0 (#44)\n\n* feat: update charts to chatwoot v2.0.0\r\n* update readme",
-      "sha": "767303c44f26aed70ba8658b001ab93c19359002",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-12-09T11:57:45Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v1.22.1 (#43)\n\n* feat: update charts to chatwoot v1.22.1",
-      "sha": "78decf1111a1742cd62e116f09fac1ef7d889205",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-11-25T15:06:00Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v1.22.0 (#42)",
-      "sha": "d7000443577bec59e50666dfed83d2a1b294b5ff",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-11-22T11:08:22Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: update charts to chatwoot v1.21.1 (#40)",
-      "sha": "43990a9f6898fa91c8f0098a6fbb743b6b14292e",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-10-23T09:59:28Z"
-    },
-    {
-      "author": 3526167,
-      "message": "chore: disable KIND tests",
-      "sha": "e393a5ea063c14ae6637b0dbf4f0b6ec9a19bc64",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-10-23T09:20:22Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: enable KIND chart testing gh action (#38)",
-      "sha": "950d76a508a5f44625b088c530cf7e661223f7e5",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-10-08T14:19:36Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix: helm yaml template parsing issues when using external dbs (#37)\n\n* fix helm yaml template parsing issues when using external dbs\r\n\r\n* Refactor postgres helper function\r\n\r\n* Refactor env vars in values.yaml\r\n\r\n* add a helper func for redis.password\r\n\r\n* Rename env var POSTGRES_DB to POSTGRES_DATABASE\r\n\r\nRails is looking for POSTGRES_DATABASE env variable. This was\r\ncausing failures if a different db name other than\r\nchatwoot_production was used.",
-      "sha": "b0198374d461c860a1d9e5de6bcfc60776ca52a7",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-09-29T14:10:02Z"
-    },
-    {
-      "author": 3526167,
-      "message": "update charts to chatwoot v1.20.0 (#36)\n\n- update charts to version 0.6.5\r\n- update chatwoot to v1.20.0",
-      "sha": "e9ab81a05953b12405fdc791ae7be6bba2a2da08",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-09-27T13:32:53Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: use pg_ready for k8s migration job init-check (#34)\n\nnslookup of DB hostname was used as DB init check for migration job. This was\r\ncausing the migration job container to fail multiple times. NSLOOKUP being \r\nsuccessful does not equate to DB is ready to accept connections.\r\n\r\nThis PR changed that to use the pg_ready tool which is a much more reliable \r\nmetric to assess DB ready status.",
-      "sha": "83b288a650739cac27b9bebb6d0d1f534b04f4bc",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-09-01T12:00:34Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: remove hardcoding for db and redis host vars and switch to configMap (#33)\n\n* feat: remove redis/postgres hardcoding and switch to ConfigMap\r\n\r\n* fix: helm lint failures\r\n\r\n* fix: configmap issue\r\n\r\n* fix: helm test suite\r\n\r\n* doc: update readme\r\n\r\n* feat: add separate values.yaml for github ci\r\n\r\n* Update README\r\n\r\n* Update NOTES.txt\r\n\r\n* add REDIS_TLS env var to handle TLS requirement for external redis\r\n\r\n* increment version to 0.6.3",
-      "sha": "fc33f077824cb623f07f2b7a7b50bebfc36caff0",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-31T13:46:32Z"
-    },
-    {
-      "author": 3526167,
-      "message": "disable KIND based helm testing",
-      "sha": "b316a620e9cd4744af6678324af1e0f973d8a971",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-31T13:40:00Z"
-    },
-    {
-      "author": 3526167,
-      "message": "chore: remove helm extra vars",
-      "sha": "9377f2e60f026c1fe509408d633155c3de7c99d7",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-31T09:27:41Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: add separte values.yaml for github ci",
-      "sha": "d512885be21dc3bfefa945dd22f689824ebb09df",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-30T13:45:13Z"
-    },
-    {
-      "author": 3526167,
-      "message": "chore: revert helm timeout",
-      "sha": "eae20e7e73cd3e5bee9f27ef269f63a8c92b26cc",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-30T12:35:10Z"
-    },
-    {
-      "author": 3526167,
-      "message": "debug: switch to debug mode for ct-install",
-      "sha": "4bd312b3ea521ecaa096a3834848ef547a8c78a1",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-30T08:07:07Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix: specify helm timeout unit",
-      "sha": "3cf86f5ca0514d5b38ddf3a66bb32971c867bed6",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-30T07:27:22Z"
-    },
-    {
-      "author": 3526167,
-      "message": "chore: increaase helm timeout to 10 minutes",
-      "sha": "e5fb8c54512c1e196325cd98113bc6c1935b2ee7",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-30T07:17:55Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: enable KIND PR test workflow",
-      "sha": "94ef2b667033282fecd46d36fe68b48e6f98465c",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-25T13:06:47Z"
-    },
-    {
-      "author": 3526167,
-      "message": "increment app version to v1.19.0 (#31)",
-      "sha": "2979b828f2c52ac67569aae027991a35df69b04b",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-18T12:58:29Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix: selector issues when upgrading (#30)\n\n* fix: selector issues when upgrading\r\n\r\n* fix: labels for all k8s objects\r\n\r\n* doc: update readme to add upgrade notes",
-      "sha": "c70de7acf2fadcaf0938db84146bf253e1ed0811",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-18T12:16:06Z"
-    },
-    {
-      "author": 3526167,
-      "message": "chore: refactor installation_env variable naming (#28)\n\n* chore: refactor installation_env variable naming\r\n* chore: remove unused env var",
-      "sha": "a0ff45f3de16abfcd984637d5aff76d4266563e9",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-16T18:15:04Z"
-    },
-    {
-      "author": 3526167,
-      "message": "doc:  init documentation (#25)\n\n* feat: add docs\r\n\r\n* feat: init parameter section\r\n\r\n* doc: configuration variables for chatwoot\r\n\r\n* doc: improve wording\r\n\r\n* doc: fix typos",
-      "sha": "7a95e3e9803f0aa250a417fe98e60ccfa814f868",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-09T15:24:53Z"
-    },
-    {
-      "author": 64605024,
-      "message": "add resource templates in web and worker deployment for autoscaling (#26)\n\n* adds resource templates in web and worker deployment for autoscaling\r\n* updated chart version to 0.5.4\r\n\r\nSigned-off-by: thundersparkf <devagastya0@gmail.com>",
-      "sha": "d925c5884f9346d9b5246f8080bb27ad154c91d6",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-09T15:08:03Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix: redis auth issue (#24)\n\n* fix: redis auth issue\r\n* chore: increment chart version\r\n* fix: format comments",
-      "sha": "5e91e058b23c01dd010fa26cba36d8e16b10e3ce",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-06T16:28:31Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix: disable KIND testing",
-      "sha": "cc32074a59053991a6831f1f3e3d8be2236b39f1",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-06T16:17:19Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix: lint-test gh action",
-      "sha": "0743da826def4417a634483aa97d81c070873a9c",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-06T13:14:19Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: add gh action for helm linting and testing (#23)",
-      "sha": "9f158394e60a23bfbb2dd6eb97879f74bc8b33fe",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-06T12:58:43Z"
-    },
-    {
-      "author": 64605024,
-      "message": "Allows annotations for services to enable cloud provided load balancers (#13)\n\n* Allows annotations for services to enable cloud provided load balancers",
-      "sha": "0e61da84490baf106fc76fac57f09a05769efbae",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-05T17:56:34Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix: helm release gh action",
-      "sha": "4ea60f680341f8ded3b776a9dec4d6f064cc39ac",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-03T16:24:36Z"
-    },
-    {
-      "author": 3526167,
-      "message": "chore: update readme (#22)",
-      "sha": "3f1bbb5de587821df1c8443687d9511f2f69ef58",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-03T16:12:42Z"
-    },
-    {
-      "author": 3526167,
-      "message": "chore: fix gh actions",
-      "sha": "496abe0bcb686cf40e161e3eba27e760189970af",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-03T16:09:46Z"
-    },
-    {
-      "author": 3526167,
-      "message": "chore: restructure folder structure to work with helm releaser (#21)",
-      "sha": "0907ec40fcfd6bb4bba6def6dc269a071e393063",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-03T15:59:07Z"
-    },
-    {
-      "author": 3526167,
-      "message": "Switch base branch to main #20 from chatwoot/develop\n\nMerge develop to main",
-      "sha": "eddc1a273ca59379312dbfda379d21a82b9a31f6",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-03T14:53:00Z"
-    },
-    {
-      "author": 3526167,
-      "message": "chore: update helm dependencies",
-      "sha": "d39f7af86f5cfd607b889525b4aa6decbf6264f2",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-03T14:37:29Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: add gh actions for helm linting, testing and release",
-      "sha": "8df2b1cb09b9bf6f50f32aa8b916cfb2c0994299",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-03T14:30:53Z"
-    },
-    {
-      "author": 3526167,
-      "message": "chore: add extra chart.yaml params (#19)\n\nadd icon, source, home",
-      "sha": "624dfe1cb0c3a4d125f571cd2aa055ee5240c893",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-08-03T14:16:03Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix: appVersion in chart to match cw versioning style",
-      "sha": "6bdba39b9c3ad1a752f3fa4713b066552ccabbea",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-07-30T04:50:17Z"
-    },
-    {
-      "author": 3526167,
-      "message": "chore: update to v1.18.1 (#15)",
-      "sha": "c6bed52af8cfe2b4550daf3a9b3286804360cc53",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-07-26T18:17:56Z"
-    },
-    {
-      "author": 3526167,
-      "message": "chore: clean up and organise chart (#14)",
-      "sha": "cdfeca2ef223f43dc5674375b87449870a7ee8e7",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-07-25T18:52:30Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: simplify chart naming and variables (#11)\n\n* chore: refactor chart name\r\n\r\n* chore: rename to chatwoot-web and chatwoot-worker\r\n\r\n* chore: Refactor Chart.yaml",
-      "sha": "7bba2c3f6043945b2192df09919beaa71063a36a",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-07-23T10:04:08Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: Switch from initContainers to Kubernetes jobs to run db migrations (#10)\n\n* feat: switch from init-containers to k8s job for db-migrations\r\n\r\n* Job configured with helm hooks to run post-install and post-upgrade.\r\n\r\n* chore: increment chart version\r\n\r\n* chore: add LICENSE",
-      "sha": "4404547e0822e51c8252cb6dc5bf0ca557099cf2",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-07-21T16:14:17Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: Refactor helm chart (#8)\n\n* feat: switch to bitnami postgres/redis\r\n\r\n* fix: default deployment without external services\r\n\r\n* chore: add helmignore\r\n\r\n* chore: update readme",
-      "sha": "31c174f92ff1831f9f91095dd48de3c3d4e1d389",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-07-21T11:23:43Z"
-    },
-    {
-      "author": 3526167,
-      "message": "chore: fix external postgres support (#6)\n\n* chore: fix external postgres support\r\n* chore: fix failing init-redis initContainer",
-      "sha": "9ccf9a8347b54c0ec83887e1511aaff6af751b82",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-07-15T13:18:39Z"
-    },
-    {
-      "author": 64605024,
-      "message": "feat: Helm chart  0.1.1 \n\n* Helm chart added\r\n\r\nSigned-off-by: thundersparkf <devagastya0@gmail.com>",
-      "sha": "4d8578a8a5fc9b2429843a4a546ac1f4d10fbd00",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-07-14T12:21:49Z"
-    },
-    {
-      "author": 2246121,
-      "message": "Initial Commit",
-      "sha": "a551bc1dc163516096f6c51b4b63ac7639140ad8",
-      "orgName": "chatwoot",
-      "repoName": "charts",
-      "createdAt": "2021-05-31T11:28:53Z"
-    },
-    {
       "author": 2246121,
       "message": "Update create-an-account.md",
       "sha": "1fcc55e242bf4f5fcf2d241ee983e6ae2cd37196",
@@ -4713,6 +4713,22 @@
       "createdAt": "2022-02-07T05:19:24Z"
     },
     {
+      "author": 15716057,
+      "message": "feat: Portal Switch component (#5008)",
+      "sha": "ce66b314229b4252f45ab149717cc112591a3d98",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-07-27T08:26:49Z"
+    },
+    {
+      "author": 12408980,
+      "message": "feat: Article list view page (#5122)",
+      "sha": "6368f9106a8ae5faab6020fe1dcd0a8dabf67a1d",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-07-27T07:38:27Z"
+    },
+    {
       "author": 12408980,
       "message": "feat: Add store to manage Articles (#5048)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
       "sha": "6295f5fd616ed8512a600792fdde5e853766dc20",
@@ -5495,22 +5511,6 @@
       "orgName": "chatwoot",
       "repoName": "chatwoot",
       "createdAt": "2022-06-15T12:09:39Z"
-    },
-    {
-      "author": 73185,
-      "message": "Merge branch 'release/2.6.0'",
-      "sha": "374b3671154d65df302130c07037f50438164ffa",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-15T12:09:13Z"
-    },
-    {
-      "author": 73185,
-      "message": "Bump version to 2.6.0",
-      "sha": "c2114e468e0110aef8d662ca87af6283fbfb2fbc",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-15T12:06:15Z"
     },
     {
       "author": 12408980,
@@ -7113,6 +7113,806 @@
       "createdAt": "2021-08-31T07:19:06Z"
     },
     {
+      "author": 73185,
+      "message": "Merge branch 'release/2.6.0'",
+      "sha": "374b3671154d65df302130c07037f50438164ffa",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-15T12:09:13Z"
+    },
+    {
+      "author": 73185,
+      "message": "Bump version to 2.6.0",
+      "sha": "c2114e468e0110aef8d662ca87af6283fbfb2fbc",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-15T12:06:15Z"
+    },
+    {
+      "author": 5848740,
+      "message": "chore: Fix sentry issues (#4863)\n\nFix sentry issues.\r\n\r\nFixes #4815, #4814, #4811, #4809",
+      "sha": "9015d83679aef81395c5ec829008a8e70febc02f",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-15T10:50:19Z"
+    },
+    {
+      "author": 15716057,
+      "message": "feat: Allow agents to bulk assign labels to conversations (#4854)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
+      "sha": "067c9053297defe54328af8967e8ee2b95e98cb5",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-15T08:48:05Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Move Whatsapp template sync to cron (#4858)\n\nsyncing WhatsApp templates job is moved to a cron job for a better user experience. The Templates are synced at 15-minute intervals now.",
+      "sha": "fdcaed75f654eb247769160acbb05012298bc6bd",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-14T18:16:36Z"
+    },
+    {
+      "author": 2246121,
+      "message": "feat: Add agent_reply_time_window in API channels (#4857)",
+      "sha": "1bb0371c1d6b93ec3a33270c94b0e106cf27e206",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-14T12:35:37Z"
+    },
+    {
+      "author": 2246121,
+      "message": "fix: Update profile settings header title (#4856)",
+      "sha": "f0db8545cbd80f522ef7ba7f25ed9d29a63344f0",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-14T05:25:16Z"
+    },
+    {
+      "author": 10827585,
+      "message": "chore: Add documentation for automation rule, fix conversation/inbox_members (#4852)",
+      "sha": "37cb46238af99b78ba44093e0e41ff453d496cb9",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-14T05:05:56Z"
+    },
+    {
+      "author": 73185,
+      "message": "feat (ee): APIs to configure an auto assignment limit for inboxes (#4672)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
+      "sha": "713fdb44ee09e7f16ffb83d71c5faf7036d6d807",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-13T14:48:38Z"
+    },
+    {
+      "author": 10827585,
+      "message": "feat: APIs for Articles (#4777)\n\nFixes: #4802",
+      "sha": "ae72757d23da8ce4aa0f65145469c6bcb0844eb8",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-13T10:26:49Z"
+    },
+    {
+      "author": 15716057,
+      "message": "feat: Add snooze, reopen option to bulk actions (#4831)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
+      "sha": "2198930185458ad2fa9610cf35d5e11e536f346a",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-13T06:44:27Z"
+    },
+    {
+      "author": 10827585,
+      "message": "Fix: backend changes for custom attribute (#4830)",
+      "sha": "aa903a5da98651bc45e6852f5b16bbc99ae24f13",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-13T06:28:54Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Remove partner signup link (#4843)",
+      "sha": "98f216046294d60fd1f925f3c2ba92c63455f79d",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-13T05:57:22Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Update translations from Crowdin (#4838)",
+      "sha": "bc8e08f126fed5db2668b302a8cebe2fa59489f1",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-12T05:38:06Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Update self-closing tag eslint config (#4826)\n\n* chore: Fix self-closing tag issues\r\n\r\n* Fix merge conflicts\r\n\r\nCo-authored-by: Fayaz Ahmed <15716057+fayazara@users.noreply.github.com>",
+      "sha": "7bb8186e43b87cdcb8049beb24aa216b222072dd",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-10T13:59:52Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Add support for message_templates in API inbox (#4835)",
+      "sha": "3f3ee6c34a7f8f69f45c1b259d90abb533bcdfae",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-10T13:10:29Z"
+    },
+    {
+      "author": 10827585,
+      "message": "chore: upgrade FB api version (#4834)",
+      "sha": "9bac5873ef6429bcfce7621bf19453a2e20292d5",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-10T06:56:21Z"
+    },
+    {
+      "author": 15716057,
+      "message": "fix: Remove validation for WhatsApp templates with no params (#4820)",
+      "sha": "c5c89449dd46e63fedf6ca7e59898152af592249",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-09T16:04:59Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Update translations from Crowdin (#4833)",
+      "sha": "6385e42d9b83894d471ee2431795c01ab57e5f4e",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-09T16:00:03Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Update translations from Crowdin (#4822)",
+      "sha": "74fa907010f4339b8b3846f4d39bb5f8923c8b93",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-08T16:06:47Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Update translations from Crowdin (#4772)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
+      "sha": "a9e84ec182ef589439f1f77910ddc9801ae88109",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-08T12:37:45Z"
+    },
+    {
+      "author": 49699333,
+      "message": "chore(deps): bump jmespath from 1.6.0 to 1.6.1 (#4808)\n\nBumps [jmespath](https://github.com/trevorrowe/jmespath.rb) from 1.6.0 to 1.6.1.\r\n- [Release notes](https://github.com/trevorrowe/jmespath.rb/releases)\r\n- [Changelog](https://github.com/jmespath/jmespath.rb/blob/main/CHANGELOG.md)\r\n- [Commits](https://github.com/trevorrowe/jmespath.rb/compare/v1.6.0...v1.6.1)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: jmespath\r\n  dependency-type: indirect\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+      "sha": "5d1729c7dd0b142f9a8ac6c047642647e5ee1cb6",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-08T04:38:27Z"
+    },
+    {
+      "author": 23050,
+      "message": "chore: Make \"apk\" commands consistent in Dockerfile (#4790)\n\n* Make \"apk\" commands consistent in Dockerfile\r\n\r\n1. Add \"--no-cache\" to some \"apk\" command that are missing it\r\n\r\n* Remove \"--update-cache\" in Dockerfile\r\n\r\n> As of Alpine Linux 3.3 there exists a new --no-cache option for apk. It allows\r\n> users to install packages with an index that is updated and used on-the-fly and\r\n> not cached locally\r\n>\r\n> This avoids the need to use --update-cache and remove /var/cache/apk/* when\r\n> done installing packages.\r\n\r\nhttps://github.com/gliderlabs/docker-alpine/blob/master/docs/usage.md",
+      "sha": "635e544124a91f01c86244ea7ecb6350c706a52d",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-07T14:19:32Z"
+    },
+    {
+      "author": 10827585,
+      "message": "fix: Facebook reauthorization mailer (#4695)",
+      "sha": "772d92a4d3706235578e2cbe88058bb389c05c2d",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-07T12:20:51Z"
+    },
+    {
+      "author": 15716057,
+      "message": "feat: Add support for Whatsapp template messages in the UI (#4711)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
+      "sha": "bad24f97abd3f839d40f890b24f797c09e25a9c6",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-07T12:03:33Z"
+    },
+    {
+      "author": 10827585,
+      "message": "feat: Attribute changed filter for automations (#4621)",
+      "sha": "56f668db6bca4ad7c91ca88a9e258d00bfb46f7a",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-07T07:31:01Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Remove flay, rspec from development/test group (#4795)",
+      "sha": "267252d13ad9043c5a778a7c2b09680c18ac42e7",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-06T07:13:19Z"
+    },
+    {
+      "author": 15716057,
+      "message": "feat: Add Bulk actions to conversations (#4647)\n\nCo-authored-by: Sivin Varghese <64252451+iamsivin@users.noreply.github.com>\r\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
+      "sha": "79a525aa62ffeddfc311e998f540704b3a08e20d",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-03T05:42:22Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix: command execution in heredoc comment (#4783)",
+      "sha": "43a0b4c039b76d1eb752143a9c5989b5b67f63c3",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-02T14:21:50Z"
+    },
+    {
+      "author": 2246121,
+      "message": "fix: Disable marking IMAP connection as invalid for Standard Errors (#4764)",
+      "sha": "6b9f4d08ca37c5bd6fd4dd154e3929f7335904b7",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-02T06:08:58Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix: Update text used in personal message signature (#4776)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
+      "sha": "c7c46463ae78aa6c3a2a0dd1be0f620556ddbdb5",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-01T13:11:18Z"
+    },
+    {
+      "author": 2246121,
+      "message": "feat: Allow users to create dashboard apps to give agents more context (#4761)",
+      "sha": "b9aa4444b3ed87026cd060e9a062ba80e7373afa",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-01T05:43:10Z"
+    },
+    {
+      "author": 49699333,
+      "message": "chore(deps): bump eventsource from 1.1.0 to 1.1.1 (#4774)\n\nBumps [eventsource](https://github.com/EventSource/eventsource) from 1.1.0 to 1.1.1.\r\n- [Release notes](https://github.com/EventSource/eventsource/releases)\r\n- [Changelog](https://github.com/EventSource/eventsource/blob/master/HISTORY.md)\r\n- [Commits](https://github.com/EventSource/eventsource/compare/v1.1.0...v1.1.1)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: eventsource\r\n  dependency-type: indirect\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+      "sha": "55f7be4ffc429aadefb0b814636a0023456e00f9",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-06-01T05:27:18Z"
+    },
+    {
+      "author": 15716057,
+      "message": "Handle falsy values for filename (#4766)",
+      "sha": "3f382e5979d508fbd6d9f153b37433c7fe6f0cbe",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-31T11:08:24Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Update translations (#4755)",
+      "sha": "afc7c1ac64f96fe754d16f5a15bf39c6ed6f70dc",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-30T13:09:20Z"
+    },
+    {
+      "author": 49699333,
+      "message": "chore(deps): bump rack from 2.2.3 to 2.2.3.1 (#4756)\n\nBumps [rack](https://github.com/rack/rack) from 2.2.3 to 2.2.3.1.\r\n- [Release notes](https://github.com/rack/rack/releases)\r\n- [Changelog](https://github.com/rack/rack/blob/main/CHANGELOG.md)\r\n- [Commits](https://github.com/rack/rack/compare/2.2.3...2.2.3.1)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: rack\r\n  dependency-type: indirect\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+      "sha": "e924ce8b4e60530e5f4d1fe284413f3465c339da",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-30T11:48:18Z"
+    },
+    {
+      "author": 3526167,
+      "message": "chore: Update ruby and docker base image to 3.0.4 (#4693)\n\n* chore: Update ruby version to 3.0.4\r\n\r\n* chore: update ruby version in docker workflow\r\n\r\n* chore: update ruby version to 3.1.2\r\n\r\n* Upgrade vue-jest to remove deasync\r\n\r\n* Revert to 3.0.4 to see if deasync issue is fixed\r\n\r\n* fix: script failure if pg/redis not opted in\r\n\r\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
+      "sha": "568c30e93e92ddcaffcf8874332d07c692590b8d",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-27T12:03:24Z"
+    },
+    {
+      "author": 3112022,
+      "message": "chore: Fix the exception while destructuring data in chatwoot:error listener  (#4702)",
+      "sha": "50d2dbd46257eb40b8741b6fe91850b6e896e1a3",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-27T06:53:29Z"
+    },
+    {
+      "author": 2246121,
+      "message": "feat: Add business hours in downloadable reports (#4674)\n\nCo-authored-by: Aswin Dev P.S <aswindevps@gmail.com>",
+      "sha": "52fad886b88e71f88a81ad44916da746b60cd56d",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-27T03:56:59Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Update translations from Crowdin (#4751)",
+      "sha": "dceeb57a1d514d32ed17db61763b5ba23899fad4",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-26T14:53:36Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Improve the reauthorization requirement for Email Channel (#4753)",
+      "sha": "ab05dd9b9b2f65a74b9f36c0dab6b5a08d5a7af3",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-26T14:53:00Z"
+    },
+    {
+      "author": 10827585,
+      "message": "feat: send instagram message after 24 hours (#4698)\n\nAdded MESSAGE_TAG: HUMAN_AGENT for Instagram messages if the user wants to send it after the standard message window.\r\n\r\nFixes #4689",
+      "sha": "47a6d9681a4303eb54705246eec01d117a20c18b",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-26T13:35:30Z"
+    },
+    {
+      "author": 2246121,
+      "message": "fix: Remove translated keys from locale files (#4748)",
+      "sha": "1215f37ddae1a69a203ddb0622fc21e1bc8f1a59",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-25T11:36:31Z"
+    },
+    {
+      "author": 2246121,
+      "message": "fix: Revert changes to fix name updation from pre-chat form (#4741)",
+      "sha": "7434b60f71a2eaeca40df7e6fcd5c8b95c8e5e81",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-25T07:08:23Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: Improve Linux installation experience (#4713)\n\n* feat: improve linux install script\r\n\r\n* feat: setup logging and reduce verboseness\r\n\r\n- redirect output/error to logfile\r\n- reduce verboseness in main script exection\r\n- trap non-zero exit\r\n\r\n* chore: remove debug logging\r\n\r\n* feat: fix exit handler\r\n\r\n* improve legibility\r\n\r\n* Apply suggestions from code review\r\n\r\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>\r\n\r\n* chore: improve formatting\r\n\r\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
+      "sha": "22d22cf4c3c5166b653653dfafac9b557975cbb7",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-25T07:00:00Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Update cache name in Circle CI builds (#4738)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
+      "sha": "baa3efaf0ef0d59555d2c3df6ce04303a31b45a2",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-24T16:45:57Z"
+    },
+    {
+      "author": 49699333,
+      "message": "chore(deps): bump nokogiri from 1.13.5 to 1.13.6 (#4734)\n\nBumps [nokogiri](https://github.com/sparklemotion/nokogiri) from 1.13.5 to 1.13.6.\r\n- [Release notes](https://github.com/sparklemotion/nokogiri/releases)\r\n- [Changelog](https://github.com/sparklemotion/nokogiri/blob/main/CHANGELOG.md)\r\n- [Commits](https://github.com/sparklemotion/nokogiri/compare/v1.13.5...v1.13.6)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: nokogiri\r\n  dependency-type: indirect\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+      "sha": "d20eafbda4719693a9c0084c84f5311eab00250e",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-24T05:42:19Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Add Assignable Agents API (#4722)",
+      "sha": "56cd9bc0b873a5416cd1e210bfee1701e35f04e4",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-23T13:54:07Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Enable Ukrainian language (uk) (#4720)",
+      "sha": "79280ae372a7e1522756babb6300b1c68f3aa07f",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-23T07:16:17Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Update translations (#4691)",
+      "sha": "f74a1f7d5ac2dc58a168eaab2728e3fe0de34be3",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-23T06:03:54Z"
+    },
+    {
+      "author": 5848740,
+      "message": "chore: Update conversations API to include unattended conversations. (#4708)\n\n* Update conversations API to include unattended conversations.",
+      "sha": "59969cc5536f63e926ad999e79f136bfb1e1ed03",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-22T07:38:41Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Update the documentation for configuring webhooks in the account (#4703)",
+      "sha": "11ea8a3032a7199c71308fbcc5d52056d73412a9",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-19T16:13:23Z"
+    },
+    {
+      "author": 5848740,
+      "message": "Add first_reply_created event in conversation (#4576)",
+      "sha": "8538660bbd69e43109d1c3292ad2b47261f02c30",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-19T04:16:33Z"
+    },
+    {
+      "author": 2246121,
+      "message": "fix: Update report method to fix issues with special characters (#4697)",
+      "sha": "20565d09c0771a3d229edc795affa2aef66268b4",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-18T06:45:30Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Add an option to download CSAT Reports (#4694)",
+      "sha": "47f04ee3fec88e2b839b6019f226e1fb533d644c",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-17T15:31:45Z"
+    },
+    {
+      "author": 73185,
+      "message": "Merge branch 'release/2.5.0' into develop",
+      "sha": "361ffbab82614ef4a00cc08ec40b015f0ee2652e",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-16T11:25:34Z"
+    },
+    {
+      "author": 73185,
+      "message": "Merge branch 'release/2.5.0'",
+      "sha": "63b1013b450c1539ace1cc6f5657368a33e196bc",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-16T11:25:24Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Enable New Message Button on Contact Panel (#4681)\n\nFixes: #4653",
+      "sha": "b8f25d77bf59a6ba012b524e19c17a2e65c0a98d",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-16T11:11:40Z"
+    },
+    {
+      "author": 10827585,
+      "message": "feat: Portal endpoint (#4633)",
+      "sha": "938fb887c4269ff3eb25afe1222e6196da5fb5b6",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-16T08:29:59Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Update translations (#4682)",
+      "sha": "f620bdec542eba61f60f800516df8e06d154ac4d",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-16T07:15:45Z"
+    },
+    {
+      "author": 2246121,
+      "message": "fix: Render links with target attribute (#4685)",
+      "sha": "45e2cd4903c0697f6d7c37a1714da2aa69ce8ffb",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-16T05:59:05Z"
+    },
+    {
+      "author": 73185,
+      "message": "Bump version to 2.5.0",
+      "sha": "2060f270d3b6b8149ba6062e2a25327484c9264c",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-13T11:56:26Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Update translations from Crowdin (#4665)",
+      "sha": "6535624cd6bb0aca76421e452b64645f8c1b015e",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-13T06:08:49Z"
+    },
+    {
+      "author": 3526167,
+      "message": "feat: Control sidekiq log level via rails LOG_LEVEL env variable (#4675)",
+      "sha": "8fbe470bdd9b65ceeb36a3f25b25f9fefd89ece6",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-13T06:04:43Z"
+    },
+    {
+      "author": 103104754,
+      "message": "chore: Update the note of Personal message signature (#4679)",
+      "sha": "ab3ee74a8672f4ac07c6107448c2d9ba6f012653",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-13T06:04:09Z"
+    },
+    {
+      "author": 5848740,
+      "message": "Fix: Agent Reports counts when they have access to multiple accounts (#4663)\n\nThis change restricts the agent report API to fetch agent metrics from the current account.\r\n\r\nFixes: #4660",
+      "sha": "41b89014324772d8351b15936d25623f852980cb",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-11T09:01:57Z"
+    },
+    {
+      "author": 10827585,
+      "message": "Fix: Creating contacts for already outgoing/echo messages (#4668)\n\nCheck if the Instagram contact is already present in the system before throwing the exception.\r\n\r\nFixes: #4666",
+      "sha": "329d305e9272ae62113a3cfd6564500e5c5d1cca",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-11T08:59:38Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Split Inbox Settings Page Component (#4664)\n\nClean up the Inbox settings page component as the logic was growing complex.\r\n\r\n- Moved subpages like collaborators and configuration to new components\r\n- Moved Assignment settings to the collaborators tab\r\n- Introduced a new inbox seeder to quickly preview setting pages of all inbox types when in development",
+      "sha": "5c161e0fefd14aa1769480a78829761cf464ecb2",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-11T08:03:24Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Remove unused method scriptGenerator (#4671)",
+      "sha": "9cec0917165a21651b335f8beac10f259da1ba56",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-11T06:35:42Z"
+    },
+    {
+      "author": 10827585,
+      "message": "Fix: Make version changeable from the environment vars (#4654)",
+      "sha": "9ed1f5d96b558564bfcd5e3d1c6cc2b47790e33f",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-10T13:50:55Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Ability to update user email via Platform APIs (#4659)\n\nWhen the platform update API is called with a new user email, Chatwoot will still follow the same behaviour as in the dashboard where the user will have to confirm the new email activation link until the email gets updated on the user record.\r\n\r\nIn the case of platform APIs, this might not be the ideal behaviour since the original app will already have a flow to update the user emails. Hence we need to confirm the emails without the extra step in this case\r\n\r\nfixes: #4510",
+      "sha": "81d0405473109971e24773657705fa4e77af49fb",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-09T18:58:46Z"
+    },
+    {
+      "author": 10827585,
+      "message": "Fix: sentry issue for slack incoming files check (#4656)\n\nInterpreter error for nil. any? added nil. present?\r\n\r\nFixes: https://sentry.io/share/issue/48c10d26490f4bdaab78c82244fcea98/",
+      "sha": "f64cf85ab24e933e9469d0eab45c748f4f859f3e",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-09T18:24:45Z"
+    },
+    {
+      "author": 10827585,
+      "message": "Fix: slack repeated callback event message for attached files (#4610)",
+      "sha": "0eeab8c56c1af6cd5ff8e5b9e048a49e59fb2fc1",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-09T13:48:30Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Update translations from Crowdin (#4652)",
+      "sha": "5ce29a7bebd4b661aa06dbeeb6fb78b02c91ed7b",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-09T13:27:05Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Upgrade Exception tracking (#4638)\n\n- Upgrade Sentry Libraries\r\n- Enable provision for account and user info in error tracking\r\n- Add ChatwootExceptionTracker\r\n\r\nfixes: #4375",
+      "sha": "04dfb034ccb52f4ad85aa66dc5265b95ed60b8c5",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-09T08:53:19Z"
+    },
+    {
+      "author": 5848740,
+      "message": "Fix: Campaign triggers first_response reporting event (#4607)\n\n* Fix: Campaign triggers first_response reporting event\r\n\r\n* fix spec failure",
+      "sha": "360b438a55582259b8206dbe4872afb858025d75",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-09T08:34:52Z"
+    },
+    {
+      "author": 23050,
+      "message": "chore:  \"Channel::TwilioSms\" to be unique on account_sid+phone_number (#4188)\n\n\"Twilio::IncomingMessageService\" searches for the correct \"Channel::TwilioSms\"\r\nby account_sid+phone_number.  If these values are duplicated then which record it\r\nfinds is indeterminate and may alternate between queries.\r\n\r\nCo-authored-by: Sojan Jose <sojan@pepalo.com>",
+      "sha": "5b5a6d89c0cf7f3148a1439d6fcd847784a79b94",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-07T12:27:16Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Use different files for widget and dashboard audio alert (#4637)",
+      "sha": "2e0d43c09373199284437466b111d55c8b1f404c",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-06T14:49:36Z"
+    },
+    {
+      "author": 15716057,
+      "message": "feat: Add the SDK method to programatically toggle live chat bubble (#4223)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
+      "sha": "ef850eda0fbcb8bf5e555cd8e3d8e55d92ca5665",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-06T14:00:48Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Update puma config as per recommendations (#3640)\n\nAbility to configure workers for puma\r\n\r\nref:\r\nhttps://devcenter.heroku.com/articles/concurrency-and-database-connections#threaded-servers\r\nhttps://www.speedshop.co/2017/10/12/appserver.html",
+      "sha": "80b8f5f915528bac7df92ca6aa7fe56d5e54f73c",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-06T11:08:44Z"
+    },
+    {
+      "author": 23050,
+      "message": "feat: Open \"Switch Account\" modal when clicking account name on dashboard (#4613)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
+      "sha": "77a6893203c85153d730618f27573cdd47c72809",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-06T09:25:38Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Sentry issues (#4623)\n\nFixes various issues reported on sentry\r\n\r\n- Twilio channel creation validation errors\r\n- Room Channel error with nil class\r\n- Webhook Uri exception",
+      "sha": "8d2b719dc1f3cd9261e0ca0998fdb86943ea11f8",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-06T09:20:55Z"
+    },
+    {
+      "author": 12408980,
+      "message": "fix: Pre chat custom fields drag and drop (#4530)",
+      "sha": "4f9d41962a3f98206297679ff65d72b9ab3af214",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-06T06:31:34Z"
+    },
+    {
+      "author": 3526167,
+      "message": "chore: update newrelic gem to support log forwarding (#4626)\n\nNewrelic gem 8.7 has application log forwarding support and\r\nthis is enabled by default. Update the gem to make use of this\r\nfeature. Chatwoot have turned this off by default though.\r\n\r\nSet `NEW_RELIC_APPLICATION_LOGGING_ENABLED` to enable this feature. Make\r\nsure to disable another log forwarding services you have to prevent\r\nduplicated logs.\r\n\r\nref: https://docs.newrelic.com/docs/release-notes/agent-release-notes/ruby-release-notes/ruby-agent-870\r\nFixes: #4625",
+      "sha": "66d366f0ff7768d4df154b731d80fb1ac73bc5c9",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-05T18:27:55Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Update missing packages in yarn.lock (#4627)",
+      "sha": "832a0f24a09fcdf79c909cf7cd2d8f74d0a22930",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-05T13:59:51Z"
+    },
+    {
+      "author": 73185,
+      "message": "chore: Sentry Issue fixes (#4618)\n\nAddress the following sentry issues\r\n\r\nfixes: #4616, #4617",
+      "sha": "c9a8796a36244a18f9f209d602470f125f4e8726",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-04T19:01:11Z"
+    },
+    {
+      "author": 9892674,
+      "message": "fix: unable to send audio messages on Telegram (#4493)\n\n- Changed the lib used to record the audio (videojs-record). \r\n- Changed the audio recording format to .ogg, this will keep compatibility with sending to channels, Telegram, Whatsapp, Web Widget and API.\r\n- Changed the visualization of recording waves, it is now using bars, the same format used by applications (Whatsapp and Telegram)\r\n\r\n\r\nFixes: #4115",
+      "sha": "b3c8c8383099cc3bd42589e7feda778b25cb005c",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-05-02T07:44:04Z"
+    },
+    {
+      "author": 16636757,
+      "message": "Fix: Accept phone number in public contact api (#4580)\n\nThis PR makes it possible to pass a phone number to the public contacts API.\r\n\r\nFixes #4023",
+      "sha": "c1cc94e37c5da6d553df51f59ab0068e7b53bbc5",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-04-29T15:24:12Z"
+    },
+    {
+      "author": 3526167,
+      "message": "fix: ce spec action for PRs from forks (#4587)\n\nCE spec action was failing for PRs from external forks at the checkout stage. This PR modifies the checkout action to use the full repo name and branch.\r\n\r\n#4586",
+      "sha": "45099f40f1575c8730e9795a54ea35ca69b395a1",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-04-29T09:08:10Z"
+    },
+    {
+      "author": 16636757,
+      "message": "fix: sidekiq cron deprecation warnings (#4581)\n\nUpdates sidekiq-cron to fix the deprecation warnings\r\n\r\nFixes #4090",
+      "sha": "b5e0921d0d9e5831aa477a015bb03fa06c84a994",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-04-28T19:13:10Z"
+    },
+    {
+      "author": 10827585,
+      "message": "Fix: File upload from slack (#4494)\n\nWhen you upload a file from slack chat it's not appearing in the chatwoot inbox.\r\nThis is because Slack updated the webhook event format",
+      "sha": "e5136c2691da01ec22a5bda7e2b238d348a43eb7",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-04-28T15:39:39Z"
+    },
+    {
+      "author": 16636757,
+      "message": "Fix: attachment name for incoming messages \n\nUse original_filename to get the name of the file attached to the message.\r\n\r\nHad to add the message_type method to the WhatsApp/incoming_message_service due to the Assignment Branch Condition linter error for the attach_files method.\r\n\r\nFixes #4183",
+      "sha": "04194e7247715d53565de8e9c44b3e338c22eca8",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-04-28T15:32:17Z"
+    },
+    {
+      "author": 5848740,
+      "message": "fix: Add index in conversation and reporting event (#4577)\n\nFixes chatwoot/product#422",
+      "sha": "8d04894744860c8979936227f9c7017dd7103062",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-04-28T11:28:06Z"
+    },
+    {
+      "author": 10827585,
+      "message": "chore: Allow Facebook channel to receive standby messages  (#4511)",
+      "sha": "cb38ec32679605ed579d680a6b70ae41a5e70da2",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-04-27T19:44:03Z"
+    },
+    {
+      "author": 2246121,
+      "message": "fix: Disable automation on tweets (#4571)\n\nFixes #4565",
+      "sha": "8348392d43b79950bb6c307629201b711aaabe40",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-04-27T14:40:40Z"
+    },
+    {
+      "author": 5848740,
+      "message": "fix: Unattendeed conversation count in agent metrics (#4568)",
+      "sha": "95c7a24dd1fc05fb2a692c5b4e14bda8ce85be2b",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-04-27T13:26:35Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Upgrade rails to 6.1.5.1 (#4570)",
+      "sha": "4250c40d1d550511eb0d9788c7353e94846dca78",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-04-27T13:03:22Z"
+    },
+    {
+      "author": 15716057,
+      "message": "Fix positioning of read ticks on attachment message bubbles (#4545)\n\n* Fix positioning of read ticks\r\n\r\n* Review fixes\r\n\r\nCo-authored-by: Sivin Varghese <64252451+iamsivin@users.noreply.github.com>\r\nCo-authored-by: iamsivin <iamsivin@gmail.com>",
+      "sha": "3d824855f0d8ceba733092f8048e809a92d5628a",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-04-27T02:42:30Z"
+    },
+    {
+      "author": 5848740,
+      "message": "fix: Update agent metrics query to show data from current account (#4557)\n\n* Update agent metrics query to fetch data from current account",
+      "sha": "1bf2da180bc33074173063cbc813db3cd5fb62a1",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-04-26T12:52:13Z"
+    },
+    {
+      "author": 12408980,
+      "message": "fix: Check `phone_number` and `email` changes are exist before validation (#4551)",
+      "sha": "3a5e34fccb23b2c3f7054b00ba22a635fb4cacb3",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot",
+      "createdAt": "2022-04-26T09:43:28Z"
+    },
+    {
       "author": 12408980,
       "message": "Feature: Account switching (#176)\n\n* Implement account switching\r\n\r\n* Add action sheet menu in notification screen\r\n\r\n* Separate Header as functional component\r\n\r\n* Add HeaderBar in all screens\r\n\r\n* Some style fixes\r\n\r\n* Style fixes\r\n\r\n* Some bug fixes\r\n\r\n* Style fixes\r\n\r\n* Change account switch icon\r\n\r\n* Check socket event account id matching to currently using account id\r\n\r\n* Fix the header bar title issue\r\n\r\n* Disable push handle in active state\r\n\r\n* Some style fixes\r\n\r\n* Release android/ios beta version 0.0.41\r\n\r\n* Release android/ios beta version 0.0.42",
       "sha": "9efb882c5ccd6f0f2a15aed90a7821013d797c55",
@@ -8575,790 +9375,6 @@
       "orgName": "chatwoot",
       "repoName": "docs",
       "createdAt": "2021-01-26T08:36:01Z"
-    },
-    {
-      "author": 5848740,
-      "message": "chore: Fix sentry issues (#4863)\n\nFix sentry issues.\r\n\r\nFixes #4815, #4814, #4811, #4809",
-      "sha": "9015d83679aef81395c5ec829008a8e70febc02f",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-15T10:50:19Z"
-    },
-    {
-      "author": 15716057,
-      "message": "feat: Allow agents to bulk assign labels to conversations (#4854)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
-      "sha": "067c9053297defe54328af8967e8ee2b95e98cb5",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-15T08:48:05Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Move Whatsapp template sync to cron (#4858)\n\nsyncing WhatsApp templates job is moved to a cron job for a better user experience. The Templates are synced at 15-minute intervals now.",
-      "sha": "fdcaed75f654eb247769160acbb05012298bc6bd",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-14T18:16:36Z"
-    },
-    {
-      "author": 2246121,
-      "message": "feat: Add agent_reply_time_window in API channels (#4857)",
-      "sha": "1bb0371c1d6b93ec3a33270c94b0e106cf27e206",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-14T12:35:37Z"
-    },
-    {
-      "author": 2246121,
-      "message": "fix: Update profile settings header title (#4856)",
-      "sha": "f0db8545cbd80f522ef7ba7f25ed9d29a63344f0",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-14T05:25:16Z"
-    },
-    {
-      "author": 10827585,
-      "message": "chore: Add documentation for automation rule, fix conversation/inbox_members (#4852)",
-      "sha": "37cb46238af99b78ba44093e0e41ff453d496cb9",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-14T05:05:56Z"
-    },
-    {
-      "author": 73185,
-      "message": "feat (ee): APIs to configure an auto assignment limit for inboxes (#4672)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
-      "sha": "713fdb44ee09e7f16ffb83d71c5faf7036d6d807",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-13T14:48:38Z"
-    },
-    {
-      "author": 10827585,
-      "message": "feat: APIs for Articles (#4777)\n\nFixes: #4802",
-      "sha": "ae72757d23da8ce4aa0f65145469c6bcb0844eb8",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-13T10:26:49Z"
-    },
-    {
-      "author": 15716057,
-      "message": "feat: Add snooze, reopen option to bulk actions (#4831)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
-      "sha": "2198930185458ad2fa9610cf35d5e11e536f346a",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-13T06:44:27Z"
-    },
-    {
-      "author": 10827585,
-      "message": "Fix: backend changes for custom attribute (#4830)",
-      "sha": "aa903a5da98651bc45e6852f5b16bbc99ae24f13",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-13T06:28:54Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Remove partner signup link (#4843)",
-      "sha": "98f216046294d60fd1f925f3c2ba92c63455f79d",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-13T05:57:22Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Update translations from Crowdin (#4838)",
-      "sha": "bc8e08f126fed5db2668b302a8cebe2fa59489f1",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-12T05:38:06Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Update self-closing tag eslint config (#4826)\n\n* chore: Fix self-closing tag issues\r\n\r\n* Fix merge conflicts\r\n\r\nCo-authored-by: Fayaz Ahmed <15716057+fayazara@users.noreply.github.com>",
-      "sha": "7bb8186e43b87cdcb8049beb24aa216b222072dd",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-10T13:59:52Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Add support for message_templates in API inbox (#4835)",
-      "sha": "3f3ee6c34a7f8f69f45c1b259d90abb533bcdfae",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-10T13:10:29Z"
-    },
-    {
-      "author": 10827585,
-      "message": "chore: upgrade FB api version (#4834)",
-      "sha": "9bac5873ef6429bcfce7621bf19453a2e20292d5",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-10T06:56:21Z"
-    },
-    {
-      "author": 15716057,
-      "message": "fix: Remove validation for WhatsApp templates with no params (#4820)",
-      "sha": "c5c89449dd46e63fedf6ca7e59898152af592249",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-09T16:04:59Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Update translations from Crowdin (#4833)",
-      "sha": "6385e42d9b83894d471ee2431795c01ab57e5f4e",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-09T16:00:03Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Update translations from Crowdin (#4822)",
-      "sha": "74fa907010f4339b8b3846f4d39bb5f8923c8b93",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-08T16:06:47Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Update translations from Crowdin (#4772)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
-      "sha": "a9e84ec182ef589439f1f77910ddc9801ae88109",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-08T12:37:45Z"
-    },
-    {
-      "author": 49699333,
-      "message": "chore(deps): bump jmespath from 1.6.0 to 1.6.1 (#4808)\n\nBumps [jmespath](https://github.com/trevorrowe/jmespath.rb) from 1.6.0 to 1.6.1.\r\n- [Release notes](https://github.com/trevorrowe/jmespath.rb/releases)\r\n- [Changelog](https://github.com/jmespath/jmespath.rb/blob/main/CHANGELOG.md)\r\n- [Commits](https://github.com/trevorrowe/jmespath.rb/compare/v1.6.0...v1.6.1)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: jmespath\r\n  dependency-type: indirect\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
-      "sha": "5d1729c7dd0b142f9a8ac6c047642647e5ee1cb6",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-08T04:38:27Z"
-    },
-    {
-      "author": 23050,
-      "message": "chore: Make \"apk\" commands consistent in Dockerfile (#4790)\n\n* Make \"apk\" commands consistent in Dockerfile\r\n\r\n1. Add \"--no-cache\" to some \"apk\" command that are missing it\r\n\r\n* Remove \"--update-cache\" in Dockerfile\r\n\r\n> As of Alpine Linux 3.3 there exists a new --no-cache option for apk. It allows\r\n> users to install packages with an index that is updated and used on-the-fly and\r\n> not cached locally\r\n>\r\n> This avoids the need to use --update-cache and remove /var/cache/apk/* when\r\n> done installing packages.\r\n\r\nhttps://github.com/gliderlabs/docker-alpine/blob/master/docs/usage.md",
-      "sha": "635e544124a91f01c86244ea7ecb6350c706a52d",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-07T14:19:32Z"
-    },
-    {
-      "author": 10827585,
-      "message": "fix: Facebook reauthorization mailer (#4695)",
-      "sha": "772d92a4d3706235578e2cbe88058bb389c05c2d",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-07T12:20:51Z"
-    },
-    {
-      "author": 15716057,
-      "message": "feat: Add support for Whatsapp template messages in the UI (#4711)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
-      "sha": "bad24f97abd3f839d40f890b24f797c09e25a9c6",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-07T12:03:33Z"
-    },
-    {
-      "author": 10827585,
-      "message": "feat: Attribute changed filter for automations (#4621)",
-      "sha": "56f668db6bca4ad7c91ca88a9e258d00bfb46f7a",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-07T07:31:01Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Remove flay, rspec from development/test group (#4795)",
-      "sha": "267252d13ad9043c5a778a7c2b09680c18ac42e7",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-06T07:13:19Z"
-    },
-    {
-      "author": 15716057,
-      "message": "feat: Add Bulk actions to conversations (#4647)\n\nCo-authored-by: Sivin Varghese <64252451+iamsivin@users.noreply.github.com>\r\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
-      "sha": "79a525aa62ffeddfc311e998f540704b3a08e20d",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-03T05:42:22Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix: command execution in heredoc comment (#4783)",
-      "sha": "43a0b4c039b76d1eb752143a9c5989b5b67f63c3",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-02T14:21:50Z"
-    },
-    {
-      "author": 2246121,
-      "message": "fix: Disable marking IMAP connection as invalid for Standard Errors (#4764)",
-      "sha": "6b9f4d08ca37c5bd6fd4dd154e3929f7335904b7",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-02T06:08:58Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix: Update text used in personal message signature (#4776)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
-      "sha": "c7c46463ae78aa6c3a2a0dd1be0f620556ddbdb5",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-01T13:11:18Z"
-    },
-    {
-      "author": 2246121,
-      "message": "feat: Allow users to create dashboard apps to give agents more context (#4761)",
-      "sha": "b9aa4444b3ed87026cd060e9a062ba80e7373afa",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-01T05:43:10Z"
-    },
-    {
-      "author": 49699333,
-      "message": "chore(deps): bump eventsource from 1.1.0 to 1.1.1 (#4774)\n\nBumps [eventsource](https://github.com/EventSource/eventsource) from 1.1.0 to 1.1.1.\r\n- [Release notes](https://github.com/EventSource/eventsource/releases)\r\n- [Changelog](https://github.com/EventSource/eventsource/blob/master/HISTORY.md)\r\n- [Commits](https://github.com/EventSource/eventsource/compare/v1.1.0...v1.1.1)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: eventsource\r\n  dependency-type: indirect\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
-      "sha": "55f7be4ffc429aadefb0b814636a0023456e00f9",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-06-01T05:27:18Z"
-    },
-    {
-      "author": 15716057,
-      "message": "Handle falsy values for filename (#4766)",
-      "sha": "3f382e5979d508fbd6d9f153b37433c7fe6f0cbe",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-31T11:08:24Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Update translations (#4755)",
-      "sha": "afc7c1ac64f96fe754d16f5a15bf39c6ed6f70dc",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-30T13:09:20Z"
-    },
-    {
-      "author": 49699333,
-      "message": "chore(deps): bump rack from 2.2.3 to 2.2.3.1 (#4756)\n\nBumps [rack](https://github.com/rack/rack) from 2.2.3 to 2.2.3.1.\r\n- [Release notes](https://github.com/rack/rack/releases)\r\n- [Changelog](https://github.com/rack/rack/blob/main/CHANGELOG.md)\r\n- [Commits](https://github.com/rack/rack/compare/2.2.3...2.2.3.1)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: rack\r\n  dependency-type: indirect\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
-      "sha": "e924ce8b4e60530e5f4d1fe284413f3465c339da",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-30T11:48:18Z"
-    },
-    {
-      "author": 3526167,
-      "message": "chore: Update ruby and docker base image to 3.0.4 (#4693)\n\n* chore: Update ruby version to 3.0.4\r\n\r\n* chore: update ruby version in docker workflow\r\n\r\n* chore: update ruby version to 3.1.2\r\n\r\n* Upgrade vue-jest to remove deasync\r\n\r\n* Revert to 3.0.4 to see if deasync issue is fixed\r\n\r\n* fix: script failure if pg/redis not opted in\r\n\r\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
-      "sha": "568c30e93e92ddcaffcf8874332d07c692590b8d",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-27T12:03:24Z"
-    },
-    {
-      "author": 3112022,
-      "message": "chore: Fix the exception while destructuring data in chatwoot:error listener  (#4702)",
-      "sha": "50d2dbd46257eb40b8741b6fe91850b6e896e1a3",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-27T06:53:29Z"
-    },
-    {
-      "author": 2246121,
-      "message": "feat: Add business hours in downloadable reports (#4674)\n\nCo-authored-by: Aswin Dev P.S <aswindevps@gmail.com>",
-      "sha": "52fad886b88e71f88a81ad44916da746b60cd56d",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-27T03:56:59Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Update translations from Crowdin (#4751)",
-      "sha": "dceeb57a1d514d32ed17db61763b5ba23899fad4",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-26T14:53:36Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Improve the reauthorization requirement for Email Channel (#4753)",
-      "sha": "ab05dd9b9b2f65a74b9f36c0dab6b5a08d5a7af3",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-26T14:53:00Z"
-    },
-    {
-      "author": 10827585,
-      "message": "feat: send instagram message after 24 hours (#4698)\n\nAdded MESSAGE_TAG: HUMAN_AGENT for Instagram messages if the user wants to send it after the standard message window.\r\n\r\nFixes #4689",
-      "sha": "47a6d9681a4303eb54705246eec01d117a20c18b",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-26T13:35:30Z"
-    },
-    {
-      "author": 2246121,
-      "message": "fix: Remove translated keys from locale files (#4748)",
-      "sha": "1215f37ddae1a69a203ddb0622fc21e1bc8f1a59",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-25T11:36:31Z"
-    },
-    {
-      "author": 2246121,
-      "message": "fix: Revert changes to fix name updation from pre-chat form (#4741)",
-      "sha": "7434b60f71a2eaeca40df7e6fcd5c8b95c8e5e81",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-25T07:08:23Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: Improve Linux installation experience (#4713)\n\n* feat: improve linux install script\r\n\r\n* feat: setup logging and reduce verboseness\r\n\r\n- redirect output/error to logfile\r\n- reduce verboseness in main script exection\r\n- trap non-zero exit\r\n\r\n* chore: remove debug logging\r\n\r\n* feat: fix exit handler\r\n\r\n* improve legibility\r\n\r\n* Apply suggestions from code review\r\n\r\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>\r\n\r\n* chore: improve formatting\r\n\r\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
-      "sha": "22d22cf4c3c5166b653653dfafac9b557975cbb7",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-25T07:00:00Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Update cache name in Circle CI builds (#4738)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
-      "sha": "baa3efaf0ef0d59555d2c3df6ce04303a31b45a2",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-24T16:45:57Z"
-    },
-    {
-      "author": 49699333,
-      "message": "chore(deps): bump nokogiri from 1.13.5 to 1.13.6 (#4734)\n\nBumps [nokogiri](https://github.com/sparklemotion/nokogiri) from 1.13.5 to 1.13.6.\r\n- [Release notes](https://github.com/sparklemotion/nokogiri/releases)\r\n- [Changelog](https://github.com/sparklemotion/nokogiri/blob/main/CHANGELOG.md)\r\n- [Commits](https://github.com/sparklemotion/nokogiri/compare/v1.13.5...v1.13.6)\r\n\r\n---\r\nupdated-dependencies:\r\n- dependency-name: nokogiri\r\n  dependency-type: indirect\r\n...\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>\r\n\r\nCo-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
-      "sha": "d20eafbda4719693a9c0084c84f5311eab00250e",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-24T05:42:19Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Add Assignable Agents API (#4722)",
-      "sha": "56cd9bc0b873a5416cd1e210bfee1701e35f04e4",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-23T13:54:07Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Enable Ukrainian language (uk) (#4720)",
-      "sha": "79280ae372a7e1522756babb6300b1c68f3aa07f",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-23T07:16:17Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Update translations (#4691)",
-      "sha": "f74a1f7d5ac2dc58a168eaab2728e3fe0de34be3",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-23T06:03:54Z"
-    },
-    {
-      "author": 5848740,
-      "message": "chore: Update conversations API to include unattended conversations. (#4708)\n\n* Update conversations API to include unattended conversations.",
-      "sha": "59969cc5536f63e926ad999e79f136bfb1e1ed03",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-22T07:38:41Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Update the documentation for configuring webhooks in the account (#4703)",
-      "sha": "11ea8a3032a7199c71308fbcc5d52056d73412a9",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-19T16:13:23Z"
-    },
-    {
-      "author": 5848740,
-      "message": "Add first_reply_created event in conversation (#4576)",
-      "sha": "8538660bbd69e43109d1c3292ad2b47261f02c30",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-19T04:16:33Z"
-    },
-    {
-      "author": 2246121,
-      "message": "fix: Update report method to fix issues with special characters (#4697)",
-      "sha": "20565d09c0771a3d229edc795affa2aef66268b4",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-18T06:45:30Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Add an option to download CSAT Reports (#4694)",
-      "sha": "47f04ee3fec88e2b839b6019f226e1fb533d644c",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-17T15:31:45Z"
-    },
-    {
-      "author": 73185,
-      "message": "Merge branch 'release/2.5.0' into develop",
-      "sha": "361ffbab82614ef4a00cc08ec40b015f0ee2652e",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-16T11:25:34Z"
-    },
-    {
-      "author": 73185,
-      "message": "Merge branch 'release/2.5.0'",
-      "sha": "63b1013b450c1539ace1cc6f5657368a33e196bc",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-16T11:25:24Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Enable New Message Button on Contact Panel (#4681)\n\nFixes: #4653",
-      "sha": "b8f25d77bf59a6ba012b524e19c17a2e65c0a98d",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-16T11:11:40Z"
-    },
-    {
-      "author": 10827585,
-      "message": "feat: Portal endpoint (#4633)",
-      "sha": "938fb887c4269ff3eb25afe1222e6196da5fb5b6",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-16T08:29:59Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Update translations (#4682)",
-      "sha": "f620bdec542eba61f60f800516df8e06d154ac4d",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-16T07:15:45Z"
-    },
-    {
-      "author": 2246121,
-      "message": "fix: Render links with target attribute (#4685)",
-      "sha": "45e2cd4903c0697f6d7c37a1714da2aa69ce8ffb",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-16T05:59:05Z"
-    },
-    {
-      "author": 73185,
-      "message": "Bump version to 2.5.0",
-      "sha": "2060f270d3b6b8149ba6062e2a25327484c9264c",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-13T11:56:26Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Update translations from Crowdin (#4665)",
-      "sha": "6535624cd6bb0aca76421e452b64645f8c1b015e",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-13T06:08:49Z"
-    },
-    {
-      "author": 3526167,
-      "message": "feat: Control sidekiq log level via rails LOG_LEVEL env variable (#4675)",
-      "sha": "8fbe470bdd9b65ceeb36a3f25b25f9fefd89ece6",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-13T06:04:43Z"
-    },
-    {
-      "author": 103104754,
-      "message": "chore: Update the note of Personal message signature (#4679)",
-      "sha": "ab3ee74a8672f4ac07c6107448c2d9ba6f012653",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-13T06:04:09Z"
-    },
-    {
-      "author": 5848740,
-      "message": "Fix: Agent Reports counts when they have access to multiple accounts (#4663)\n\nThis change restricts the agent report API to fetch agent metrics from the current account.\r\n\r\nFixes: #4660",
-      "sha": "41b89014324772d8351b15936d25623f852980cb",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-11T09:01:57Z"
-    },
-    {
-      "author": 10827585,
-      "message": "Fix: Creating contacts for already outgoing/echo messages (#4668)\n\nCheck if the Instagram contact is already present in the system before throwing the exception.\r\n\r\nFixes: #4666",
-      "sha": "329d305e9272ae62113a3cfd6564500e5c5d1cca",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-11T08:59:38Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Split Inbox Settings Page Component (#4664)\n\nClean up the Inbox settings page component as the logic was growing complex.\r\n\r\n- Moved subpages like collaborators and configuration to new components\r\n- Moved Assignment settings to the collaborators tab\r\n- Introduced a new inbox seeder to quickly preview setting pages of all inbox types when in development",
-      "sha": "5c161e0fefd14aa1769480a78829761cf464ecb2",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-11T08:03:24Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Remove unused method scriptGenerator (#4671)",
-      "sha": "9cec0917165a21651b335f8beac10f259da1ba56",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-11T06:35:42Z"
-    },
-    {
-      "author": 10827585,
-      "message": "Fix: Make version changeable from the environment vars (#4654)",
-      "sha": "9ed1f5d96b558564bfcd5e3d1c6cc2b47790e33f",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-10T13:50:55Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Ability to update user email via Platform APIs (#4659)\n\nWhen the platform update API is called with a new user email, Chatwoot will still follow the same behaviour as in the dashboard where the user will have to confirm the new email activation link until the email gets updated on the user record.\r\n\r\nIn the case of platform APIs, this might not be the ideal behaviour since the original app will already have a flow to update the user emails. Hence we need to confirm the emails without the extra step in this case\r\n\r\nfixes: #4510",
-      "sha": "81d0405473109971e24773657705fa4e77af49fb",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-09T18:58:46Z"
-    },
-    {
-      "author": 10827585,
-      "message": "Fix: sentry issue for slack incoming files check (#4656)\n\nInterpreter error for nil. any? added nil. present?\r\n\r\nFixes: https://sentry.io/share/issue/48c10d26490f4bdaab78c82244fcea98/",
-      "sha": "f64cf85ab24e933e9469d0eab45c748f4f859f3e",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-09T18:24:45Z"
-    },
-    {
-      "author": 10827585,
-      "message": "Fix: slack repeated callback event message for attached files (#4610)",
-      "sha": "0eeab8c56c1af6cd5ff8e5b9e048a49e59fb2fc1",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-09T13:48:30Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Update translations from Crowdin (#4652)",
-      "sha": "5ce29a7bebd4b661aa06dbeeb6fb78b02c91ed7b",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-09T13:27:05Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Upgrade Exception tracking (#4638)\n\n- Upgrade Sentry Libraries\r\n- Enable provision for account and user info in error tracking\r\n- Add ChatwootExceptionTracker\r\n\r\nfixes: #4375",
-      "sha": "04dfb034ccb52f4ad85aa66dc5265b95ed60b8c5",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-09T08:53:19Z"
-    },
-    {
-      "author": 5848740,
-      "message": "Fix: Campaign triggers first_response reporting event (#4607)\n\n* Fix: Campaign triggers first_response reporting event\r\n\r\n* fix spec failure",
-      "sha": "360b438a55582259b8206dbe4872afb858025d75",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-09T08:34:52Z"
-    },
-    {
-      "author": 23050,
-      "message": "chore:  \"Channel::TwilioSms\" to be unique on account_sid+phone_number (#4188)\n\n\"Twilio::IncomingMessageService\" searches for the correct \"Channel::TwilioSms\"\r\nby account_sid+phone_number.  If these values are duplicated then which record it\r\nfinds is indeterminate and may alternate between queries.\r\n\r\nCo-authored-by: Sojan Jose <sojan@pepalo.com>",
-      "sha": "5b5a6d89c0cf7f3148a1439d6fcd847784a79b94",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-07T12:27:16Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Use different files for widget and dashboard audio alert (#4637)",
-      "sha": "2e0d43c09373199284437466b111d55c8b1f404c",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-06T14:49:36Z"
-    },
-    {
-      "author": 15716057,
-      "message": "feat: Add the SDK method to programatically toggle live chat bubble (#4223)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
-      "sha": "ef850eda0fbcb8bf5e555cd8e3d8e55d92ca5665",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-06T14:00:48Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Update puma config as per recommendations (#3640)\n\nAbility to configure workers for puma\r\n\r\nref:\r\nhttps://devcenter.heroku.com/articles/concurrency-and-database-connections#threaded-servers\r\nhttps://www.speedshop.co/2017/10/12/appserver.html",
-      "sha": "80b8f5f915528bac7df92ca6aa7fe56d5e54f73c",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-06T11:08:44Z"
-    },
-    {
-      "author": 23050,
-      "message": "feat: Open \"Switch Account\" modal when clicking account name on dashboard (#4613)\n\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
-      "sha": "77a6893203c85153d730618f27573cdd47c72809",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-06T09:25:38Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Sentry issues (#4623)\n\nFixes various issues reported on sentry\r\n\r\n- Twilio channel creation validation errors\r\n- Room Channel error with nil class\r\n- Webhook Uri exception",
-      "sha": "8d2b719dc1f3cd9261e0ca0998fdb86943ea11f8",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-06T09:20:55Z"
-    },
-    {
-      "author": 12408980,
-      "message": "fix: Pre chat custom fields drag and drop (#4530)",
-      "sha": "4f9d41962a3f98206297679ff65d72b9ab3af214",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-06T06:31:34Z"
-    },
-    {
-      "author": 3526167,
-      "message": "chore: update newrelic gem to support log forwarding (#4626)\n\nNewrelic gem 8.7 has application log forwarding support and\r\nthis is enabled by default. Update the gem to make use of this\r\nfeature. Chatwoot have turned this off by default though.\r\n\r\nSet `NEW_RELIC_APPLICATION_LOGGING_ENABLED` to enable this feature. Make\r\nsure to disable another log forwarding services you have to prevent\r\nduplicated logs.\r\n\r\nref: https://docs.newrelic.com/docs/release-notes/agent-release-notes/ruby-release-notes/ruby-agent-870\r\nFixes: #4625",
-      "sha": "66d366f0ff7768d4df154b731d80fb1ac73bc5c9",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-05T18:27:55Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Update missing packages in yarn.lock (#4627)",
-      "sha": "832a0f24a09fcdf79c909cf7cd2d8f74d0a22930",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-05T13:59:51Z"
-    },
-    {
-      "author": 73185,
-      "message": "chore: Sentry Issue fixes (#4618)\n\nAddress the following sentry issues\r\n\r\nfixes: #4616, #4617",
-      "sha": "c9a8796a36244a18f9f209d602470f125f4e8726",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-04T19:01:11Z"
-    },
-    {
-      "author": 9892674,
-      "message": "fix: unable to send audio messages on Telegram (#4493)\n\n- Changed the lib used to record the audio (videojs-record). \r\n- Changed the audio recording format to .ogg, this will keep compatibility with sending to channels, Telegram, Whatsapp, Web Widget and API.\r\n- Changed the visualization of recording waves, it is now using bars, the same format used by applications (Whatsapp and Telegram)\r\n\r\n\r\nFixes: #4115",
-      "sha": "b3c8c8383099cc3bd42589e7feda778b25cb005c",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-05-02T07:44:04Z"
-    },
-    {
-      "author": 16636757,
-      "message": "Fix: Accept phone number in public contact api (#4580)\n\nThis PR makes it possible to pass a phone number to the public contacts API.\r\n\r\nFixes #4023",
-      "sha": "c1cc94e37c5da6d553df51f59ab0068e7b53bbc5",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-04-29T15:24:12Z"
-    },
-    {
-      "author": 3526167,
-      "message": "fix: ce spec action for PRs from forks (#4587)\n\nCE spec action was failing for PRs from external forks at the checkout stage. This PR modifies the checkout action to use the full repo name and branch.\r\n\r\n#4586",
-      "sha": "45099f40f1575c8730e9795a54ea35ca69b395a1",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-04-29T09:08:10Z"
-    },
-    {
-      "author": 16636757,
-      "message": "fix: sidekiq cron deprecation warnings (#4581)\n\nUpdates sidekiq-cron to fix the deprecation warnings\r\n\r\nFixes #4090",
-      "sha": "b5e0921d0d9e5831aa477a015bb03fa06c84a994",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-04-28T19:13:10Z"
-    },
-    {
-      "author": 10827585,
-      "message": "Fix: File upload from slack (#4494)\n\nWhen you upload a file from slack chat it's not appearing in the chatwoot inbox.\r\nThis is because Slack updated the webhook event format",
-      "sha": "e5136c2691da01ec22a5bda7e2b238d348a43eb7",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-04-28T15:39:39Z"
-    },
-    {
-      "author": 16636757,
-      "message": "Fix: attachment name for incoming messages \n\nUse original_filename to get the name of the file attached to the message.\r\n\r\nHad to add the message_type method to the WhatsApp/incoming_message_service due to the Assignment Branch Condition linter error for the attach_files method.\r\n\r\nFixes #4183",
-      "sha": "04194e7247715d53565de8e9c44b3e338c22eca8",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-04-28T15:32:17Z"
-    },
-    {
-      "author": 5848740,
-      "message": "fix: Add index in conversation and reporting event (#4577)\n\nFixes chatwoot/product#422",
-      "sha": "8d04894744860c8979936227f9c7017dd7103062",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-04-28T11:28:06Z"
-    },
-    {
-      "author": 10827585,
-      "message": "chore: Allow Facebook channel to receive standby messages  (#4511)",
-      "sha": "cb38ec32679605ed579d680a6b70ae41a5e70da2",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-04-27T19:44:03Z"
-    },
-    {
-      "author": 2246121,
-      "message": "fix: Disable automation on tweets (#4571)\n\nFixes #4565",
-      "sha": "8348392d43b79950bb6c307629201b711aaabe40",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-04-27T14:40:40Z"
-    },
-    {
-      "author": 5848740,
-      "message": "fix: Unattendeed conversation count in agent metrics (#4568)",
-      "sha": "95c7a24dd1fc05fb2a692c5b4e14bda8ce85be2b",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-04-27T13:26:35Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Upgrade rails to 6.1.5.1 (#4570)",
-      "sha": "4250c40d1d550511eb0d9788c7353e94846dca78",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-04-27T13:03:22Z"
-    },
-    {
-      "author": 15716057,
-      "message": "Fix positioning of read ticks on attachment message bubbles (#4545)\n\n* Fix positioning of read ticks\r\n\r\n* Review fixes\r\n\r\nCo-authored-by: Sivin Varghese <64252451+iamsivin@users.noreply.github.com>\r\nCo-authored-by: iamsivin <iamsivin@gmail.com>",
-      "sha": "3d824855f0d8ceba733092f8048e809a92d5628a",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-04-27T02:42:30Z"
-    },
-    {
-      "author": 5848740,
-      "message": "fix: Update agent metrics query to show data from current account (#4557)\n\n* Update agent metrics query to fetch data from current account",
-      "sha": "1bf2da180bc33074173063cbc813db3cd5fb62a1",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-04-26T12:52:13Z"
-    },
-    {
-      "author": 12408980,
-      "message": "fix: Check `phone_number` and `email` changes are exist before validation (#4551)",
-      "sha": "3a5e34fccb23b2c3f7054b00ba22a635fb4cacb3",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot",
-      "createdAt": "2022-04-26T09:43:28Z"
     },
     {
       "author": 64252451,
@@ -26027,44 +26043,12 @@
       "lastCommitAt": "2021-02-03T02:53:57Z"
     },
     {
-      "id": 4143552,
-      "login": "shamsudheen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4143552?v=4",
-      "commitsCount": 37,
-      "firstCommitAt": "2021-10-07T10:25:53Z",
-      "lastCommitAt": "2022-05-31T16:13:52Z"
-    },
-    {
-      "id": 67892021,
-      "login": "shamsu-accubits",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67892021?v=4",
-      "commitsCount": 2,
-      "firstCommitAt": "2022-05-24T22:29:18Z",
-      "lastCommitAt": "2022-05-28T14:07:47Z"
-    },
-    {
       "id": 12408980,
       "login": "muhsin-k",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12408980?v=4",
       "commitsCount": 472,
       "firstCommitAt": "2019-11-21T09:12:40Z",
       "lastCommitAt": "2022-09-05T10:02:14Z"
-    },
-    {
-      "id": 54208632,
-      "login": "1t5j0y",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54208632?v=4",
-      "commitsCount": 1,
-      "firstCommitAt": "2021-11-11T11:34:50Z",
-      "lastCommitAt": "2021-11-11T11:34:50Z"
-    },
-    {
-      "id": 5902976,
-      "login": "aniravi24",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5902976?v=4",
-      "commitsCount": 3,
-      "firstCommitAt": "2021-06-02T15:46:45Z",
-      "lastCommitAt": "2021-06-12T19:22:25Z"
     },
     {
       "id": 1277421,
@@ -26081,6 +26065,62 @@
       "commitsCount": 54,
       "firstCommitAt": "2021-08-03T08:28:00Z",
       "lastCommitAt": "2022-08-02T07:34:20Z"
+    },
+    {
+      "id": 15716057,
+      "login": "fayazara",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15716057?v=4",
+      "commitsCount": 60,
+      "firstCommitAt": "2021-08-26T14:21:10Z",
+      "lastCommitAt": "2022-08-16T11:07:52Z"
+    },
+    {
+      "id": 15872348,
+      "login": "akshitkrnagpal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/15872348?v=4",
+      "commitsCount": 19,
+      "firstCommitAt": "2020-01-25T05:18:09Z",
+      "lastCommitAt": "2020-08-11T19:45:59Z"
+    },
+    {
+      "id": 46447321,
+      "login": "allcontributors[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/23186?v=4",
+      "commitsCount": 8,
+      "firstCommitAt": "2019-09-05T06:46:56Z",
+      "lastCommitAt": "2020-07-06T11:10:28Z"
+    },
+    {
+      "id": 4143552,
+      "login": "shamsudheen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4143552?v=4",
+      "commitsCount": 37,
+      "firstCommitAt": "2021-10-07T10:25:53Z",
+      "lastCommitAt": "2022-05-31T16:13:52Z"
+    },
+    {
+      "id": 67892021,
+      "login": "shamsu-accubits",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67892021?v=4",
+      "commitsCount": 2,
+      "firstCommitAt": "2022-05-24T22:29:18Z",
+      "lastCommitAt": "2022-05-28T14:07:47Z"
+    },
+    {
+      "id": 54208632,
+      "login": "1t5j0y",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54208632?v=4",
+      "commitsCount": 1,
+      "firstCommitAt": "2021-11-11T11:34:50Z",
+      "lastCommitAt": "2021-11-11T11:34:50Z"
+    },
+    {
+      "id": 5902976,
+      "login": "aniravi24",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5902976?v=4",
+      "commitsCount": 3,
+      "firstCommitAt": "2021-06-02T15:46:45Z",
+      "lastCommitAt": "2021-06-12T19:22:25Z"
     },
     {
       "id": 64605024,
@@ -26123,36 +26163,12 @@
       "lastCommitAt": "2020-09-25T21:02:34Z"
     },
     {
-      "id": 15716057,
-      "login": "fayazara",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15716057?v=4",
-      "commitsCount": 60,
-      "firstCommitAt": "2021-08-26T14:21:10Z",
-      "lastCommitAt": "2022-08-16T11:07:52Z"
-    },
-    {
-      "id": 15872348,
-      "login": "akshitkrnagpal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/15872348?v=4",
-      "commitsCount": 19,
-      "firstCommitAt": "2020-01-25T05:18:09Z",
-      "lastCommitAt": "2020-08-11T19:45:59Z"
-    },
-    {
-      "id": 46447321,
-      "login": "allcontributors[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/23186?v=4",
-      "commitsCount": 8,
-      "firstCommitAt": "2019-09-05T06:46:56Z",
-      "lastCommitAt": "2020-07-06T11:10:28Z"
-    },
-    {
-      "id": 3526167,
-      "login": "vishnu-narayanan",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3526167?v=4",
-      "commitsCount": 184,
-      "firstCommitAt": "2020-02-07T06:35:09Z",
-      "lastCommitAt": "2022-09-05T08:05:59Z"
+      "id": 10827585,
+      "login": "tejaswinichile",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/10827585?v=4",
+      "commitsCount": 134,
+      "firstCommitAt": "2021-08-18T09:58:45Z",
+      "lastCommitAt": "2022-09-07T06:52:24Z"
     },
     {
       "id": 64252451,
@@ -26163,12 +26179,12 @@
       "lastCommitAt": "2022-09-06T08:36:26Z"
     },
     {
-      "id": 10827585,
-      "login": "tejaswinichile",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/10827585?v=4",
-      "commitsCount": 132,
-      "firstCommitAt": "2021-08-18T09:58:45Z",
-      "lastCommitAt": "2022-09-02T17:39:29Z"
+      "id": 3526167,
+      "login": "vishnu-narayanan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3526167?v=4",
+      "commitsCount": 184,
+      "firstCommitAt": "2020-02-07T06:35:09Z",
+      "lastCommitAt": "2022-09-05T08:05:59Z"
     },
     {
       "id": 23050,
@@ -26219,22 +26235,6 @@
       "lastCommitAt": "2022-07-28T04:27:39Z"
     },
     {
-      "id": 54680617,
-      "login": "yadunandanbhat",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54680617?v=4",
-      "commitsCount": 1,
-      "firstCommitAt": "2022-05-11T11:12:40Z",
-      "lastCommitAt": "2022-05-11T11:12:40Z"
-    },
-    {
-      "id": 12014867,
-      "login": "tviv",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12014867?v=4",
-      "commitsCount": 1,
-      "firstCommitAt": "2021-12-27T07:11:04Z",
-      "lastCommitAt": "2021-12-27T07:11:04Z"
-    },
-    {
       "id": 28541758,
       "login": "DavidSpek",
       "avatarUrl": "https://avatars.githubusercontent.com/u/28541758?v=4",
@@ -26265,6 +26265,22 @@
       "commitsCount": 1,
       "firstCommitAt": "2022-01-21T09:05:26Z",
       "lastCommitAt": "2022-01-21T09:05:26Z"
+    },
+    {
+      "id": 54680617,
+      "login": "yadunandanbhat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54680617?v=4",
+      "commitsCount": 1,
+      "firstCommitAt": "2022-05-11T11:12:40Z",
+      "lastCommitAt": "2022-05-11T11:12:40Z"
+    },
+    {
+      "id": 12014867,
+      "login": "tviv",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12014867?v=4",
+      "commitsCount": 1,
+      "firstCommitAt": "2021-12-27T07:11:04Z",
+      "lastCommitAt": "2021-12-27T07:11:04Z"
     },
     {
       "id": 22840240,
@@ -26499,6 +26515,22 @@
       "lastCommitAt": "2021-09-02T09:45:27Z"
     },
     {
+      "id": 3112022,
+      "login": "devinellis",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3112022?v=4",
+      "commitsCount": 1,
+      "firstCommitAt": "2022-05-27T06:53:29Z",
+      "lastCommitAt": "2022-05-27T06:53:29Z"
+    },
+    {
+      "id": 16636757,
+      "login": "shivamsinghchahar",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16636757?v=4",
+      "commitsCount": 9,
+      "firstCommitAt": "2021-11-17T12:35:53Z",
+      "lastCommitAt": "2022-04-29T15:24:12Z"
+    },
+    {
       "id": 16194055,
       "login": "anoopmm",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16194055?v=4",
@@ -26585,22 +26617,6 @@
       "commitsCount": 1,
       "firstCommitAt": "2021-02-10T07:10:16Z",
       "lastCommitAt": "2021-02-10T07:10:16Z"
-    },
-    {
-      "id": 3112022,
-      "login": "devinellis",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3112022?v=4",
-      "commitsCount": 1,
-      "firstCommitAt": "2022-05-27T06:53:29Z",
-      "lastCommitAt": "2022-05-27T06:53:29Z"
-    },
-    {
-      "id": 16636757,
-      "login": "shivamsinghchahar",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16636757?v=4",
-      "commitsCount": 9,
-      "firstCommitAt": "2021-11-17T12:35:53Z",
-      "lastCommitAt": "2022-04-29T15:24:12Z"
     },
     {
       "id": 625996,
