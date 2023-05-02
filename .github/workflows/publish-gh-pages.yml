@@ -1,13 +1,13 @@
 # #
 # # This action will fetch the commits across the org
 # # and commit the changes to the repository.
-# # This is set to run every 6 hours.
+# # This is set to run every 8 hours.
 # #
 
 name: Publish Github Pages
 on:
   schedule:
-    - cron: "0 */1 * * *" # every hour
+    - cron: "0 */8 * * *" # thrice a day
   workflow_dispatch:
 jobs:
   action:
