@@ -65,326 +65,6 @@
       "createdAt": "2020-12-18T15:51:39Z"
     },
     {
-      "author": 4143552,
-      "message": "fix #12",
-      "sha": "5451e87dada16f7457b70fb8672f30429677b9e2",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-05-31T16:13:52Z"
-    },
-    {
-      "author": 4143552,
-      "message": "agent_last_seen_at updated",
-      "sha": "13d1c2e722b77dfe0d3369aebd717c78bc442552",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-05-31T13:10:42Z"
-    },
-    {
-      "author": 4143552,
-      "message": "fix 14#",
-      "sha": "d4fb0ac1c845dab7212ebcc2d690923089824724",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-05-31T11:35:08Z"
-    },
-    {
-      "author": 4143552,
-      "message": "crash fix",
-      "sha": "6da16b90d1fca7883a202196f25144bc24d59db8",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-05-28T22:57:35Z"
-    },
-    {
-      "author": 4143552,
-      "message": "fix #11",
-      "sha": "9d018fdf1ae8f79f93a2af1398275c110b5410d0",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-05-28T22:47:04Z"
-    },
-    {
-      "author": 4143552,
-      "message": "fix #15",
-      "sha": "0f0ebab701d7b1bf3f4f92362053335150dbe8fe",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-05-28T21:52:48Z"
-    },
-    {
-      "author": 4143552,
-      "message": "fix #6",
-      "sha": "69aeb043d9049baf3d8acdc71adf343d3da49675",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-05-28T21:07:24Z"
-    },
-    {
-      "author": 4143552,
-      "message": "fix #8",
-      "sha": "8e799596b4d1bbe139f1368e97ccbd1f3259314f",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-05-28T19:41:13Z"
-    },
-    {
-      "author": 4143552,
-      "message": "SDK Bundle configuration updated",
-      "sha": "5176dbd1d2f6f2be33982f605d3db1a86e98a46a",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-05-28T15:36:13Z"
-    },
-    {
-      "author": 4143552,
-      "message": "fix #7",
-      "sha": "ee5ac24ed56ad0a014a5ceecdccfdf5ddaac2569",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-05-28T15:34:52Z"
-    },
-    {
-      "author": 4143552,
-      "message": "fix #13",
-      "sha": "e326f842255c8ef219d131272485d58b1fca1c35",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-05-28T14:28:43Z"
-    },
-    {
-      "author": 67892021,
-      "message": "SDK setup improvements",
-      "sha": "a06bba9a282c2a8e4ce21f2981a7b49b9af936cc",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-05-28T14:07:47Z"
-    },
-    {
-      "author": 4143552,
-      "message": "SDK code structuring enhancements.",
-      "sha": "d466ba7add7ab7d7273759e4a1eb074a36961100",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-05-24T22:32:52Z"
-    },
-    {
-      "author": 67892021,
-      "message": "Merge commit 'caf2454ee5f6b0815e7a0e7dc6bc346ac57a33f9'",
-      "sha": "7d772357236c7b0d182c044b4ed43db190bfb86e",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-05-24T22:29:18Z"
-    },
-    {
-      "author": 4143552,
-      "message": "SDK code tree structuring enhancements.",
-      "sha": "18170232ebc6a77d2fe8a80f163146a75ff5578d",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-05-24T22:23:35Z"
-    },
-    {
-      "author": 4143552,
-      "message": "SDK code tree structuring completed.",
-      "sha": "caf2454ee5f6b0815e7a0e7dc6bc346ac57a33f9",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-05-04T21:23:51Z"
-    },
-    {
-      "author": 4143552,
-      "message": "File data-type handled.",
-      "sha": "a1aef6ddf7ff99385de6bf5fdb9ca637e4fee5b1",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-04-01T23:25:40Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Minor improvements.",
-      "sha": "238d3a1e3f77694d3b56a21f0d6f332df96c2f52",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-04-01T22:21:00Z"
-    },
-    {
-      "author": 4143552,
-      "message": "New conversation is completed.",
-      "sha": "9d66af50d34f9434c81654fcd25c96f4af2b3bdf",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-04-01T21:48:18Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Chat list page socket messaging comleted.",
-      "sha": "66d9f1ebad828154146005acf89adbf1b75ffa2d",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-04-01T20:35:09Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Listing page socket messaging completed.",
-      "sha": "dddd490bd2469bcbbd45cd5d7f1aaf36ab7ccb07",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-04-01T11:46:32Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Image upload completed.",
-      "sha": "9f875714133938c109e1378398b186afb5f76ada",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-03-31T16:48:01Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Unread message count updated.",
-      "sha": "6151014575628c317ae567bd9963639c5e3ef84f",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-03-31T16:46:59Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Socket connection completed.",
-      "sha": "6c561e38590bee08d2bfff3320ce425c1457e430",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-02-23T20:01:10Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Image upload completed.",
-      "sha": "9f43c06c1ab68c66d0bfb07e96e90624e37e07d8",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-02-09T06:31:39Z"
-    },
-    {
-      "author": 4143552,
-      "message": "code cleanup",
-      "sha": "71d68861e3c8877687e2d7a6a1a496dc5d0d7283",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-02-07T17:18:44Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Read & Online messages are removed.",
-      "sha": "8344b4acb18dcad37be1ada57af5a950da80fbe3",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-02-07T16:24:33Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Network router updates.",
-      "sha": "82afa81f2fb73fabadf4fbcebcc492be9ad7666a",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-02-07T16:17:12Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Audio control fine tuning.",
-      "sha": "b85f4748977e913f8a302c7b7aa9245949bb17ec",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-02-03T13:42:26Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Conversation ID passed dynamically.",
-      "sha": "f64c96728def927564107dacfb36243ffdb52150",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-02-02T15:21:39Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Alignment correction for Message count indicator.",
-      "sha": "5a8ec033dfc6c9f0e2a9195c5960dc256e86285c",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-01-31T21:16:29Z"
-    },
-    {
-      "author": 4143552,
-      "message": "User avatar image updated.",
-      "sha": "cc3b5b6fe106d788c10b356862423f0c3c169690",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-01-31T20:59:12Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Text message out is completed.",
-      "sha": "4995d917e66638547d868a4845690b9baea8aaa8",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-01-31T19:56:48Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Chat - incoming text and image attachments are implemented.",
-      "sha": "fb5d0d42924ae02474754d88c197a492b2c62892",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-01-31T17:59:05Z"
-    },
-    {
-      "author": 4143552,
-      "message": "UI enhancements.",
-      "sha": "33c9845400f668bc886f2e4a8b707e9aac1c5633",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-01-30T17:59:41Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Message templates integration.",
-      "sha": "1cfaa556b3f877e5b91b4e85c2d3872003bf2818",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-01-30T14:01:58Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Conversation message list API work flow updates.",
-      "sha": "516f4c243b291a6631f1a20e9073447ca6906188",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2022-01-07T18:27:49Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Conversation list completed.",
-      "sha": "8ee3b00c9c149f77851167b54fdb6b87d882aa4b",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2021-11-23T16:26:28Z"
-    },
-    {
-      "author": 4143552,
-      "message": "Initial code architecture and template creations are completed.",
-      "sha": "4e5ea75809ac0329970058ce40eeedeab8e93d3c",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2021-10-07T10:25:53Z"
-    },
-    {
-      "author": 2246121,
-      "message": "Initial commit",
-      "sha": "f7e463a03ee9f6f486aab792a928db99f0c25d54",
-      "orgName": "chatwoot",
-      "repoName": "ios-sdk",
-      "createdAt": "2021-09-02T09:26:34Z"
-    },
-    {
       "author": 18097732,
       "message": "Merge pull request #4 from chatwoot/revert-3-misfist/bugfix-wp-localize-script\n\nchore: Revert \"Misfist/bugfix wp_localize_script\"",
       "sha": "6e2eae3892f93ae03635440be8f4f2983c405dd2",
@@ -953,6 +633,198 @@
       "createdAt": "2021-09-02T14:01:02Z"
     },
     {
+      "author": 12408980,
+      "message": "fix: Provide a default to name if name is not present (#22)\n\n* fix: Provide a default to name if name is not present\r\n\r\n* Update package.json",
+      "sha": "c413ba9f41e97eb00a0870baba58192e6e86ea60",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2023-05-03T04:08:09Z"
+    },
+    {
+      "author": 12408980,
+      "message": "chore: Remove unused methods from export",
+      "sha": "8ea1172877aa14468b14653b3f2cff6ee4c8433a",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2023-04-27T10:49:01Z"
+    },
+    {
+      "author": 12408980,
+      "message": "feat: export variable methods",
+      "sha": "cf09bb6b8cd2a40c8bd7ba6b3d7471b027a382f0",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2023-04-27T10:36:48Z"
+    },
+    {
+      "author": 12408980,
+      "message": "feat: Add variable helpers for canned response (#21)",
+      "sha": "54956b47a74e4e47bae3107bd517f03a8926171d",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2023-04-27T10:30:29Z"
+    },
+    {
+      "author": 18097732,
+      "message": "feat: add math utilities for quantile computation (#20)\n\n* feat: add math functions\r\n\r\n* feat: add test for sort\r\n\r\n* feat: add test for clamp\r\n\r\n* chore: ignore coverage report\r\n\r\n* feat: add test for quantile\r\n\r\n* refactor: depend on sortAsc slice method\r\n\r\n* chore: bump version",
+      "sha": "bda6f47dd00bfaee3951cf7d3e44f3dffd09df67",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2023-02-25T12:49:55Z"
+    },
+    {
+      "author": 18097732,
+      "message": "chore: workflow to publish on release (#19)\n\n* chore: workflow to publish on release\r\n\r\n* chore: bump version\r\n\r\n* chore: upgrade packages",
+      "sha": "33c68c4eea1300ffa2d56cffc4b0b90741fed520",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2023-02-02T08:44:26Z"
+    },
+    {
+      "author": 18097732,
+      "message": "feat: add parseBoolean utils (#18)\n\n* fix: typo\r\n\r\n* feat: add parseBoolean\r\n\r\n* chore: allow wider boolean representations\r\n\r\n* chore: lint debounce",
+      "sha": "196c83727e72a298d5b83910d87e0db0086db4f6",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2023-01-31T03:47:02Z"
+    },
+    {
+      "author": 12408980,
+      "message": "chore: Pre commit configuration (#17)",
+      "sha": "a914a17ff5c8ef514215cc41b3dd642e06626919",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-08-11T11:00:54Z"
+    },
+    {
+      "author": 12408980,
+      "message": "chore: Add categorisation in utils (#16)",
+      "sha": "e5cdd460e735861c8e9e300ab9eeb10c27809a84",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-08-09T06:37:08Z"
+    },
+    {
+      "author": 1277421,
+      "message": "feat: Add `debounce` function (#14)\n\n* feat: adds debounce function\r\n\r\n* chore: Apply linter\r\n\r\n* chore: Bump version to v0.0.8\r\n\r\nCo-authored-by: Muhsin Keloth <muhsinkeramam@gmail.com>",
+      "sha": "22f27f8876c02e3c8d05db667ff757086de8ac39",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-08-09T04:22:01Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Bump version to v0.0.7",
+      "sha": "11bb81783e63f1a7b30577ef805ad6bb9ea65138",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-08-07T18:42:29Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Add trimContent method (#15)",
+      "sha": "13250e7402b7dbdbd7275422bcfa853010ceca9d",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-08-07T18:40:41Z"
+    },
+    {
+      "author": 5848740,
+      "message": "chore: Upgrade version to 0.0.6 (#13)",
+      "sha": "fb441ea6095a92d0c88ca9606be19ee02a30b95d",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-04-05T10:21:48Z"
+    },
+    {
+      "author": 5848740,
+      "message": "fix: Update formatTime helper (#12)\n\n* Add time format helper\r\n\r\n* update formatTime helper",
+      "sha": "093387a972268d741db1230a078e2a2d47fc0a2e",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-04-05T10:07:16Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Upgrade version to 0.0.5",
+      "sha": "e22e7e755129454eae4bf97669b797f6d6cc7906",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-02-28T12:50:28Z"
+    },
+    {
+      "author": 5848740,
+      "message": "feat: Add time format helper (#11)\n\n\r\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
+      "sha": "ff2d3bc853ded4024a7c5720af7ed8aa1ae97614",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2022-02-28T07:32:45Z"
+    },
+    {
+      "author": 12408980,
+      "message": "feat: Add date helpers (#10)",
+      "sha": "343e9c09037f51fca60254b3d2c28708aa7e83a5",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2021-11-30T08:58:16Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Update the URL to utils.chatwoot.cm",
+      "sha": "0de55fa1b1daa9d8e51fd5e4107e405fa013760e",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2021-06-05T12:52:13Z"
+    },
+    {
+      "author": 2246121,
+      "message": "chore: Change docs path (#9)",
+      "sha": "3540da3d28043904691764e7e1b4b988cb9438a5",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2021-06-04T09:29:09Z"
+    },
+    {
+      "author": 12408980,
+      "message": "chore: Add docs (#8)\n\n* add typedocs\r\n\r\n* add readme file",
+      "sha": "40e6ef7160ee1fe33ff8e8c3c2f8c3295ed65b14",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2021-06-02T07:44:08Z"
+    },
+    {
+      "author": 12408980,
+      "message": "chore: Add docs",
+      "sha": "fef4eb4b94ffce84fca0709a7c48f677b177223e",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2021-05-20T14:07:05Z"
+    },
+    {
+      "author": 12408980,
+      "message": "release: v0.0.3 (#5)",
+      "sha": "e3ac6fcb3f0ce51fc4bf7071ab2c0ffedfdfcf0f",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2021-05-20T09:10:37Z"
+    },
+    {
+      "author": 12408980,
+      "message": "feat: Add contrasting color helper (#4)",
+      "sha": "ba880debd9ff368a791b3122bc4b29d35343478f",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2021-05-20T07:21:26Z"
+    },
+    {
+      "author": 12408980,
+      "message": ":tada: first commit",
+      "sha": "d4a96234af36d44f05500d8c3ca3ad5b172b8651",
+      "orgName": "chatwoot",
+      "repoName": "utils",
+      "createdAt": "2021-05-20T06:48:56Z"
+    },
+    {
       "author": 73185,
       "message": "chore: disable mfa",
       "sha": "4003f3457c50634efcc06de3ffa3c62674084839",
@@ -1183,958 +1055,6 @@
       "orgName": "chatwoot",
       "repoName": "twitty",
       "createdAt": "2020-01-22T14:18:59Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Release v0.0.18",
-      "sha": "068ecc66d25cbf2e4be084907d7c42cddb8b5471",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-08-09T08:13:36Z"
-    },
-    {
-      "author": 12408980,
-      "message": "fix: Fix light mode color",
-      "sha": "3260d5809880fce1ea825dc5076b499bb8715126",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-08-09T08:12:34Z"
-    },
-    {
-      "author": 12408980,
-      "message": "fix: Dark mode colors",
-      "sha": "d571d94e34b733b6b810d21bb429b77e0e0d80ac",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-08-08T14:52:10Z"
-    },
-    {
-      "author": 12408980,
-      "message": "fix: Articles are loading in external browser",
-      "sha": "53278295d7b76193e4c2b6c9bfbf7ffbd2d7a2a4",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-08-02T07:03:45Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Fix article redirection",
-      "sha": "8e81ec8409794bd2b78f9ae44a82bde6394c8e07",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-08-02T07:01:15Z"
-    },
-    {
-      "author": 12408980,
-      "message": "feat: Add dark theme support",
-      "sha": "cc6fc0c2c7fe87db644e0f6c9c662151cea27902",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-05-23T09:35:50Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Update README.md",
-      "sha": "41daf9930a71b1d1425bb399c8c49605b1298637",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-05-23T09:31:01Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Update README.md",
-      "sha": "c9631b73f5c32be3b441737506027efeb72e3efd",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-05-23T09:27:24Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Update example project",
-      "sha": "aea5ca034316f02b13030058cba957e4916639a4",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-05-23T09:23:06Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Code cleanups",
-      "sha": "5fbc83522314066e1e3f419c5d2279af68cde498",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-05-23T03:35:29Z"
-    },
-    {
-      "author": 2246121,
-      "message": "Use colorScheme",
-      "sha": "075f0306ff75922c4a90a6deb4675362c04feaae",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-05-22T22:45:59Z"
-    },
-    {
-      "author": 2246121,
-      "message": "Add COLOR_SCHEME",
-      "sha": "606fc5a98bbb361407fc3953b8ba71fb45aacf55",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-05-22T22:24:07Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Update package.json",
-      "sha": "a70d1ea9568a388a92d91c0b3b6118b098e0c99d",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-05-22T19:20:42Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Replace darkMode with theme",
-      "sha": "b62d52e49f13c088227a74d4b187be9dea767719",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-05-22T19:17:59Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Add dark theme support",
-      "sha": "974195768d140e8ef3e97c3ed161d916a17b3598",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-05-22T19:00:05Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Merge pull request #27 from chatwoot/fix/close-modal\n\nfix: Back button close issue RN `v070.x`",
-      "sha": "aef899993376197b6461a6bd8ecb5012c576a52b",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-01-27T09:22:44Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Fix close modal issue",
-      "sha": "d4646a5e632aa9d5dd553cdc6ba94f91a2ab413a",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2023-01-27T09:14:46Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Release v0.0.9",
-      "sha": "2173b42356579ae65e292146867405376d6c6a38",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2022-11-29T05:40:51Z"
-    },
-    {
-      "author": 12408980,
-      "message": "chore: Bump version from `0.0.7` to `0.0.8`",
-      "sha": "aca3c8c0b2ba4bc62137ff04e5375facb45911c0",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2022-11-25T06:41:49Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Update README.md",
-      "sha": "8aeb8403d2072295b5de803e510276bc04a97423",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2022-11-25T05:49:18Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Release v0.0.8",
-      "sha": "bf6c10a72762384ffc666105f7796e7043a51f89",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2022-11-25T05:44:50Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Merge pull request #23 from chatwoot/fix/8-clicking-images-redirect-new-page\n\nfix: Redirect new page when click on attachments",
-      "sha": "603c141117bb1b475c9f89c5a48134c7a6aa86ef",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2022-11-24T09:42:50Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Fix attachments click",
-      "sha": "c9ddb3693ac3d8452ba40b37bfde970f7c1902cd",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2022-11-24T09:39:48Z"
-    },
-    {
-      "author": 12408980,
-      "message": "fix: Remove hard coded locale",
-      "sha": "276eba3c9b4e65b45f19903b2b6250710c02b273",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2022-11-24T09:36:18Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Remove hard coded locale",
-      "sha": "da4bb4b81f79c2ff06b8b8a6d65e45b38b924f2a",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2022-11-24T09:30:23Z"
-    },
-    {
-      "author": 12408980,
-      "message": "fix: Use full screen design for the modal",
-      "sha": "89c68020efa9a88550e60ecf3e08928c8bcdbb1d",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2022-10-25T05:53:05Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Release v0.0.7",
-      "sha": "14f96a8998f5a40c619053287e6671f1e2133762",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2022-10-25T05:52:30Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Fix prop name",
-      "sha": "d882a8a17f01e6dbb2f4be56755b697d79caf306",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2022-10-25T05:42:21Z"
-    },
-    {
-      "author": 2246121,
-      "message": "Use full screen design for the modal",
-      "sha": "bd3d9ce9a00e4cbbca2725392f2623d2c38d8818",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2022-10-24T21:11:40Z"
-    },
-    {
-      "author": 12408980,
-      "message": "chore: Add typescript typings\n\nchore: Add typescript typings",
-      "sha": "da19c5da3aed5edfcdd96dc574dd5e9014e84cdc",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2022-03-31T06:17:47Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Delete screenshot.png",
-      "sha": "7c0bff4199433da9357a77032269aeb77a3061e6",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-11-30T07:21:50Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Delete npm-publish.yml",
-      "sha": "1b22e8920645e07359cb619bd8bd440b9ef9b616",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-11-30T07:21:27Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Merge pull request #18 from chatwoot/main\n\nMain",
-      "sha": "012bf53a9f8070f4fa4487db14083fce009bfaa3",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-11-30T07:19:51Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Merge branch 'develop'",
-      "sha": "440537f70e5051cac6d81907b95298935faf0f84",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-11-30T07:18:44Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Release v0.0.06",
-      "sha": "e8ffdda66b2e1fbcc752dab42710e7f333e335f3",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-11-30T07:01:16Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Merge pull request #16 from 1t5j0y/develop\n\nchore: Remove modal swipe support",
-      "sha": "247433dbd62eb1fe038c5039503942a8b468af92",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-11-30T06:21:45Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Merge pull request #17 from chatwoot/chore/examples-build-fail\n\nchore: Fix example folder build",
-      "sha": "e57ccbab924b9aee44626f212b22f04213d5477f",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-11-30T06:15:44Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Fix examples build issue",
-      "sha": "07580786c2a9a0eab448da0108c3f0b36e790225",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-11-30T06:13:59Z"
-    },
-    {
-      "author": 54208632,
-      "message": "Remove modal swipe support",
-      "sha": "cba7c37bb842c4f3caed6453f5c75dfa8f5504ff",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-11-11T11:34:50Z"
-    },
-    {
-      "author": 5902976,
-      "message": "add custom attributes and change optionals",
-      "sha": "1f1a68d8246ec5c1034c3093229816797c13f55c",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-06-12T19:22:25Z"
-    },
-    {
-      "author": 5902976,
-      "message": "chore: add typescript typings",
-      "sha": "153ba81c1023125a17ed8ef0fe9f8fe9af5dbd6f",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-06-12T19:03:46Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update doc",
-      "sha": "7e6a97f36110d4cf977c1e6b5383124145ace834",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-26T10:32:30Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update doc",
-      "sha": "f98ab70330e3136ede0c2249094ef8e4cd7f68e5",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T14:06:55Z"
-    },
-    {
-      "author": 12408980,
-      "message": "bump the version to 0.0.5",
-      "sha": "17395a9623bc492e23015f3e0a07863829a79d94",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T13:58:44Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update screenshot",
-      "sha": "5bbe2541d750f7e7eaa224eefd3b7dbedc1c4ce7",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T13:58:44Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update example",
-      "sha": "f05001987df02d792aebd6e5c91fe9aaac9e5dff",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T13:58:44Z"
-    },
-    {
-      "author": 12408980,
-      "message": "fix the event type bug",
-      "sha": "2d38946794427b3adb49d020f2e32b26f94e2deb",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T13:58:44Z"
-    },
-    {
-      "author": 12408980,
-      "message": "bump the version to 0.0.5",
-      "sha": "f2f5752942816899b2b97f2a18414dcce5769141",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T13:56:39Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update screenshot",
-      "sha": "bda699e7c4e1f0b654a18e09349829c3742ec3ac",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T13:56:27Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update example",
-      "sha": "fbf449c2c6c2c5da6933ec25040f99b2bbb59114",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T12:28:01Z"
-    },
-    {
-      "author": 12408980,
-      "message": "fix the event type bug",
-      "sha": "f979bdf812b2a56da6c3ee86eaf3c8e724f03240",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T12:27:39Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Update README.md",
-      "sha": "4937c6d2ba1ce8e8e745b9407051458c7cb600ac",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T09:33:17Z"
-    },
-    {
-      "author": 12408980,
-      "message": "bump the version to 0.0.3",
-      "sha": "8b9662820650f7e98f5a5ec09907cf67121d0126",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T09:19:53Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update yarn.lock",
-      "sha": "f4d4c319486960c616db3cbbeb6efdb67c293d9d",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T09:15:00Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Merge branch 'develop' of github.com:chatwoot/chatwoot-react-native-widget into develop",
-      "sha": "53e11b63b71520bf16c09ef256182732752a23b1",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T09:13:18Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update README.md",
-      "sha": "eee2ac03027d97bb3f5ecfedda140af403542d19",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T09:12:59Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Merge pull request #6 from chatwoot/main\n\nmerge main",
-      "sha": "bfc0519a6931ea473a18ec5aee8316a2be2a0fa3",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T09:07:13Z"
-    },
-    {
-      "author": 12408980,
-      "message": "bump the version",
-      "sha": "2ba32068d43a64f297d730b15d702146e7a0be3e",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T09:05:58Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update ga script",
-      "sha": "4c509f0ca9ad1ec31a929dbd9fbb9d86a2df2081",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T09:05:44Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update readme.md",
-      "sha": "7e3d10c794df123755d8387b47bbea1e03c81c7e",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T08:59:42Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update action script",
-      "sha": "20de008543a550e149eda1a1f83291b590c25f60",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T08:56:45Z"
-    },
-    {
-      "author": 12408980,
-      "message": "change package name",
-      "sha": "37f708d1af569463ddb27b2312e2cef270e99fa9",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T08:56:35Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update README.md",
-      "sha": "1c59000607baf9eb3f862992109cfce916ea9a8d",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-22T08:56:24Z"
-    },
-    {
-      "author": 12408980,
-      "message": "test github action",
-      "sha": "1125efa6a7cd596d01e450895700ae27ff737413",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-19T06:37:44Z"
-    },
-    {
-      "author": 12408980,
-      "message": "test github action",
-      "sha": "9d1c1af90941910f3b604f8dd6d28395108092a2",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-19T06:28:03Z"
-    },
-    {
-      "author": 12408980,
-      "message": "test github action",
-      "sha": "b455ce6bda6bda3c205a71862aeeb8855bba645a",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-19T06:15:44Z"
-    },
-    {
-      "author": 12408980,
-      "message": "test npm publish github action",
-      "sha": "ac74a3cc9761e332e91a07d945da154b062725e4",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-19T05:27:28Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update readme.md",
-      "sha": "b9a42fc690779e75a5e18afd2fc807f5df34d363",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-15T14:59:48Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update styles",
-      "sha": "d5cfaa5289193842f245369c376d4e7ea891faa8",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-15T14:05:13Z"
-    },
-    {
-      "author": 12408980,
-      "message": "more modal close events",
-      "sha": "3b1659227943d2ad9128c53c09f1b64716e0a7ad",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-15T10:44:10Z"
-    },
-    {
-      "author": 12408980,
-      "message": "enable close button in rn-widget",
-      "sha": "daf0fff9bbf07725095798f526c3a78ca8611308",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-15T10:12:54Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update package.json",
-      "sha": "69e0f548980fbe87bf62af64b42564bfe7698ffd",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-15T10:12:00Z"
-    },
-    {
-      "author": 12408980,
-      "message": "clean example project",
-      "sha": "224957bfc58f7c5971975511b939cefe4d5610ad",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-13T08:49:51Z"
-    },
-    {
-      "author": 12408980,
-      "message": "add example starter",
-      "sha": "04294bbacf29f1aa7b0ecc9fd79ae3f7034f82b4",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-13T04:36:16Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Merge branch 'develop' of github.com:chatwoot/chatwoot-react-native-widget into develop",
-      "sha": "d4af0a6044f352d2e6e31cb45ef2fb161d63c498",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-12T11:02:30Z"
-    },
-    {
-      "author": 12408980,
-      "message": "add organizaton name",
-      "sha": "7145ecdca00c20a5f35f242dfca053d2cab9fe76",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-12T11:01:44Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Merge pull request #4 from chatwoot/main\n\nPublish npm package using github action",
-      "sha": "d531adf955e4b3f7c4152e3ac729af7941140b8e",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-12T10:33:55Z"
-    },
-    {
-      "author": 12408980,
-      "message": "add github action for npm publish",
-      "sha": "ba53a593935b1def68390a08938aa0f4cb55280c",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-12T10:32:17Z"
-    },
-    {
-      "author": 12408980,
-      "message": "code beautification",
-      "sha": "20e3ebdf9239418aca6c7019b8b51b2e58dff1a1",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-12T10:15:11Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Update README.md",
-      "sha": "d6c3ad50ba45b5bc5af55144a844cd46a420bda7",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-12T10:13:49Z"
-    },
-    {
-      "author": 12408980,
-      "message": "code beautification",
-      "sha": "ffc2bd56f8830dcb678cc4dbf4b52601f34f5c6e",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-10T08:00:49Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update company name in README.md",
-      "sha": "c19f4a75b49dbf50dd38cd6ec46c2309e32cad46",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-08T09:34:29Z"
-    },
-    {
-      "author": 12408980,
-      "message": "scroll enabled in webview",
-      "sha": "6ef4a9557df0826c8a116d418188938af9b1bbd9",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-06T05:49:24Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Update README.md",
-      "sha": "d2c1c10811c095e78db1f37505e7bbcd0ec9e9b7",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-05T16:19:13Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update README.md",
-      "sha": "dea793b787cce3d509179caf0fbd584895cb0065",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-05T15:36:27Z"
-    },
-    {
-      "author": 12408980,
-      "message": "remove yarn.lock",
-      "sha": "d040761dc47373f92f121bf833b0ae5e0fc77154",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-05T15:28:33Z"
-    },
-    {
-      "author": 12408980,
-      "message": "complete basic version",
-      "sha": "53432586c78e075f8743cad7ccde343586dc6edb",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-05T15:26:36Z"
-    },
-    {
-      "author": 12408980,
-      "message": "add react and react-native package",
-      "sha": "c434e3e0dfc0b35c91fb82008e05a47f36905d8c",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-05T15:16:50Z"
-    },
-    {
-      "author": 12408980,
-      "message": "add prettier, eslint and husky configuration",
-      "sha": "25dae8d6c25f5aefd9c7a14d5b473a6c4cfa2dbe",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-05T15:08:26Z"
-    },
-    {
-      "author": 12408980,
-      "message": "add npm ignore",
-      "sha": "81b1558315385a4069f998584b255037dced6760",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-05T15:06:51Z"
-    },
-    {
-      "author": 12408980,
-      "message": "add git ignore",
-      "sha": "1e022ba902f8257b6c36ef5f84bfa59d53eccbd8",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-05T15:04:13Z"
-    },
-    {
-      "author": 12408980,
-      "message": "add licence",
-      "sha": "caf059f13bfc038d113f930b7f24065314b8aac2",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-05T15:01:59Z"
-    },
-    {
-      "author": 12408980,
-      "message": "add npm package data",
-      "sha": "8a04325ec6fe6808d02526bfd48d83d7794521dd",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-05T15:01:19Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update readme.md",
-      "sha": "4740010f3e63cfe704034f2058c275a3ea72b69c",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-05T14:57:14Z"
-    },
-    {
-      "author": 12408980,
-      "message": ":tada: first commit",
-      "sha": "b87b8e7c8ccc425bf713d303f389ba0897a1f2d5",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-react-native-widget",
-      "createdAt": "2021-03-05T14:56:17Z"
-    },
-    {
-      "author": 12408980,
-      "message": "fix: Provide a default to name if name is not present (#22)\n\n* fix: Provide a default to name if name is not present\r\n\r\n* Update package.json",
-      "sha": "c413ba9f41e97eb00a0870baba58192e6e86ea60",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2023-05-03T04:08:09Z"
-    },
-    {
-      "author": 12408980,
-      "message": "chore: Remove unused methods from export",
-      "sha": "8ea1172877aa14468b14653b3f2cff6ee4c8433a",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2023-04-27T10:49:01Z"
-    },
-    {
-      "author": 12408980,
-      "message": "feat: export variable methods",
-      "sha": "cf09bb6b8cd2a40c8bd7ba6b3d7471b027a382f0",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2023-04-27T10:36:48Z"
-    },
-    {
-      "author": 12408980,
-      "message": "feat: Add variable helpers for canned response (#21)",
-      "sha": "54956b47a74e4e47bae3107bd517f03a8926171d",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2023-04-27T10:30:29Z"
-    },
-    {
-      "author": 18097732,
-      "message": "feat: add math utilities for quantile computation (#20)\n\n* feat: add math functions\r\n\r\n* feat: add test for sort\r\n\r\n* feat: add test for clamp\r\n\r\n* chore: ignore coverage report\r\n\r\n* feat: add test for quantile\r\n\r\n* refactor: depend on sortAsc slice method\r\n\r\n* chore: bump version",
-      "sha": "bda6f47dd00bfaee3951cf7d3e44f3dffd09df67",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2023-02-25T12:49:55Z"
-    },
-    {
-      "author": 18097732,
-      "message": "chore: workflow to publish on release (#19)\n\n* chore: workflow to publish on release\r\n\r\n* chore: bump version\r\n\r\n* chore: upgrade packages",
-      "sha": "33c68c4eea1300ffa2d56cffc4b0b90741fed520",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2023-02-02T08:44:26Z"
-    },
-    {
-      "author": 18097732,
-      "message": "feat: add parseBoolean utils (#18)\n\n* fix: typo\r\n\r\n* feat: add parseBoolean\r\n\r\n* chore: allow wider boolean representations\r\n\r\n* chore: lint debounce",
-      "sha": "196c83727e72a298d5b83910d87e0db0086db4f6",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2023-01-31T03:47:02Z"
-    },
-    {
-      "author": 12408980,
-      "message": "chore: Pre commit configuration (#17)",
-      "sha": "a914a17ff5c8ef514215cc41b3dd642e06626919",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-08-11T11:00:54Z"
-    },
-    {
-      "author": 12408980,
-      "message": "chore: Add categorisation in utils (#16)",
-      "sha": "e5cdd460e735861c8e9e300ab9eeb10c27809a84",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-08-09T06:37:08Z"
-    },
-    {
-      "author": 1277421,
-      "message": "feat: Add `debounce` function (#14)\n\n* feat: adds debounce function\r\n\r\n* chore: Apply linter\r\n\r\n* chore: Bump version to v0.0.8\r\n\r\nCo-authored-by: Muhsin Keloth <muhsinkeramam@gmail.com>",
-      "sha": "22f27f8876c02e3c8d05db667ff757086de8ac39",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-08-09T04:22:01Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Bump version to v0.0.7",
-      "sha": "11bb81783e63f1a7b30577ef805ad6bb9ea65138",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-08-07T18:42:29Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Add trimContent method (#15)",
-      "sha": "13250e7402b7dbdbd7275422bcfa853010ceca9d",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-08-07T18:40:41Z"
-    },
-    {
-      "author": 5848740,
-      "message": "chore: Upgrade version to 0.0.6 (#13)",
-      "sha": "fb441ea6095a92d0c88ca9606be19ee02a30b95d",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-04-05T10:21:48Z"
-    },
-    {
-      "author": 5848740,
-      "message": "fix: Update formatTime helper (#12)\n\n* Add time format helper\r\n\r\n* update formatTime helper",
-      "sha": "093387a972268d741db1230a078e2a2d47fc0a2e",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-04-05T10:07:16Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Upgrade version to 0.0.5",
-      "sha": "e22e7e755129454eae4bf97669b797f6d6cc7906",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-02-28T12:50:28Z"
-    },
-    {
-      "author": 5848740,
-      "message": "feat: Add time format helper (#11)\n\n\r\nCo-authored-by: Pranav Raj S <pranav@chatwoot.com>",
-      "sha": "ff2d3bc853ded4024a7c5720af7ed8aa1ae97614",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2022-02-28T07:32:45Z"
-    },
-    {
-      "author": 12408980,
-      "message": "feat: Add date helpers (#10)",
-      "sha": "343e9c09037f51fca60254b3d2c28708aa7e83a5",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2021-11-30T08:58:16Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Update the URL to utils.chatwoot.cm",
-      "sha": "0de55fa1b1daa9d8e51fd5e4107e405fa013760e",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2021-06-05T12:52:13Z"
-    },
-    {
-      "author": 2246121,
-      "message": "chore: Change docs path (#9)",
-      "sha": "3540da3d28043904691764e7e1b4b988cb9438a5",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2021-06-04T09:29:09Z"
-    },
-    {
-      "author": 12408980,
-      "message": "chore: Add docs (#8)\n\n* add typedocs\r\n\r\n* add readme file",
-      "sha": "40e6ef7160ee1fe33ff8e8c3c2f8c3295ed65b14",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2021-06-02T07:44:08Z"
-    },
-    {
-      "author": 12408980,
-      "message": "chore: Add docs",
-      "sha": "fef4eb4b94ffce84fca0709a7c48f677b177223e",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2021-05-20T14:07:05Z"
-    },
-    {
-      "author": 12408980,
-      "message": "release: v0.0.3 (#5)",
-      "sha": "e3ac6fcb3f0ce51fc4bf7071ab2c0ffedfdfcf0f",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2021-05-20T09:10:37Z"
-    },
-    {
-      "author": 12408980,
-      "message": "feat: Add contrasting color helper (#4)",
-      "sha": "ba880debd9ff368a791b3122bc4b29d35343478f",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2021-05-20T07:21:26Z"
-    },
-    {
-      "author": 12408980,
-      "message": ":tada: first commit",
-      "sha": "d4a96234af36d44f05500d8c3ca3ad5b172b8651",
-      "orgName": "chatwoot",
-      "repoName": "utils",
-      "createdAt": "2021-05-20T06:48:56Z"
     },
     {
       "author": 2246121,
@@ -2937,6 +1857,326 @@
       "createdAt": "2023-07-13T04:56:25Z"
     },
     {
+      "author": 4143552,
+      "message": "fix #12",
+      "sha": "5451e87dada16f7457b70fb8672f30429677b9e2",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-05-31T16:13:52Z"
+    },
+    {
+      "author": 4143552,
+      "message": "agent_last_seen_at updated",
+      "sha": "13d1c2e722b77dfe0d3369aebd717c78bc442552",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-05-31T13:10:42Z"
+    },
+    {
+      "author": 4143552,
+      "message": "fix 14#",
+      "sha": "d4fb0ac1c845dab7212ebcc2d690923089824724",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-05-31T11:35:08Z"
+    },
+    {
+      "author": 4143552,
+      "message": "crash fix",
+      "sha": "6da16b90d1fca7883a202196f25144bc24d59db8",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-05-28T22:57:35Z"
+    },
+    {
+      "author": 4143552,
+      "message": "fix #11",
+      "sha": "9d018fdf1ae8f79f93a2af1398275c110b5410d0",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-05-28T22:47:04Z"
+    },
+    {
+      "author": 4143552,
+      "message": "fix #15",
+      "sha": "0f0ebab701d7b1bf3f4f92362053335150dbe8fe",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-05-28T21:52:48Z"
+    },
+    {
+      "author": 4143552,
+      "message": "fix #6",
+      "sha": "69aeb043d9049baf3d8acdc71adf343d3da49675",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-05-28T21:07:24Z"
+    },
+    {
+      "author": 4143552,
+      "message": "fix #8",
+      "sha": "8e799596b4d1bbe139f1368e97ccbd1f3259314f",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-05-28T19:41:13Z"
+    },
+    {
+      "author": 4143552,
+      "message": "SDK Bundle configuration updated",
+      "sha": "5176dbd1d2f6f2be33982f605d3db1a86e98a46a",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-05-28T15:36:13Z"
+    },
+    {
+      "author": 4143552,
+      "message": "fix #7",
+      "sha": "ee5ac24ed56ad0a014a5ceecdccfdf5ddaac2569",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-05-28T15:34:52Z"
+    },
+    {
+      "author": 4143552,
+      "message": "fix #13",
+      "sha": "e326f842255c8ef219d131272485d58b1fca1c35",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-05-28T14:28:43Z"
+    },
+    {
+      "author": 67892021,
+      "message": "SDK setup improvements",
+      "sha": "a06bba9a282c2a8e4ce21f2981a7b49b9af936cc",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-05-28T14:07:47Z"
+    },
+    {
+      "author": 4143552,
+      "message": "SDK code structuring enhancements.",
+      "sha": "d466ba7add7ab7d7273759e4a1eb074a36961100",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-05-24T22:32:52Z"
+    },
+    {
+      "author": 67892021,
+      "message": "Merge commit 'caf2454ee5f6b0815e7a0e7dc6bc346ac57a33f9'",
+      "sha": "7d772357236c7b0d182c044b4ed43db190bfb86e",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-05-24T22:29:18Z"
+    },
+    {
+      "author": 4143552,
+      "message": "SDK code tree structuring enhancements.",
+      "sha": "18170232ebc6a77d2fe8a80f163146a75ff5578d",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-05-24T22:23:35Z"
+    },
+    {
+      "author": 4143552,
+      "message": "SDK code tree structuring completed.",
+      "sha": "caf2454ee5f6b0815e7a0e7dc6bc346ac57a33f9",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-05-04T21:23:51Z"
+    },
+    {
+      "author": 4143552,
+      "message": "File data-type handled.",
+      "sha": "a1aef6ddf7ff99385de6bf5fdb9ca637e4fee5b1",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-04-01T23:25:40Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Minor improvements.",
+      "sha": "238d3a1e3f77694d3b56a21f0d6f332df96c2f52",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-04-01T22:21:00Z"
+    },
+    {
+      "author": 4143552,
+      "message": "New conversation is completed.",
+      "sha": "9d66af50d34f9434c81654fcd25c96f4af2b3bdf",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-04-01T21:48:18Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Chat list page socket messaging comleted.",
+      "sha": "66d9f1ebad828154146005acf89adbf1b75ffa2d",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-04-01T20:35:09Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Listing page socket messaging completed.",
+      "sha": "dddd490bd2469bcbbd45cd5d7f1aaf36ab7ccb07",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-04-01T11:46:32Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Image upload completed.",
+      "sha": "9f875714133938c109e1378398b186afb5f76ada",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-03-31T16:48:01Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Unread message count updated.",
+      "sha": "6151014575628c317ae567bd9963639c5e3ef84f",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-03-31T16:46:59Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Socket connection completed.",
+      "sha": "6c561e38590bee08d2bfff3320ce425c1457e430",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-02-23T20:01:10Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Image upload completed.",
+      "sha": "9f43c06c1ab68c66d0bfb07e96e90624e37e07d8",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-02-09T06:31:39Z"
+    },
+    {
+      "author": 4143552,
+      "message": "code cleanup",
+      "sha": "71d68861e3c8877687e2d7a6a1a496dc5d0d7283",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-02-07T17:18:44Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Read & Online messages are removed.",
+      "sha": "8344b4acb18dcad37be1ada57af5a950da80fbe3",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-02-07T16:24:33Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Network router updates.",
+      "sha": "82afa81f2fb73fabadf4fbcebcc492be9ad7666a",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-02-07T16:17:12Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Audio control fine tuning.",
+      "sha": "b85f4748977e913f8a302c7b7aa9245949bb17ec",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-02-03T13:42:26Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Conversation ID passed dynamically.",
+      "sha": "f64c96728def927564107dacfb36243ffdb52150",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-02-02T15:21:39Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Alignment correction for Message count indicator.",
+      "sha": "5a8ec033dfc6c9f0e2a9195c5960dc256e86285c",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-01-31T21:16:29Z"
+    },
+    {
+      "author": 4143552,
+      "message": "User avatar image updated.",
+      "sha": "cc3b5b6fe106d788c10b356862423f0c3c169690",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-01-31T20:59:12Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Text message out is completed.",
+      "sha": "4995d917e66638547d868a4845690b9baea8aaa8",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-01-31T19:56:48Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Chat - incoming text and image attachments are implemented.",
+      "sha": "fb5d0d42924ae02474754d88c197a492b2c62892",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-01-31T17:59:05Z"
+    },
+    {
+      "author": 4143552,
+      "message": "UI enhancements.",
+      "sha": "33c9845400f668bc886f2e4a8b707e9aac1c5633",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-01-30T17:59:41Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Message templates integration.",
+      "sha": "1cfaa556b3f877e5b91b4e85c2d3872003bf2818",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-01-30T14:01:58Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Conversation message list API work flow updates.",
+      "sha": "516f4c243b291a6631f1a20e9073447ca6906188",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2022-01-07T18:27:49Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Conversation list completed.",
+      "sha": "8ee3b00c9c149f77851167b54fdb6b87d882aa4b",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2021-11-23T16:26:28Z"
+    },
+    {
+      "author": 4143552,
+      "message": "Initial code architecture and template creations are completed.",
+      "sha": "4e5ea75809ac0329970058ce40eeedeab8e93d3c",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2021-10-07T10:25:53Z"
+    },
+    {
+      "author": 2246121,
+      "message": "Initial commit",
+      "sha": "f7e463a03ee9f6f486aab792a928db99f0c25d54",
+      "orgName": "chatwoot",
+      "repoName": "ios-sdk",
+      "createdAt": "2021-09-02T09:26:34Z"
+    },
+    {
       "author": 12408980,
       "message": "chore: Release iOS v1.10.7",
       "sha": "f5eb7aa8daacf15632b87401a50ff56957001f36",
@@ -3735,6 +2975,766 @@
       "orgName": "chatwoot",
       "repoName": "chatwoot-mobile-app",
       "createdAt": "2023-01-12T06:32:47Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Release v0.0.18",
+      "sha": "068ecc66d25cbf2e4be084907d7c42cddb8b5471",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-08-09T08:13:36Z"
+    },
+    {
+      "author": 12408980,
+      "message": "fix: Fix light mode color",
+      "sha": "3260d5809880fce1ea825dc5076b499bb8715126",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-08-09T08:12:34Z"
+    },
+    {
+      "author": 12408980,
+      "message": "fix: Dark mode colors",
+      "sha": "d571d94e34b733b6b810d21bb429b77e0e0d80ac",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-08-08T14:52:10Z"
+    },
+    {
+      "author": 12408980,
+      "message": "fix: Articles are loading in external browser",
+      "sha": "53278295d7b76193e4c2b6c9bfbf7ffbd2d7a2a4",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-08-02T07:03:45Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Fix article redirection",
+      "sha": "8e81ec8409794bd2b78f9ae44a82bde6394c8e07",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-08-02T07:01:15Z"
+    },
+    {
+      "author": 12408980,
+      "message": "feat: Add dark theme support",
+      "sha": "cc6fc0c2c7fe87db644e0f6c9c662151cea27902",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-05-23T09:35:50Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Update README.md",
+      "sha": "41daf9930a71b1d1425bb399c8c49605b1298637",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-05-23T09:31:01Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Update README.md",
+      "sha": "c9631b73f5c32be3b441737506027efeb72e3efd",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-05-23T09:27:24Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Update example project",
+      "sha": "aea5ca034316f02b13030058cba957e4916639a4",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-05-23T09:23:06Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Code cleanups",
+      "sha": "5fbc83522314066e1e3f419c5d2279af68cde498",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-05-23T03:35:29Z"
+    },
+    {
+      "author": 2246121,
+      "message": "Use colorScheme",
+      "sha": "075f0306ff75922c4a90a6deb4675362c04feaae",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-05-22T22:45:59Z"
+    },
+    {
+      "author": 2246121,
+      "message": "Add COLOR_SCHEME",
+      "sha": "606fc5a98bbb361407fc3953b8ba71fb45aacf55",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-05-22T22:24:07Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Update package.json",
+      "sha": "a70d1ea9568a388a92d91c0b3b6118b098e0c99d",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-05-22T19:20:42Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Replace darkMode with theme",
+      "sha": "b62d52e49f13c088227a74d4b187be9dea767719",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-05-22T19:17:59Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Add dark theme support",
+      "sha": "974195768d140e8ef3e97c3ed161d916a17b3598",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-05-22T19:00:05Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Merge pull request #27 from chatwoot/fix/close-modal\n\nfix: Back button close issue RN `v070.x`",
+      "sha": "aef899993376197b6461a6bd8ecb5012c576a52b",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-01-27T09:22:44Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Fix close modal issue",
+      "sha": "d4646a5e632aa9d5dd553cdc6ba94f91a2ab413a",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2023-01-27T09:14:46Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Release v0.0.9",
+      "sha": "2173b42356579ae65e292146867405376d6c6a38",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2022-11-29T05:40:51Z"
+    },
+    {
+      "author": 12408980,
+      "message": "chore: Bump version from `0.0.7` to `0.0.8`",
+      "sha": "aca3c8c0b2ba4bc62137ff04e5375facb45911c0",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2022-11-25T06:41:49Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Update README.md",
+      "sha": "8aeb8403d2072295b5de803e510276bc04a97423",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2022-11-25T05:49:18Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Release v0.0.8",
+      "sha": "bf6c10a72762384ffc666105f7796e7043a51f89",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2022-11-25T05:44:50Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Merge pull request #23 from chatwoot/fix/8-clicking-images-redirect-new-page\n\nfix: Redirect new page when click on attachments",
+      "sha": "603c141117bb1b475c9f89c5a48134c7a6aa86ef",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2022-11-24T09:42:50Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Fix attachments click",
+      "sha": "c9ddb3693ac3d8452ba40b37bfde970f7c1902cd",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2022-11-24T09:39:48Z"
+    },
+    {
+      "author": 12408980,
+      "message": "fix: Remove hard coded locale",
+      "sha": "276eba3c9b4e65b45f19903b2b6250710c02b273",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2022-11-24T09:36:18Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Remove hard coded locale",
+      "sha": "da4bb4b81f79c2ff06b8b8a6d65e45b38b924f2a",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2022-11-24T09:30:23Z"
+    },
+    {
+      "author": 12408980,
+      "message": "fix: Use full screen design for the modal",
+      "sha": "89c68020efa9a88550e60ecf3e08928c8bcdbb1d",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2022-10-25T05:53:05Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Release v0.0.7",
+      "sha": "14f96a8998f5a40c619053287e6671f1e2133762",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2022-10-25T05:52:30Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Fix prop name",
+      "sha": "d882a8a17f01e6dbb2f4be56755b697d79caf306",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2022-10-25T05:42:21Z"
+    },
+    {
+      "author": 2246121,
+      "message": "Use full screen design for the modal",
+      "sha": "bd3d9ce9a00e4cbbca2725392f2623d2c38d8818",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2022-10-24T21:11:40Z"
+    },
+    {
+      "author": 12408980,
+      "message": "chore: Add typescript typings\n\nchore: Add typescript typings",
+      "sha": "da19c5da3aed5edfcdd96dc574dd5e9014e84cdc",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2022-03-31T06:17:47Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Delete screenshot.png",
+      "sha": "7c0bff4199433da9357a77032269aeb77a3061e6",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-11-30T07:21:50Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Delete npm-publish.yml",
+      "sha": "1b22e8920645e07359cb619bd8bd440b9ef9b616",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-11-30T07:21:27Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Merge pull request #18 from chatwoot/main\n\nMain",
+      "sha": "012bf53a9f8070f4fa4487db14083fce009bfaa3",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-11-30T07:19:51Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Merge branch 'develop'",
+      "sha": "440537f70e5051cac6d81907b95298935faf0f84",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-11-30T07:18:44Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Release v0.0.06",
+      "sha": "e8ffdda66b2e1fbcc752dab42710e7f333e335f3",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-11-30T07:01:16Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Merge pull request #16 from 1t5j0y/develop\n\nchore: Remove modal swipe support",
+      "sha": "247433dbd62eb1fe038c5039503942a8b468af92",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-11-30T06:21:45Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Merge pull request #17 from chatwoot/chore/examples-build-fail\n\nchore: Fix example folder build",
+      "sha": "e57ccbab924b9aee44626f212b22f04213d5477f",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-11-30T06:15:44Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Fix examples build issue",
+      "sha": "07580786c2a9a0eab448da0108c3f0b36e790225",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-11-30T06:13:59Z"
+    },
+    {
+      "author": 54208632,
+      "message": "Remove modal swipe support",
+      "sha": "cba7c37bb842c4f3caed6453f5c75dfa8f5504ff",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-11-11T11:34:50Z"
+    },
+    {
+      "author": 5902976,
+      "message": "add custom attributes and change optionals",
+      "sha": "1f1a68d8246ec5c1034c3093229816797c13f55c",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-06-12T19:22:25Z"
+    },
+    {
+      "author": 5902976,
+      "message": "chore: add typescript typings",
+      "sha": "153ba81c1023125a17ed8ef0fe9f8fe9af5dbd6f",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-06-12T19:03:46Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update doc",
+      "sha": "7e6a97f36110d4cf977c1e6b5383124145ace834",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-26T10:32:30Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update doc",
+      "sha": "f98ab70330e3136ede0c2249094ef8e4cd7f68e5",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T14:06:55Z"
+    },
+    {
+      "author": 12408980,
+      "message": "bump the version to 0.0.5",
+      "sha": "17395a9623bc492e23015f3e0a07863829a79d94",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T13:58:44Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update screenshot",
+      "sha": "5bbe2541d750f7e7eaa224eefd3b7dbedc1c4ce7",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T13:58:44Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update example",
+      "sha": "f05001987df02d792aebd6e5c91fe9aaac9e5dff",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T13:58:44Z"
+    },
+    {
+      "author": 12408980,
+      "message": "fix the event type bug",
+      "sha": "2d38946794427b3adb49d020f2e32b26f94e2deb",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T13:58:44Z"
+    },
+    {
+      "author": 12408980,
+      "message": "bump the version to 0.0.5",
+      "sha": "f2f5752942816899b2b97f2a18414dcce5769141",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T13:56:39Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update screenshot",
+      "sha": "bda699e7c4e1f0b654a18e09349829c3742ec3ac",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T13:56:27Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update example",
+      "sha": "fbf449c2c6c2c5da6933ec25040f99b2bbb59114",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T12:28:01Z"
+    },
+    {
+      "author": 12408980,
+      "message": "fix the event type bug",
+      "sha": "f979bdf812b2a56da6c3ee86eaf3c8e724f03240",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T12:27:39Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Update README.md",
+      "sha": "4937c6d2ba1ce8e8e745b9407051458c7cb600ac",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T09:33:17Z"
+    },
+    {
+      "author": 12408980,
+      "message": "bump the version to 0.0.3",
+      "sha": "8b9662820650f7e98f5a5ec09907cf67121d0126",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T09:19:53Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update yarn.lock",
+      "sha": "f4d4c319486960c616db3cbbeb6efdb67c293d9d",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T09:15:00Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Merge branch 'develop' of github.com:chatwoot/chatwoot-react-native-widget into develop",
+      "sha": "53e11b63b71520bf16c09ef256182732752a23b1",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T09:13:18Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update README.md",
+      "sha": "eee2ac03027d97bb3f5ecfedda140af403542d19",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T09:12:59Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Merge pull request #6 from chatwoot/main\n\nmerge main",
+      "sha": "bfc0519a6931ea473a18ec5aee8316a2be2a0fa3",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T09:07:13Z"
+    },
+    {
+      "author": 12408980,
+      "message": "bump the version",
+      "sha": "2ba32068d43a64f297d730b15d702146e7a0be3e",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T09:05:58Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update ga script",
+      "sha": "4c509f0ca9ad1ec31a929dbd9fbb9d86a2df2081",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T09:05:44Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update readme.md",
+      "sha": "7e3d10c794df123755d8387b47bbea1e03c81c7e",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T08:59:42Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update action script",
+      "sha": "20de008543a550e149eda1a1f83291b590c25f60",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T08:56:45Z"
+    },
+    {
+      "author": 12408980,
+      "message": "change package name",
+      "sha": "37f708d1af569463ddb27b2312e2cef270e99fa9",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T08:56:35Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update README.md",
+      "sha": "1c59000607baf9eb3f862992109cfce916ea9a8d",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-22T08:56:24Z"
+    },
+    {
+      "author": 12408980,
+      "message": "test github action",
+      "sha": "1125efa6a7cd596d01e450895700ae27ff737413",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-19T06:37:44Z"
+    },
+    {
+      "author": 12408980,
+      "message": "test github action",
+      "sha": "9d1c1af90941910f3b604f8dd6d28395108092a2",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-19T06:28:03Z"
+    },
+    {
+      "author": 12408980,
+      "message": "test github action",
+      "sha": "b455ce6bda6bda3c205a71862aeeb8855bba645a",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-19T06:15:44Z"
+    },
+    {
+      "author": 12408980,
+      "message": "test npm publish github action",
+      "sha": "ac74a3cc9761e332e91a07d945da154b062725e4",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-19T05:27:28Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update readme.md",
+      "sha": "b9a42fc690779e75a5e18afd2fc807f5df34d363",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-15T14:59:48Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update styles",
+      "sha": "d5cfaa5289193842f245369c376d4e7ea891faa8",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-15T14:05:13Z"
+    },
+    {
+      "author": 12408980,
+      "message": "more modal close events",
+      "sha": "3b1659227943d2ad9128c53c09f1b64716e0a7ad",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-15T10:44:10Z"
+    },
+    {
+      "author": 12408980,
+      "message": "enable close button in rn-widget",
+      "sha": "daf0fff9bbf07725095798f526c3a78ca8611308",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-15T10:12:54Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update package.json",
+      "sha": "69e0f548980fbe87bf62af64b42564bfe7698ffd",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-15T10:12:00Z"
+    },
+    {
+      "author": 12408980,
+      "message": "clean example project",
+      "sha": "224957bfc58f7c5971975511b939cefe4d5610ad",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-13T08:49:51Z"
+    },
+    {
+      "author": 12408980,
+      "message": "add example starter",
+      "sha": "04294bbacf29f1aa7b0ecc9fd79ae3f7034f82b4",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-13T04:36:16Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Merge branch 'develop' of github.com:chatwoot/chatwoot-react-native-widget into develop",
+      "sha": "d4af0a6044f352d2e6e31cb45ef2fb161d63c498",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-12T11:02:30Z"
+    },
+    {
+      "author": 12408980,
+      "message": "add organizaton name",
+      "sha": "7145ecdca00c20a5f35f242dfca053d2cab9fe76",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-12T11:01:44Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Merge pull request #4 from chatwoot/main\n\nPublish npm package using github action",
+      "sha": "d531adf955e4b3f7c4152e3ac729af7941140b8e",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-12T10:33:55Z"
+    },
+    {
+      "author": 12408980,
+      "message": "add github action for npm publish",
+      "sha": "ba53a593935b1def68390a08938aa0f4cb55280c",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-12T10:32:17Z"
+    },
+    {
+      "author": 12408980,
+      "message": "code beautification",
+      "sha": "20e3ebdf9239418aca6c7019b8b51b2e58dff1a1",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-12T10:15:11Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Update README.md",
+      "sha": "d6c3ad50ba45b5bc5af55144a844cd46a420bda7",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-12T10:13:49Z"
+    },
+    {
+      "author": 12408980,
+      "message": "code beautification",
+      "sha": "ffc2bd56f8830dcb678cc4dbf4b52601f34f5c6e",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-10T08:00:49Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update company name in README.md",
+      "sha": "c19f4a75b49dbf50dd38cd6ec46c2309e32cad46",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-08T09:34:29Z"
+    },
+    {
+      "author": 12408980,
+      "message": "scroll enabled in webview",
+      "sha": "6ef4a9557df0826c8a116d418188938af9b1bbd9",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-06T05:49:24Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Update README.md",
+      "sha": "d2c1c10811c095e78db1f37505e7bbcd0ec9e9b7",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-05T16:19:13Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update README.md",
+      "sha": "dea793b787cce3d509179caf0fbd584895cb0065",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-05T15:36:27Z"
+    },
+    {
+      "author": 12408980,
+      "message": "remove yarn.lock",
+      "sha": "d040761dc47373f92f121bf833b0ae5e0fc77154",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-05T15:28:33Z"
+    },
+    {
+      "author": 12408980,
+      "message": "complete basic version",
+      "sha": "53432586c78e075f8743cad7ccde343586dc6edb",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-05T15:26:36Z"
+    },
+    {
+      "author": 12408980,
+      "message": "add react and react-native package",
+      "sha": "c434e3e0dfc0b35c91fb82008e05a47f36905d8c",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-05T15:16:50Z"
+    },
+    {
+      "author": 12408980,
+      "message": "add prettier, eslint and husky configuration",
+      "sha": "25dae8d6c25f5aefd9c7a14d5b473a6c4cfa2dbe",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-05T15:08:26Z"
+    },
+    {
+      "author": 12408980,
+      "message": "add npm ignore",
+      "sha": "81b1558315385a4069f998584b255037dced6760",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-05T15:06:51Z"
+    },
+    {
+      "author": 12408980,
+      "message": "add git ignore",
+      "sha": "1e022ba902f8257b6c36ef5f84bfa59d53eccbd8",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-05T15:04:13Z"
+    },
+    {
+      "author": 12408980,
+      "message": "add licence",
+      "sha": "caf059f13bfc038d113f930b7f24065314b8aac2",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-05T15:01:59Z"
+    },
+    {
+      "author": 12408980,
+      "message": "add npm package data",
+      "sha": "8a04325ec6fe6808d02526bfd48d83d7794521dd",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-05T15:01:19Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update readme.md",
+      "sha": "4740010f3e63cfe704034f2058c275a3ea72b69c",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-05T14:57:14Z"
+    },
+    {
+      "author": 12408980,
+      "message": ":tada: first commit",
+      "sha": "b87b8e7c8ccc425bf713d303f389ba0897a1f2d5",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-react-native-widget",
+      "createdAt": "2021-03-05T14:56:17Z"
     },
     {
       "author": 479079,
@@ -11657,286 +11657,6 @@
       "createdAt": "2020-02-25T18:17:53Z"
     },
     {
-      "author": 12408980,
-      "message": "Chore: Change the application icon (#66)",
-      "sha": "b219f9b78cb8b7f5ad9574b1743ad1ecaebbc98d",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2020-02-25T18:16:43Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Bug: Redirect application to login page if token is expired (#65)",
-      "sha": "e02d76158a03484c9c636369002f84e2ce67892f",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2020-02-25T18:14:11Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Feature: Add chat screen (#57)",
-      "sha": "b62b88060488812d3d9d90280ecf93f9941cfb20",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2020-02-25T07:14:41Z"
-    },
-    {
-      "author": 49699333,
-      "message": "Bump yarn from 1.19.2 to 1.22.0 (#59)\n\nBumps [yarn](https://github.com/yarnpkg/yarn) from 1.19.2 to 1.22.0.\r\n- [Release notes](https://github.com/yarnpkg/yarn/releases)\r\n- [Changelog](https://github.com/yarnpkg/yarn/blob/master/CHANGELOG.md)\r\n- [Commits](https://github.com/yarnpkg/yarn/compare/v1.19.2...v1.22.0)\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>",
-      "sha": "7667f4abc1bd5f8b15611338ed0e701ff9530495",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2020-02-15T07:01:33Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Chore: Deploy android and ios beta version (#53)\n\n* Fix some ios style issues\r\n\r\n* Remove ios icon alpha transparency\r\n\r\n* Fix user avatar issue\r\n\r\n* Release ios version 0.0.2\r\n\r\n* Change app id in android config files\r\n\r\n* Remove gradle.properties from git\r\n\r\n* Add fastlane setup for android\r\n\r\n* Add android config in gitignore\r\n\r\n* Release android version 0.0.2",
-      "sha": "f343ca4642bdcdb2e3dd6495ef5c078f9581816f",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2020-02-07T04:14:21Z"
-    },
-    {
-      "author": 22343433,
-      "message": "Feature: Add reset password screen  (#56)",
-      "sha": "65951b8c3e5848b5e53bd84193fdb09b2458afa8",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2020-01-30T07:29:39Z"
-    },
-    {
-      "author": 1277421,
-      "message": "Sets up jest to test reducer (#50)",
-      "sha": "648f3abab2c27cdf1925dcc9346f8c8ef992f112",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2020-01-24T05:22:35Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Add splash and app icon (#49)",
-      "sha": "f85bc4bb7d93ac001db49e05c1d8d053a1c70978",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2020-01-21T13:37:49Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Feature: Update conversation/messages in real time using web socket (#48)",
-      "sha": "f5fe6234354bafb18fab24cb2b88c411531e92b0",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2020-01-21T04:34:39Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Feature: Add no network bar (#44)",
-      "sha": "9287af56387493611d07863e9318dcd2ab64b704",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2020-01-17T09:15:25Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Feature: Add confirm modal on hardware back button (#43)",
-      "sha": "86f0e528ddf33c66def2e02c381b780639348821",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2020-01-17T07:38:27Z"
-    },
-    {
-      "author": 73185,
-      "message": "Fix: Readme typo (#40)",
-      "sha": "3eabfa5000faa7573035dac8f95fc4921a8a2e46",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2020-01-14T08:05:14Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Docs: Update the docs for public release  (#39)",
-      "sha": "d4c5d1f86c94572bf30a3db3fa773cc4d841d425",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2020-01-14T08:01:55Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Feature: Add random background color for conversation item (#37)",
-      "sha": "7bb71de76dbf0c2ba9ebd428b2b9e8ecd51dfe85",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2020-01-14T07:53:23Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Connect application with action cable (#36)\n\n* add more constants\r\n\r\n* add action cable helpers\r\n\r\n* add websocket url\r\n\r\n* add helper for getting pub sub token\r\n\r\n* filter conversation list before render\r\n\r\n* change the logic of last message in conversation\r\n\r\n* add clean script\r\n\r\n* add react-native-action-cable package\r\n\r\n* remove base class action cable\r\n\r\n* connect app with web sockets",
-      "sha": "3b7a89bb741c5a2af320515fb9bc40e56600cbf2",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2020-01-14T06:49:28Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Feature: Add conversation filter screen (#31)",
-      "sha": "ed8f52bc6dcab597c8fd6f23f0a1c45ae83a64b9",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2020-01-02T07:05:36Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Feature: Add conversation list and settings screen (#28)",
-      "sha": "a5de45e3a232ee45325482d42be6cf5b621b75d0",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-12-29T15:17:25Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Enhancement: Add prop types for type checking  (#27)",
-      "sha": "7346aeba8740ddf8e7bd98b76a749bbab98d4792",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-12-24T17:30:10Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Feature: Login API flow (#25)",
-      "sha": "eceb9b64328fb3590408ccba8db0a8fc7efb47d9",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-12-24T17:04:53Z"
-    },
-    {
-      "author": 12408980,
-      "message": "[Feature] Added the login screen and theming files (#21)",
-      "sha": "d71382e35f511698ae500990d8d83ede4ab1af37",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-12-23T18:15:21Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Added localisation support (#18)\n\n* add i18n-js package\r\n\r\n* add i18n configuration\r\n\r\n* add english and spanish translation files\r\n\r\n* add transaltion in home screen",
-      "sha": "d029495710ebcf00532cd168bbbf20b614857544",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-11-30T09:56:01Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Added redux for state management (#16)",
-      "sha": "598315637a16a8b9c746097876656aef338e7fc2",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-11-29T08:07:32Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Merge pull request #14 from pranavrajs/7-navigation\n\nAdded page navigation",
-      "sha": "ae74ab909c0a39ce0b64eb1f4fbd262c577100bb",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-11-27T17:18:49Z"
-    },
-    {
-      "author": 12408980,
-      "message": "update podfile.lock file",
-      "sha": "42a00a70f3fb6b62277966778834a9200e2005cf",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-11-27T16:24:22Z"
-    },
-    {
-      "author": 12408980,
-      "message": "clean code",
-      "sha": "9a9551c270c0b4feed0e9bd96b9e22d3ea3bda6c",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-11-27T16:21:24Z"
-    },
-    {
-      "author": 12408980,
-      "message": "add home page and implement the navigation",
-      "sha": "7393d51f08237b6ad79c98841a35691fa5ba3f22",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-11-27T16:20:29Z"
-    },
-    {
-      "author": 12408980,
-      "message": "add react navigation libraries",
-      "sha": "bc91523d35cf09b8e762044b714a162ef477a3f1",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-11-27T16:19:28Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Merge pull request #13 from pranavrajs/4-prettier\n\nConfigured Prettier, Eslint and Husky",
-      "sha": "841978274ffcaa7b2cb9b1b503c42fbc060875eb",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-11-27T12:36:14Z"
-    },
-    {
-      "author": 12408980,
-      "message": "setup lint-staged and husky",
-      "sha": "cb99e561e2962c2475ab09ed5a834ebf99ed05cf",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-11-27T12:27:48Z"
-    },
-    {
-      "author": 12408980,
-      "message": "add huky and lint-staged dev dependencies",
-      "sha": "a0b5e8edaa580cbe587ae4725b1cacd6b3083389",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-11-27T12:23:58Z"
-    },
-    {
-      "author": 12408980,
-      "message": "add eslint-plugin-prettier dev dependency",
-      "sha": "983c2d7f914ceee71d0df139f38b032fdae540c3",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-11-27T12:23:20Z"
-    },
-    {
-      "author": 12408980,
-      "message": "add prettier dev dependency",
-      "sha": "71566f331d36a7d115d8ed213acc703ea0a05ba9",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-11-27T12:19:17Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Add basic documentation for running the app (#12)\n\n* add .env to gitignore\r\n\r\n* add .env.example file\r\n\r\n* add basic doc for running the app",
-      "sha": "c7e514667ca115282105d97e852bbf172a9e6c93",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-11-27T11:54:22Z"
-    },
-    {
-      "author": 12408980,
-      "message": "Initialised the RN project  (#3)\n\n* initialise the rn project\r\n\r\n* change project package name",
-      "sha": "47579eb8ea048c6fabf6b8e7129b873ec97d38b5",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-11-26T18:27:06Z"
-    },
-    {
-      "author": 2246121,
-      "message": "Initial commit",
-      "sha": "d9e616711b146afab7c4c6f80c4553e8412ee631",
-      "orgName": "chatwoot",
-      "repoName": "chatwoot-mobile-app",
-      "createdAt": "2019-11-25T18:21:16Z"
-    },
-    {
       "author": 4692284,
       "message": "fix: Typo in Caprover docs (#88)\n\nFixes #87",
       "sha": "88abfabbc1e0a3b3655e15c2fdb19b27bae4fd8d",
@@ -12719,6 +12439,286 @@
       "orgName": "chatwoot",
       "repoName": "docs",
       "createdAt": "2021-01-26T08:36:01Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Chore: Change the application icon (#66)",
+      "sha": "b219f9b78cb8b7f5ad9574b1743ad1ecaebbc98d",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2020-02-25T18:16:43Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Bug: Redirect application to login page if token is expired (#65)",
+      "sha": "e02d76158a03484c9c636369002f84e2ce67892f",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2020-02-25T18:14:11Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Feature: Add chat screen (#57)",
+      "sha": "b62b88060488812d3d9d90280ecf93f9941cfb20",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2020-02-25T07:14:41Z"
+    },
+    {
+      "author": 49699333,
+      "message": "Bump yarn from 1.19.2 to 1.22.0 (#59)\n\nBumps [yarn](https://github.com/yarnpkg/yarn) from 1.19.2 to 1.22.0.\r\n- [Release notes](https://github.com/yarnpkg/yarn/releases)\r\n- [Changelog](https://github.com/yarnpkg/yarn/blob/master/CHANGELOG.md)\r\n- [Commits](https://github.com/yarnpkg/yarn/compare/v1.19.2...v1.22.0)\r\n\r\nSigned-off-by: dependabot[bot] <support@github.com>",
+      "sha": "7667f4abc1bd5f8b15611338ed0e701ff9530495",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2020-02-15T07:01:33Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Chore: Deploy android and ios beta version (#53)\n\n* Fix some ios style issues\r\n\r\n* Remove ios icon alpha transparency\r\n\r\n* Fix user avatar issue\r\n\r\n* Release ios version 0.0.2\r\n\r\n* Change app id in android config files\r\n\r\n* Remove gradle.properties from git\r\n\r\n* Add fastlane setup for android\r\n\r\n* Add android config in gitignore\r\n\r\n* Release android version 0.0.2",
+      "sha": "f343ca4642bdcdb2e3dd6495ef5c078f9581816f",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2020-02-07T04:14:21Z"
+    },
+    {
+      "author": 22343433,
+      "message": "Feature: Add reset password screen  (#56)",
+      "sha": "65951b8c3e5848b5e53bd84193fdb09b2458afa8",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2020-01-30T07:29:39Z"
+    },
+    {
+      "author": 1277421,
+      "message": "Sets up jest to test reducer (#50)",
+      "sha": "648f3abab2c27cdf1925dcc9346f8c8ef992f112",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2020-01-24T05:22:35Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Add splash and app icon (#49)",
+      "sha": "f85bc4bb7d93ac001db49e05c1d8d053a1c70978",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2020-01-21T13:37:49Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Feature: Update conversation/messages in real time using web socket (#48)",
+      "sha": "f5fe6234354bafb18fab24cb2b88c411531e92b0",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2020-01-21T04:34:39Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Feature: Add no network bar (#44)",
+      "sha": "9287af56387493611d07863e9318dcd2ab64b704",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2020-01-17T09:15:25Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Feature: Add confirm modal on hardware back button (#43)",
+      "sha": "86f0e528ddf33c66def2e02c381b780639348821",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2020-01-17T07:38:27Z"
+    },
+    {
+      "author": 73185,
+      "message": "Fix: Readme typo (#40)",
+      "sha": "3eabfa5000faa7573035dac8f95fc4921a8a2e46",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2020-01-14T08:05:14Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Docs: Update the docs for public release  (#39)",
+      "sha": "d4c5d1f86c94572bf30a3db3fa773cc4d841d425",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2020-01-14T08:01:55Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Feature: Add random background color for conversation item (#37)",
+      "sha": "7bb71de76dbf0c2ba9ebd428b2b9e8ecd51dfe85",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2020-01-14T07:53:23Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Connect application with action cable (#36)\n\n* add more constants\r\n\r\n* add action cable helpers\r\n\r\n* add websocket url\r\n\r\n* add helper for getting pub sub token\r\n\r\n* filter conversation list before render\r\n\r\n* change the logic of last message in conversation\r\n\r\n* add clean script\r\n\r\n* add react-native-action-cable package\r\n\r\n* remove base class action cable\r\n\r\n* connect app with web sockets",
+      "sha": "3b7a89bb741c5a2af320515fb9bc40e56600cbf2",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2020-01-14T06:49:28Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Feature: Add conversation filter screen (#31)",
+      "sha": "ed8f52bc6dcab597c8fd6f23f0a1c45ae83a64b9",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2020-01-02T07:05:36Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Feature: Add conversation list and settings screen (#28)",
+      "sha": "a5de45e3a232ee45325482d42be6cf5b621b75d0",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-12-29T15:17:25Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Enhancement: Add prop types for type checking  (#27)",
+      "sha": "7346aeba8740ddf8e7bd98b76a749bbab98d4792",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-12-24T17:30:10Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Feature: Login API flow (#25)",
+      "sha": "eceb9b64328fb3590408ccba8db0a8fc7efb47d9",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-12-24T17:04:53Z"
+    },
+    {
+      "author": 12408980,
+      "message": "[Feature] Added the login screen and theming files (#21)",
+      "sha": "d71382e35f511698ae500990d8d83ede4ab1af37",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-12-23T18:15:21Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Added localisation support (#18)\n\n* add i18n-js package\r\n\r\n* add i18n configuration\r\n\r\n* add english and spanish translation files\r\n\r\n* add transaltion in home screen",
+      "sha": "d029495710ebcf00532cd168bbbf20b614857544",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-11-30T09:56:01Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Added redux for state management (#16)",
+      "sha": "598315637a16a8b9c746097876656aef338e7fc2",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-11-29T08:07:32Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Merge pull request #14 from pranavrajs/7-navigation\n\nAdded page navigation",
+      "sha": "ae74ab909c0a39ce0b64eb1f4fbd262c577100bb",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-11-27T17:18:49Z"
+    },
+    {
+      "author": 12408980,
+      "message": "update podfile.lock file",
+      "sha": "42a00a70f3fb6b62277966778834a9200e2005cf",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-11-27T16:24:22Z"
+    },
+    {
+      "author": 12408980,
+      "message": "clean code",
+      "sha": "9a9551c270c0b4feed0e9bd96b9e22d3ea3bda6c",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-11-27T16:21:24Z"
+    },
+    {
+      "author": 12408980,
+      "message": "add home page and implement the navigation",
+      "sha": "7393d51f08237b6ad79c98841a35691fa5ba3f22",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-11-27T16:20:29Z"
+    },
+    {
+      "author": 12408980,
+      "message": "add react navigation libraries",
+      "sha": "bc91523d35cf09b8e762044b714a162ef477a3f1",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-11-27T16:19:28Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Merge pull request #13 from pranavrajs/4-prettier\n\nConfigured Prettier, Eslint and Husky",
+      "sha": "841978274ffcaa7b2cb9b1b503c42fbc060875eb",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-11-27T12:36:14Z"
+    },
+    {
+      "author": 12408980,
+      "message": "setup lint-staged and husky",
+      "sha": "cb99e561e2962c2475ab09ed5a834ebf99ed05cf",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-11-27T12:27:48Z"
+    },
+    {
+      "author": 12408980,
+      "message": "add huky and lint-staged dev dependencies",
+      "sha": "a0b5e8edaa580cbe587ae4725b1cacd6b3083389",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-11-27T12:23:58Z"
+    },
+    {
+      "author": 12408980,
+      "message": "add eslint-plugin-prettier dev dependency",
+      "sha": "983c2d7f914ceee71d0df139f38b032fdae540c3",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-11-27T12:23:20Z"
+    },
+    {
+      "author": 12408980,
+      "message": "add prettier dev dependency",
+      "sha": "71566f331d36a7d115d8ed213acc703ea0a05ba9",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-11-27T12:19:17Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Add basic documentation for running the app (#12)\n\n* add .env to gitignore\r\n\r\n* add .env.example file\r\n\r\n* add basic doc for running the app",
+      "sha": "c7e514667ca115282105d97e852bbf172a9e6c93",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-11-27T11:54:22Z"
+    },
+    {
+      "author": 12408980,
+      "message": "Initialised the RN project  (#3)\n\n* initialise the rn project\r\n\r\n* change project package name",
+      "sha": "47579eb8ea048c6fabf6b8e7129b873ec97d38b5",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-11-26T18:27:06Z"
+    },
+    {
+      "author": 2246121,
+      "message": "Initial commit",
+      "sha": "d9e616711b146afab7c4c6f80c4553e8412ee631",
+      "orgName": "chatwoot",
+      "repoName": "chatwoot-mobile-app",
+      "createdAt": "2019-11-25T18:21:16Z"
     },
     {
       "author": 10827585,
@@ -36547,22 +36547,6 @@
       "lastCommitAt": "2023-08-15T03:19:02Z"
     },
     {
-      "id": 4143552,
-      "login": "shamsudheen",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4143552?v=4",
-      "commitsCount": 37,
-      "firstCommitAt": "2021-10-07T10:25:53Z",
-      "lastCommitAt": "2022-05-31T16:13:52Z"
-    },
-    {
-      "id": 67892021,
-      "login": "shamsu-accubits",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/67892021?v=4",
-      "commitsCount": 2,
-      "firstCommitAt": "2022-05-24T22:29:18Z",
-      "lastCommitAt": "2022-05-28T14:07:47Z"
-    },
-    {
       "id": 18097732,
       "login": "scmmishra",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18097732?v=4",
@@ -36627,6 +36611,30 @@
       "lastCommitAt": "2023-08-08T10:21:46Z"
     },
     {
+      "id": 12408980,
+      "login": "muhsin-k",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/12408980?v=4",
+      "commitsCount": 662,
+      "firstCommitAt": "2019-11-21T09:12:40Z",
+      "lastCommitAt": "2023-08-15T04:30:50Z"
+    },
+    {
+      "id": 1277421,
+      "login": "nithindavid",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1277421?v=4",
+      "commitsCount": 272,
+      "firstCommitAt": "2019-09-02T14:56:28Z",
+      "lastCommitAt": "2023-08-01T16:02:44Z"
+    },
+    {
+      "id": 5848740,
+      "login": "aswindevps",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5848740?v=4",
+      "commitsCount": 55,
+      "firstCommitAt": "2021-08-03T08:28:00Z",
+      "lastCommitAt": "2022-09-15T09:05:54Z"
+    },
+    {
       "id": 73185,
       "login": "sojan-official",
       "avatarUrl": "https://avatars.githubusercontent.com/u/73185?v=4",
@@ -36665,46 +36673,6 @@
       "commitsCount": 24,
       "firstCommitAt": "2019-08-21T14:39:59Z",
       "lastCommitAt": "2020-09-25T21:02:34Z"
-    },
-    {
-      "id": 12408980,
-      "login": "muhsin-k",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/12408980?v=4",
-      "commitsCount": 662,
-      "firstCommitAt": "2019-11-21T09:12:40Z",
-      "lastCommitAt": "2023-08-15T04:30:50Z"
-    },
-    {
-      "id": 54208632,
-      "login": "1t5j0y",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/54208632?v=4",
-      "commitsCount": 1,
-      "firstCommitAt": "2021-11-11T11:34:50Z",
-      "lastCommitAt": "2021-11-11T11:34:50Z"
-    },
-    {
-      "id": 5902976,
-      "login": "aniravi24",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5902976?v=4",
-      "commitsCount": 3,
-      "firstCommitAt": "2021-06-02T15:46:45Z",
-      "lastCommitAt": "2021-06-12T19:22:25Z"
-    },
-    {
-      "id": 1277421,
-      "login": "nithindavid",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1277421?v=4",
-      "commitsCount": 272,
-      "firstCommitAt": "2019-09-02T14:56:28Z",
-      "lastCommitAt": "2023-08-01T16:02:44Z"
-    },
-    {
-      "id": 5848740,
-      "login": "aswindevps",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5848740?v=4",
-      "commitsCount": 55,
-      "firstCommitAt": "2021-08-03T08:28:00Z",
-      "lastCommitAt": "2022-09-15T09:05:54Z"
     },
     {
       "id": 64252451,
@@ -36779,6 +36747,22 @@
       "lastCommitAt": "2023-07-26T14:31:04Z"
     },
     {
+      "id": 4143552,
+      "login": "shamsudheen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4143552?v=4",
+      "commitsCount": 37,
+      "firstCommitAt": "2021-10-07T10:25:53Z",
+      "lastCommitAt": "2022-05-31T16:13:52Z"
+    },
+    {
+      "id": 67892021,
+      "login": "shamsu-accubits",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67892021?v=4",
+      "commitsCount": 2,
+      "firstCommitAt": "2022-05-24T22:29:18Z",
+      "lastCommitAt": "2022-05-28T14:07:47Z"
+    },
+    {
       "id": 92152627,
       "login": "chatwoot-bot",
       "avatarUrl": "https://avatars.githubusercontent.com/u/92152627?v=4",
@@ -36793,6 +36777,22 @@
       "commitsCount": 1,
       "firstCommitAt": "2023-02-06T08:55:59Z",
       "lastCommitAt": "2023-02-06T08:55:59Z"
+    },
+    {
+      "id": 54208632,
+      "login": "1t5j0y",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54208632?v=4",
+      "commitsCount": 1,
+      "firstCommitAt": "2021-11-11T11:34:50Z",
+      "lastCommitAt": "2021-11-11T11:34:50Z"
+    },
+    {
+      "id": 5902976,
+      "login": "aniravi24",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5902976?v=4",
+      "commitsCount": 3,
+      "firstCommitAt": "2021-06-02T15:46:45Z",
+      "lastCommitAt": "2021-06-12T19:22:25Z"
     },
     {
       "id": 479079,
@@ -37307,14 +37307,6 @@
       "lastCommitAt": "2020-03-13T13:54:39Z"
     },
     {
-      "id": 22343433,
-      "login": "00karthik",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22343433?v=4",
-      "commitsCount": 1,
-      "firstCommitAt": "2020-01-30T07:29:39Z",
-      "lastCommitAt": "2020-01-30T07:29:39Z"
-    },
-    {
       "id": 4692284,
       "login": "WhiteX",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4692284?v=4",
@@ -37385,6 +37377,14 @@
       "commitsCount": 1,
       "firstCommitAt": "2021-02-10T07:10:16Z",
       "lastCommitAt": "2021-02-10T07:10:16Z"
+    },
+    {
+      "id": 22343433,
+      "login": "00karthik",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22343433?v=4",
+      "commitsCount": 1,
+      "firstCommitAt": "2020-01-30T07:29:39Z",
+      "lastCommitAt": "2020-01-30T07:29:39Z"
     },
     {
       "id": 21004741,
@@ -37668,7 +37668,7 @@
     },
     {
       "id": 1446685,
-      "login": "SimonHausdorf",
+      "login": "SimonVillage",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1446685?v=4",
       "commitsCount": 2,
       "firstCommitAt": "2022-07-06T19:47:39Z",
