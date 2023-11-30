@@ -1,9 +1,9 @@
-import db from '../../data/db.json'
+import db from '../../data/db.json';
 
 export default function handler(req, res) {
   if (req.method === 'GET') {
-    res.status(200).json(db.authors)
+    res.status(200).json(db.authors);
   } else {
-    res.status(404)
+    res.status(404);
   }
 }
