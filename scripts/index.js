@@ -8,8 +8,8 @@ import db from './lib/db/index.js';
 
 import contributorsConfig from '../contributors.config.js';
 
-const { GITHUB_ACCESS_TOKEN } = process.env;
-const githubClient = new GithubClient(GITHUB_ACCESS_TOKEN);
+const { GH_ACCESS_TOKEN } = process.env;
+const githubClient = new GithubClient(GH_ACCESS_TOKEN);
 
 const saveCommitToDB = (commitObj, orgName, repoName) => {
   const { author, commit, sha } = commitObj;
