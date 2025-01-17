@@ -17,7 +17,6 @@ async function fetchImageAsBase64(url) {
 
     return `data:${contentType};base64,${base64}`;
   } catch (error) {
-    console.error('Error fetching image:', error);
     // Return a default avatar image in base64 format
     return '/default-avatar.png';
   }
