@@ -36,15 +36,21 @@ function isValidImageUrl(url) {
   try {
     const parsed = new URL(url);
     return ['http:', 'https:'].includes(parsed.protocol);
-  } catch {
+  } catch (error) {
     return false;
   }
 }
 
 async function generateAuthorsSVG(authors, apiSize = 40, apiColumns = 5) {
   // Validate and bound input parameters
-  const size = Math.min(Math.max(parseInt(apiSize, 10) || 40, MIN_SIZE), MAX_SIZE);
-  const columns = Math.min(Math.max(parseInt(apiColumns, 10) || 5, MIN_COLUMNS), MAX_COLUMNS);
+  const size = Math.min(
+    Math.max(parseInt(apiSize, 10) || 40, MIN_SIZE),
+    MAX_SIZE
+  );
+  const columns = Math.min(
+    Math.max(parseInt(apiColumns, 10) || 5, MIN_COLUMNS),
+    MAX_COLUMNS
+  );
 
   const padding = Math.ceil(size * 0.1);
   const rows = Math.ceil(authors.length / columns);
@@ -121,7 +127,10 @@ export default async function handler(req, res) {
     // Set security headers
     res.setHeader('Content-Type', 'image/svg+xml');
     res.setHeader('Cache-Control', 'public, max-age=3600');
-    res.setHeader('Content-Security-Policy', "default-src 'none'; img-src 'self' data:;");
+    res.setHeader(
+      'Content-Security-Policy',
+      "default-src 'none'; img-src 'self' data:;"
+    );
     res.setHeader('X-Content-Type-Options', 'nosniff');
 
     return res.status(200).send(svg);
@@ -129,7 +138,7 @@ export default async function handler(req, res) {
     console.error('SVG generation error:', error);
     return res.status(400).json({
       error: 'Invalid request',
-      message: 'Unable to generate SVG'
+      message: 'Unable to generate SVG',
     });
   }
 }
