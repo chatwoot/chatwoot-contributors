@@ -1,74 +1,135 @@
 import db from '../../data/db.json';
 
-function generateAuthorsSVG(authors, apiSize = 40, apiColumns = 5) {
-  // Ensure size and columns are valid numbers
-  const size = parseInt(apiSize, 10); // Clamp between 20 and 200
-  const columns = parseInt(apiColumns, 10); // Clamp between 1 and 10
+const MAX_AUTHORS = 5000;
+const MIN_SIZE = 20;
+const MAX_SIZE = 200;
+const MIN_COLUMNS = 1;
+const MAX_COLUMNS = 100;
 
-  const padding = Math.ceil(size * 0.1); // Padding proportional to size
+async function fetchImageAsBase64(url) {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) throw new Error('Failed to fetch image');
+
+    const buffer = await response.arrayBuffer();
+    const base64 = Buffer.from(buffer).toString('base64');
+    const contentType = response.headers.get('content-type') || 'image/png';
+
+    return `data:${contentType};base64,${base64}`;
+  } catch (error) {
+    console.error('Error fetching image:', error);
+    // Return a default avatar image in base64 format
+    return '/default-avatar.png';
+  }
+}
+
+function encodeXMLAttribute(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
+function isValidImageUrl(url) {
+  try {
+    const parsed = new URL(url);
+    return ['http:', 'https:'].includes(parsed.protocol);
+  } catch {
+    return false;
+  }
+}
+
+async function generateAuthorsSVG(authors, apiSize = 40, apiColumns = 5) {
+  // Validate and bound input parameters
+  const size = Math.min(Math.max(parseInt(apiSize, 10) || 40, MIN_SIZE), MAX_SIZE);
+  const columns = Math.min(Math.max(parseInt(apiColumns, 10) || 5, MIN_COLUMNS), MAX_COLUMNS);
+
+  const padding = Math.ceil(size * 0.1);
   const rows = Math.ceil(authors.length / columns);
   const width = (size + padding) * columns;
   const height = (size + padding) * rows;
 
-  const authorElements = authors
-    .map((author, index) => {
-      const x = (index % columns) * (size + padding);
-      const y = Math.floor(index / columns) * (size + padding);
+  // Convert all valid image URLs to base64
+  const authorPromises = authors.map(async (author, index) => {
+    const x = (index % columns) * (size + padding);
+    const y = Math.floor(index / columns) * (size + padding);
+    const safeId = encodeXMLAttribute(author.login);
+    const safeUsername = encodeXMLAttribute(author.username || safeId);
 
-      return `
-      <defs>
-        <clipPath id="circle-${author.id}">
-          <circle cx="${x + size / 2}" cy="${y + size / 2}" r="${size / 2}" />
-        </clipPath>
-      </defs>
-      <image
-        href="${author.avatarUrl}"
-        x="${x}"
-        y="${y}"
-        width="${size}"
-        height="${size}"
-        preserveAspectRatio="xMidYMid slice"
-        clip-path="url(#circle-${author.id})"
-      />
-    `;
-    })
-    .join('');
+    let imageData;
+    if (isValidImageUrl(author.avatarUrl)) {
+      imageData = await fetchImageAsBase64(author.avatarUrl);
+    } else {
+      imageData = '/default-avatar.png';
+    }
+
+    const safeImageData = encodeXMLAttribute(imageData);
+
+    return `
+    <a xmlns="http://www.w3.org/2000/svg"
+       xmlns:xlink="http://www.w3.org/1999/xlink"
+       xlink:href="https://github.com/${safeUsername}"
+       class="opencollective-svg"
+       target="_blank"
+       rel="nofollow sponsored"
+       id="${safeId}">
+      <image x="${x}"
+             y="${y}"
+             width="${size}"
+             height="${size}"
+             xlink:href="${safeImageData}"/>
+    </a>`;
+  });
+
+  const authorElements = await Promise.all(authorPromises);
 
   return `
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      width="${width}"
-      height="${height}"
-      viewBox="0 0 ${width} ${height}"
-
-    >
-      ${authorElements}
+    <svg xmlns="http://www.w3.org/2000/svg"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         width="${width}"
+         height="${height}"
+         viewBox="0 0 ${width} ${height}">
+      ${authorElements.join('')}
     </svg>
   `;
 }
 
-export default function handler(req, res) {
-  if (req.method === 'GET') {
-    // Get query parameters with default values
-    const { size = 40, columns = 5 } = req.query;
+export default async function handler(req, res) {
+  if (req.method !== 'GET') {
+    res.setHeader('Allow', ['GET']);
+    return res.status(405).end();
+  }
 
-    try {
-      const svg = generateAuthorsSVG(
-        db.authors.sort((a1, a2) => a2.commitsCount - a1.commitsCount),
-        size,
-        columns
-      );
-
-      res.setHeader('Content-Type', 'image/svg+xml');
-      res.setHeader('Cache-Control', 'public, max-age=86400');
-      res.status(200).send(svg);
-    } catch (error) {
-      res.status(400).json({
-        error: 'Invalid parameters',
-        message: error.message,
-      });
+  try {
+    // Validate authors data
+    if (!Array.isArray(db.authors)) {
+      throw new Error('Invalid authors data structure');
     }
-  } else {
-    res.status(405).end();
+
+    // Get and validate query parameters
+    const { size, columns } = req.query;
+
+    // Generate SVG with bounded author list
+    const authors = db.authors
+      .sort((a1, a2) => a2.commitsCount - a1.commitsCount)
+      .slice(0, MAX_AUTHORS);
+
+    const svg = await generateAuthorsSVG(authors, size, columns);
+
+    // Set security headers
+    res.setHeader('Content-Type', 'image/svg+xml');
+    res.setHeader('Cache-Control', 'public, max-age=3600');
+    res.setHeader('Content-Security-Policy', "default-src 'none'; img-src 'self' data:;");
+    res.setHeader('X-Content-Type-Options', 'nosniff');
+
+    return res.status(200).send(svg);
+  } catch (error) {
+    console.error('SVG generation error:', error);
+    return res.status(400).json({
+      error: 'Invalid request',
+      message: 'Unable to generate SVG'
+    });
   }
 }
