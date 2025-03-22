@@ -125,7 +125,9 @@ export default async function handler(req, res) {
 
     // Set security headers
     res.setHeader('Content-Type', 'image/svg+xml');
-    res.setHeader('Cache-Control', 'public, max-age=3600');
+    res.setHeader('Cache-Control', 'public, max-age=86400');
+    res.setHeader('CDN-Cache-Control', 'max-age=86400');
+    res.setHeader('Vercel-CDN-Cache-Control', 'max-age=86400');
     res.setHeader(
       'Content-Security-Policy',
       "default-src 'none'; img-src 'self' data:;"
