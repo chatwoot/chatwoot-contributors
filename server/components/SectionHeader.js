@@ -10,7 +10,7 @@ export default function SectionHeader({ title, backButtonLink }) {
       } text-center px-4 lg:px-12 pt-8 pb-8 text-brand-700`}
     >
       {backButtonLink && (
-        <a href={backButtonLink}>
+        <a href={backButtonLink} aria-label="Go back">
           <svg
             width="24"
             height="24"
