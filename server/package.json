@@ -2,6 +2,9 @@
   "name": "@chatwoot/contributors-server",
   "description": "Contributor Server",
   "version": "0.1.0",
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
