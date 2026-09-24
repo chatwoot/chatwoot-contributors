@@ -27,5 +27,8 @@
     "build": "yarn --cwd server/ build",
     "start": "yarn --cwd server/ start",
     "export": "yarn --cwd server/ export"
+  },
+  "dependencies": {
+    "next": "13.5.9"
   }
 }
